@@ -1,5 +1,5 @@
 # Summary
 
-* Asp.Net Core
+* [Asp.Net Core](aspnet_core.md)
    * Empty Template
 
