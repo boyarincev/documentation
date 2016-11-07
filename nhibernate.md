@@ -1,5 +1,7 @@
 # NHibernate
 
+[Много всякой информации по маппингам и запросам, собранной вместе](https://habrahabr.ru/post/265371/)
+
 ## Настройка маппинга сущностей
 - cascade="none" - значение по умолчанию. Hibernate будет игнорировать ассоциации, поэтому разруливать зависимости придется самостоятельно.
 
@@ -24,3 +26,6 @@
 [How to work with Fluence NHibernate](http://www.infoworld.com/article/3030212/application-development/how-to-work-with-fluent-nhibernate-in-c.html)
 [Fluent NHibernate Getting Started](https://github.com/jagregory/fluent-nhibernate/wiki/Getting-started)
 
+## Queries
+[http://www.martinwilley.com/net/code/nhibernate/query.html](http://www.martinwilley.com/net/code/nhibernate/query.html)
+[http://www.martinwilley.com/net/code/nhibernate/query2.html](http://www.martinwilley.com/net/code/nhibernate/query2.html)
