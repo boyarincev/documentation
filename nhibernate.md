@@ -13,5 +13,14 @@
 
 - cascade="delete-orphan" обозначает, что Hibernate будет удалять любые сущности, которые были удалены из ассоциации.
 
-http://samolisov.blogspot.com/2009/02/hibernate.html
+[Источник](http://samolisov.blogspot.com/2009/02/hibernate.html)
+
+## Fetch Strategies
+[Описывается как загружать связанные сущности](http://blog.raffaeu.com/archive/2014/07/04/nhibernate-fetch-strategies.aspx)
+[Fetch vs FetchMany difference](http://stackoverflow.com/questions/4394692/fetch-vs-fetchmany-in-nhibernate-linq-provider)
+[Проблема с дублирующимися записями при FetchMany и затем ThenFetchMany](http://stackoverflow.com/questions/6194734/nhibernate-thenfetchmany-is-retrieving-duplicate-children)
+
+## Fluent NHibernate
+[How to work with Fluence NHibernate](http://www.infoworld.com/article/3030212/application-development/how-to-work-with-fluent-nhibernate-in-c.html)
+[Fluent NHibernate Getting Started](https://github.com/jagregory/fluent-nhibernate/wiki/Getting-started)
 
