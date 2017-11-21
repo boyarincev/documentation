@@ -1,3 +1,7 @@
+---
+parent: ASP.NET Core
+---
+
 # Empty Template
 
 ## Добавление кодогенерации и миграций ЕФ.
