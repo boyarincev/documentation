@@ -1,6 +1,8 @@
 # Empty Template
+
 ## Добавление кодогенерации и миграций ЕФ.
-``` json 
+
+```json
    "dependencies": {
     "Microsoft.VisualStudio.Web.CodeGeneration.Tools": {
       "version": "1.0.0-preview1-final",
@@ -27,7 +29,9 @@
         "portable-net45+win8"
       ]
     }
-  },```
+  },
+```
 
-Кодогенерация доступна из контекстного меню.
+Кодогенерация доступна из контекстного меню.  
 Для миграций используется `dotnet ef` [команда](https://docs.efproject.net/en/latest/cli/dotnet.html).
+
