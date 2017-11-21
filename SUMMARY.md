@@ -4,5 +4,5 @@
 * [NHibernate](nhibernate.md)
 * [Asp.Net Core](aspnet_core.md)
   * [Empty Template](empty_template.md)
-  * [Entity Framework ASP.NET Core](entity_framework.md)
+  * [Entity Framework](entity_framework.md)
 
