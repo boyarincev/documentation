@@ -11,4 +11,5 @@
 * [GIT](git.md)
 * [FAR](far.md)
 * [Smart Home](smart-home.md)
+* [RaspberryPi](raspberrypi.md)
 
