@@ -10,4 +10,5 @@
 * [Qurtz.NET](qurtznet.md)
 * [GIT](git.md)
 * [FAR](far.md)
+* [Smart Home](smart-home.md)
 
