@@ -6,7 +6,7 @@
 
 [Инструкция по работе с psql](https://postgrespro.ru/docs/postgrespro/9.6/app-psql)
 
-[Кириллица в psql](http://www.iu5bmstu.ru/index.php/PostgreSQL_-_%D0%9A%D0%B8%D1%80%D0%B8%D0%BB%D0%BB%D0%B8%D1%86%D0%B0_%D0%B2_psql_%D0%BF%D0%BE%D0%B4_Windows)
+[Кириллица в psql](http://www.iu5bmstu.ru/index.php/PostgreSQL_-_Кириллица_в_psql_под_Windows)
 
 ### Управление сервером \(рестарт, старт, шутдаун\)
 
@@ -34,7 +34,7 @@ SELECT * FROM pg_stat_activity;
 
 [Остальные сборщики статистики PostgreSQL](https://www.postgresql.org/docs/9.6/static/monitoring-stats.html) \(pg stat activity выше пример одного из таких сборщиков\)
 
-[Системные функции](https://www.postgresql.org/docs/current/static/functions-info.html) дающие доступ к текущей сессии \(current\_database,_ _current\_query и т.д.\)
+[Системные функции](https://www.postgresql.org/docs/current/static/functions-info.html) дающие доступ к текущей сессии \(current\_database,\_ \_current\_query и т.д.\)
 
 ### Concurrency Control
 
@@ -59,7 +59,13 @@ C:\Program Files\PostgreSQL\data\logs\pg95
 ```
 show config_file --местоположение текущего конфиг файла
 show all --показать все текущие настройки постгреса
+```
 
+```
+SELECT pg_terminate_backend(pg_stat_activity.pid)
+ FROM pg_stat_activity
+ WHERE pg_stat_activity.datname = 'DataCollect-Concurrent-Stress-Test-4'
+   AND pid <> pg_backend_pid();
 ```
 
 
