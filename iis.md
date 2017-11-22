@@ -8,9 +8,9 @@
 
 [Конфигурация IIS](https://docs.microsoft.com/en-us/iis/configuration/), через конфиг файл
 
-[Tuning Application Pool](https://technet.microsoft.com/en-us/library/cc745955.aspx)
+[Tuning Application Pool](https://technet.microsoft.com/en-us/library/cc745955.aspx) - еще какая-то статья про тюнинг
 
 [IIS - просмотр текущих запросов](https://stackoverflow.com/questions/15621509/how-do-i-see-currently-executing-web-request-on-iis-8)
 
-[Таблица](http://jpelectron.com/sample/WWW%20and%20HTML/IIS-%20OS%20Version%20Limits.htm) показывающая сколько каждая ВиндоОсь может обрабатывать одновременных запросов в IIS
+[Таблица](http://jpelectron.com/sample/WWW and HTML/IIS- OS Version Limits.htm) показывающая сколько каждая ВиндоОсь может обрабатывать одновременных запросов в IIS
 
