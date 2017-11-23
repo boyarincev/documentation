@@ -12,4 +12,5 @@
 * [FAR](far.md)
 * [Smart Home](smart-home.md)
 * [RaspberryPi](raspberrypi.md)
+* [Application Architecture ](application-architecture.md)
 

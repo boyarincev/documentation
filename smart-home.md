@@ -4,9 +4,9 @@
 
 [Установка Domoticz на RaspberryPi](https://www.ixbt.com/live/kvazis/raspberry-pi-model-3-b---ustanavlivaem-sistemu-upravleniya-umnym-domom-domoticz.html) \(iXBT\)
 
-[Domoticz + Xiaomi](https://www.ixbt.com/live/kvazis/domoticz-xiaomi-stroim-umnyy-dom-vvedenie.html)
+[Domoticz + Xiaomi](https://www.ixbt.com/live/kvazis/domoticz-xiaomi-stroim-umnyy-dom-vvedenie.html) \(iXBT\)
 
-[Сводный пост, где много ссылок на обзоры гаджетов Xiaomi для умного дома](https://kva-zis.livejournal.com/19807.html)
+[Сводный пост, где много ссылок на обзоры гаджетов Xiaomi для умного дома](https://kva-zis.livejournal.com/19807.html) \(livejournal\)
 
 [Голосовой помошник Jasper](http://jasperproject.github.io/)
 
