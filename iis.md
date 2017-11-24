@@ -14,3 +14,5 @@
 
 [Таблица](http://jpelectron.com/sample/WWW and HTML/IIS- OS Version Limits.htm) показывающая сколько каждая ВиндоОсь может обрабатывать одновременных запросов в IIS
 
+[Вопрос на stackoverflow](https://stackoverflow.com/questions/2147351/does-iis-7-have-limit-of-simultaneous-requests) о количестве одновременно обрабатываемых запросов на IIS
+
