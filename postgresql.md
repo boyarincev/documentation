@@ -34,11 +34,11 @@ SELECT * FROM pg_stat_activity;
 
 [Остальные сборщики статистики PostgreSQL](https://www.postgresql.org/docs/9.6/static/monitoring-stats.html) \(pg stat activity выше пример одного из таких сборщиков\)
 
-[Системные функции](https://www.postgresql.org/docs/current/static/functions-info.html) дающие доступ к текущей сессии \(current\_database,\_ \_current\_query и т.д.\)
+[Системные функции](https://www.postgresql.org/docs/current/static/functions-info.html) дающие доступ к текущей сессии \(current\_database, current\_query и т.д.\)
 
 ### Concurrency Control
 
-[Concurrency Control](https://www.postgresql.org/docs/9.6/static/mvcc.html) в PostgreSQL
+[Concurrency Control](https://www.postgresql.org/docs/9.6/static/mvcc.html) в PostgreSQL - раздел официальной документации про транзакции и блокировки.
 
 ### Путь до БД сервера
 
@@ -70,7 +70,7 @@ SELECT pg_terminate_backend(pg_stat_activity.pid)
 
 ### Убить все коннекты к базе
 
-You can use[pg\_terminate\_backend\(\)](http://www.postgresql.org/docs/current/static/functions-admin.html)to kill a connection. You have to be superuser to use this function. This works on all operating systems the same.
+You can use [pg\_terminate\_backend\(\)](http://www.postgresql.org/docs/current/static/functions-admin.html) to kill a connection. You have to be superuser to use this function. This works on all operating systems the same.
 
 ```
 SELECT
@@ -88,7 +88,7 @@ AND
 Before executing this query, you have to [REVOKE](http://www.postgresql.org/docs/current/interactive/sql-revoke.html) the CONNECT privileges to avoid new connections:
 
 ```
-REVOKE CONNECT ON DATABASE dbname FROM PUBLIC, username;
+REVOKE CONNECT ON DATABASE dbname FROM PUBLIC, username; --это навсегда?
 ```
 
 [оригинал](https://stackoverflow.com/questions/5108876/kill-a-postgresql-session-connection)
