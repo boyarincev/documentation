@@ -68,5 +68,28 @@ SELECT pg_terminate_backend(pg_stat_activity.pid)
    AND pid <> pg_backend_pid();
 ```
 
+### Убить все коннекты к базе
 
+You can use[pg\_terminate\_backend\(\)](http://www.postgresql.org/docs/current/static/functions-admin.html)to kill a connection. You have to be superuser to use this function. This works on all operating systems the same.
+
+```
+SELECT
+    pg_terminate_backend(pid)
+FROM
+    pg_stat_activity 
+WHERE
+-- don't kill my own connection!
+    pid <> pg_backend_pid()
+-- don't kill the connections to other databases
+AND
+    datname = 'database_name';
+```
+
+Before executing this query, you have to [REVOKE](http://www.postgresql.org/docs/current/interactive/sql-revoke.html)the CONNECT privileges to avoid new connections:
+
+```
+REVOKE CONNECT ON DATABASE dbname FROM PUBLIC, username;
+```
+
+[оригинал](https://stackoverflow.com/questions/5108876/kill-a-postgresql-session-connection)
 
