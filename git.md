@@ -24,5 +24,11 @@ git branch --no-merged master
 git cherry -v master <branch>
 ```
 
+PUSH локальной ветки в удаленную:
 
+```
+git push <remote-name> <local-branch-name>:<remote-branch-name>
+```
+
+[полный ответ на stackoverflow](https://stackoverflow.com/questions/1519006/how-do-you-create-a-remote-git-branch)
 
