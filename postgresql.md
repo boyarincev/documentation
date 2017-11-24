@@ -4,6 +4,8 @@
 
 ### Psql
 
+Консольная утилита для доступа к базе \(sql запросы\).
+
 [Инструкция по работе с psql](https://postgrespro.ru/docs/postgrespro/9.6/app-psql)
 
 [Кириллица в psql](http://www.iu5bmstu.ru/index.php/PostgreSQL_-_Кириллица_в_psql_под_Windows)
