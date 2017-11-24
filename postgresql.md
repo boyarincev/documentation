@@ -85,7 +85,7 @@ AND
     datname = 'database_name';
 ```
 
-Before executing this query, you have to [REVOKE](http://www.postgresql.org/docs/current/interactive/sql-revoke.html)the CONNECT privileges to avoid new connections:
+Before executing this query, you have to [REVOKE](http://www.postgresql.org/docs/current/interactive/sql-revoke.html) the CONNECT privileges to avoid new connections:
 
 ```
 REVOKE CONNECT ON DATABASE dbname FROM PUBLIC, username;
