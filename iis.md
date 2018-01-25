@@ -1,5 +1,9 @@
 # IIS
 
+### Права на папку
+
+IIS AppPool\DefaultAppPool \(DefaultAppPool - название пула\)
+
 [Cчетчики производительности ASP.NET \(во многом устарело\)](https://msdn.microsoft.com/en-us/library/ms972959.aspx)
 
 [Еще счетчики производительности ASP.NET](https://msdn.microsoft.com/en-us/library/fxk122b4.aspx) \(тоже устаревшее\)
