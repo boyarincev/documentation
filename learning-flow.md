@@ -32,19 +32,11 @@
 
 * [ ] [Entity Framework query slow, but same SQL in SqlQuery is fast](https://stackoverflow.com/questions/15767803/entity-framework-query-slow-but-same-sql-in-sqlquery-is-fast)
 
-Ограничения размеров коллекций и массивов
+### Ограничения размеров коллекций и массивов
 
 * [ ] [List size limitation in C\#](https://stackoverflow.com/questions/7885294/list-size-limitation-in-c-sharp)
 
 * [ ] [What is the Maximum Size that an Array can hold?](https://stackoverflow.com/questions/1391672/what-is-the-maximum-size-that-an-array-can-hold)
-
-  
-  
-  
-  
-  
-  
-
 
 
 
