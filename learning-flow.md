@@ -22,5 +22,29 @@
 * [ ] [**Fixing Memory Leaks in AngularJS and other JavaScript Applications**](http://www.dwmkerr.com/fixing-memory-leaks-in-angularjs-applications/)** - какая-то здоровая статья, про утечки памяти в Angular !!! нужно прочитать**
 * [ ] [Notes On AngularJS Scope Life-Cycle](http://onehungrymind.com/notes-on-angularjs-scope-life-cycle/) - небольшая статья про digest цикл, вотчеры и apply 
 
+### Ограничения запросов SQL
+
+* [ ] [SQLCommand ExecuteNonQuery Maximum CommandText Length?](https://stackoverflow.com/questions/21390537/sqlcommand-executenonquery-maximum-commandtext-length)
+
+* [ ] [PostgreSQL - max number of parameters in “IN” clause?](https://stackoverflow.com/questions/1009706/postgresql-max-number-of-parameters-in-in-clause)
+
+* [ ] [Is SQL IN bad for performance?](https://stackoverflow.com/questions/1013797/is-sql-in-bad-for-performance)
+
+* [ ] [Entity Framework query slow, but same SQL in SqlQuery is fast](https://stackoverflow.com/questions/15767803/entity-framework-query-slow-but-same-sql-in-sqlquery-is-fast)
+
+Ограничения размеров коллекций и массивов
+
+* [ ] [List size limitation in C\#](https://stackoverflow.com/questions/7885294/list-size-limitation-in-c-sharp)
+
+* [ ] [What is the Maximum Size that an Array can hold?](https://stackoverflow.com/questions/1391672/what-is-the-maximum-size-that-an-array-can-hold)
+
+  
+  
+  
+  
+  
+  
+
+
 
 
