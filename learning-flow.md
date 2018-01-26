@@ -38,5 +38,9 @@
 
 * [ ] [What is the Maximum Size that an Array can hold?](https://stackoverflow.com/questions/1391672/what-is-the-maximum-size-that-an-array-can-hold)
 
+### Несколько ResultSet за один запрос
+
+* [ ] [How do I return multiple result sets with SqlCommand?](https://stackoverflow.com/questions/12715620/how-do-i-return-multiple-result-sets-with-sqlcommand)
+
 
 
