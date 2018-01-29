@@ -7,7 +7,7 @@
 
 * [ ] [**Memory Management**](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Memory_Management)** в Javascript - Must Read, статья с MDN**
 
-* [ ] [**Concurrency model and Event Loop in Javascript**](https://developer.mozilla.org/en-US/docs/Web/JavaScript/EventLoop)** - Must Read, статья с MDN**
+* [x] [**Concurrency model and Event Loop in Javascript**](https://developer.mozilla.org/en-US/docs/Web/JavaScript/EventLoop)** - Must Read, статья с MDN**
 
 ### Javascript
 
