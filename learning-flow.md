@@ -42,5 +42,9 @@
 
 * [ ] [How do I return multiple result sets with SqlCommand?](https://stackoverflow.com/questions/12715620/how-do-i-return-multiple-result-sets-with-sqlcommand)
 
+### Шифрование
+
+* [ ] [Шпоры по сертификатам X.509](https://habrahabr.ru/post/346798/)
+
 
 
