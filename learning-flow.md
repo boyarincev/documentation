@@ -46,5 +46,9 @@
 
 * [ ] [Шпоры по сертификатам X.509](https://habrahabr.ru/post/346798/)
 
+### Entity Framework
+
+[Прямой SQL в EntityFramework. Теперь со строгой типизацией](https://habrahabr.ru/post/347820/)
+
 
 
