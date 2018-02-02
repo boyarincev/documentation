@@ -12,6 +12,7 @@
 ### Javascript
 
 * [ ] [Iterators and generators in Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Iterators_and_generators) - MDN
+* [ ] [Побитовые операции](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Operators/Bitwise_Operators)
 
 ### Утечки памяти в Angular
 
@@ -48,7 +49,34 @@
 
 ### Entity Framework
 
-[Прямой SQL в EntityFramework. Теперь со строгой типизацией](https://habrahabr.ru/post/347820/)
+* [ ] [Прямой SQL в EntityFramework. Теперь со строгой типизацией](https://habrahabr.ru/post/347820/)
+
+### Deep Learning
+
+* [ ] [Бесплатная GPU Tesla K80 для ваших экспериментов с нейросетями](https://habrahabr.ru/post/348058/)
+
+### SQL
+
+* [ ] [SQL ключи во всех подробностях](https://habrahabr.ru/company/oleg-bunin/blog/348172/)
+
+### PostgreSQL
+
+* [ ] [Рекурсивные запросы в PostgreSQL \(WITH RECURSIVE\)](https://habrahabr.ru/post/269497/)
+
+* [ ] [Модуль для работы с деревом ltree](https://www.postgresql.org/docs/9.4/static/ltree.html)
+* [ ] [With Queries](https://www.postgresql.org/docs/8.4/static/queries-with.html)
+
+### Архитектура
+
+* [ ] [CQRS. Факты и заблуждения](https://habrahabr.ru/post/347908/)
+
+### С\#
+
+* [ ] [Исследуем сопоставление с образцом в C\# 7](https://habrahabr.ru/post/347916/)
+
+### Профилирование приложений
+
+* [ ] [CodeTrack](https://getcodetrack.wordpress.com/)
 
 
 
