@@ -71,7 +71,7 @@
 
 * [ ] [CQRS. Факты и заблуждения](https://habrahabr.ru/post/347908/)
 
-### СSharp
+### Сsharp
 
 * [ ] [Исследуем сопоставление с образцом в C\# 7](https://habrahabr.ru/post/347916/)
 
