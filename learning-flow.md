@@ -5,7 +5,7 @@
 * [x] [Best practices for reducing Garbage Collector activity in Javascript](https://stackoverflow.com/questions/18364175/best-practices-for-reducing-garbage-collector-activity-in-javascript) - много советов как избежать сборку мусора
 * [ ] [Javascript and Garbage collection](https://stackoverflow.com/questions/18800440/javascript-and-garbage-collection) - небольшой ответ про то как избегать сборки мусора
 
-* [ ] [**Memory Management**](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Memory_Management)** в Javascript - Must Read, статья с MDN**
+* [x] [**Memory Management**](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Memory_Management)** в Javascript - Must Read, статья с MDN**
 
 * [x] [**Concurrency model and Event Loop in Javascript**](https://developer.mozilla.org/en-US/docs/Web/JavaScript/EventLoop)** - Must Read, статья с MDN**
 
@@ -78,6 +78,4 @@
 ### Профилирование приложений
 
 * [ ] [CodeTrack](https://getcodetrack.wordpress.com/)
-
-
 
