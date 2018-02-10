@@ -13,6 +13,11 @@
 
 * [ ] [Iterators and generators in Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Iterators_and_generators) - MDN
 * [ ] [Побитовые операции](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Operators/Bitwise_Operators)
+* [ ] [Рефакторинг салона видеопроката на JavaScript](https://habrahabr.ru/post/320280/)
+
+### Angular
+
+[Angular 1.5: Компоненты](https://habrahabr.ru/post/277087/)
 
 ### Утечки памяти в Angular
 
@@ -39,7 +44,7 @@
 
 * [ ] [What is the Maximum Size that an Array can hold?](https://stackoverflow.com/questions/1391672/what-is-the-maximum-size-that-an-array-can-hold)
 
-### Несколько ResultSet за один запрос
+### ADO.NET
 
 * [ ] [How do I return multiple result sets with SqlCommand?](https://stackoverflow.com/questions/12715620/how-do-i-return-multiple-result-sets-with-sqlcommand)
 
@@ -50,6 +55,9 @@
 ### Entity Framework
 
 * [ ] [Прямой SQL в EntityFramework. Теперь со строгой типизацией](https://habrahabr.ru/post/347820/)
+* [ ] [Fastest Way of Inserting in Entity Framework](https://stackoverflow.com/questions/5940225/fastest-way-of-inserting-in-entity-framework)
+
+* [ ] [Improving bulk insert performance in Entity framework](https://stackoverflow.com/questions/6107206/improving-bulk-insert-performance-in-entity-framework)
 
 ### Deep Learning
 
@@ -70,6 +78,11 @@
 ### Архитектура
 
 * [ ] [CQRS. Факты и заблуждения](https://habrahabr.ru/post/347908/)
+* [ ] [Строим распредёленное реактивное приложение и решаем задачи согласованности](https://habrahabr.ru/company/2gis/blog/348510/)
+
+* [ ] [Эталонное приложение на базе контейнеров и архитектуры микросервисов](https://habrahabr.ru/company/microsoft/blog/346746/)
+
+* [ ] [Domain Driven Design на практике](https://habrahabr.ru/post/334126/)
 
 ### Сsharp
 
@@ -78,4 +91,15 @@
 ### Профилирование приложений
 
 * [ ] [CodeTrack](https://getcodetrack.wordpress.com/)
+
+### Верстка
+
+* [ ] [Современный CSS для динозавров](https://habrahabr.ru/post/348500/)
+* [ ] [**sakura**](https://github.com/oxalorg/sakura) - минималистичный css фреймворк
+
+### Математика
+
+* [ ] [Как читать математику](https://habrahabr.ru/post/346228/)
+
+
 
