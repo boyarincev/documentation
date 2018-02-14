@@ -38,6 +38,8 @@
 
 * [ ] [Entity Framework query slow, but same SQL in SqlQuery is fast](https://stackoverflow.com/questions/15767803/entity-framework-query-slow-but-same-sql-in-sqlquery-is-fast)
 
+* [ ] [SQL WHERE ID IN \(id1, id2, …, idn\)](https://stackoverflow.com/questions/5803472/sql-where-id-in-id1-id2-idn)
+
 ### Ограничения размеров коллекций и массивов
 
 * [ ] [List size limitation in C\#](https://stackoverflow.com/questions/7885294/list-size-limitation-in-c-sharp)
