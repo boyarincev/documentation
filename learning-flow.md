@@ -77,6 +77,16 @@
 
 * [ ] [With Queries](https://www.postgresql.org/docs/8.4/static/queries-with.html)
 
+* [ ] [Производительность PostgreSQL](https://www.postgresql.org/docs/9.6/static/performance-tips.html) - **MR**
+
+* [ ] [PostgreSQL Concurrency Issues](https://www.postgresql.org/files/developer/concurrency.pdf) - какая-то страння презентация 2002 года, разбираются вопросы транзакций и производительности, стоит вчитаться.
+
+* [ ] [14.1. Using EXPLAIN](https://www.postgresql.org/docs/9.6/static/using-explain.html)
+
+* [ ] [Chapter 13. Concurrency Control](https://www.postgresql.org/docs/9.6/static/mvcc.html)
+
+* [ ] [15.1. How Parallel Query Works](https://www.postgresql.org/docs/9.6/static/how-parallel-query-works.html)
+
 ### Архитектура
 
 * [ ] [CQRS. Факты и заблуждения](https://habrahabr.ru/post/347908/)
@@ -103,5 +113,55 @@
 
 * [ ] [Как читать математику](https://habrahabr.ru/post/346228/)
 
+### Идеи
 
+Сравнить производительность двух операций:
+
+Object -&gt; IList - с упаковкой
+
+Object -&gt; IEnumerable&lt;object&gt; - есть упаковка?
+
+что быстрее?
+
+Нужно прочитать главы из книги про Перфоманс.
+
+
+
+Get c Body
+
+https://stackoverflow.com/questions/978061/http-get-with-request-body
+
+https://stackoverflow.com/questions/17094496/what-would-a-body-in-an-http-get-look-like?noredirect=1&lq=1
+
+
+
+Entity Framework быстрый апдейт
+
+https://stackoverflow.com/questions/44194877/how-to-bulk-update-records-in-entity-framework
+
+
+
+PostgreSQL INSERT с RETURNING - гарантированность возвращяемого порядка.
+
+https://stackoverflow.com/questions/5439293/is-insert-returning-guaranteed-to-return-things-in-the-right-order
+
+https://www.postgresql.org/docs/9.5/static/sql-insert.html
+
+
+
+Командная оболочка cmder
+
+http://cmder.net/
+
+
+
+Настроить Perfomance Counets
+
+http://www.npgsql.org/doc/performance.html\#performance-counters
+
+
+
+Сакура фреймворк
+
+https://github.com/oxalorg/sakura
 
