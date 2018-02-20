@@ -115,7 +115,7 @@
 
 ### Идеи
 
-Сравнить производительность двух операций:
+Сравнить производительность двух операций:
 
 Object -&gt; IList - с упаковкой
 
@@ -125,43 +125,35 @@ Object -&gt; IEnumerable&lt;object&gt; - есть упаковка?
 
 Нужно прочитать главы из книги про Перфоманс.
 
+Как пример можно привести пример как измерять перфоманс.
 
+Почему не создается лист интов размером инт.МаксВелью?
 
-Get c Body
+Get c Body
 
-https://stackoverflow.com/questions/978061/http-get-with-request-body
+[https://stackoverflow.com/questions/978061/http-get-with-request-body](https://stackoverflow.com/questions/978061/http-get-with-request-body)
 
-https://stackoverflow.com/questions/17094496/what-would-a-body-in-an-http-get-look-like?noredirect=1&lq=1
-
-
+[https://stackoverflow.com/questions/17094496/what-would-a-body-in-an-http-get-look-like?noredirect=1&lq=1](https://stackoverflow.com/questions/17094496/what-would-a-body-in-an-http-get-look-like?noredirect=1&lq=1)
 
 Entity Framework быстрый апдейт
 
-https://stackoverflow.com/questions/44194877/how-to-bulk-update-records-in-entity-framework
-
-
+[https://stackoverflow.com/questions/44194877/how-to-bulk-update-records-in-entity-framework](https://stackoverflow.com/questions/44194877/how-to-bulk-update-records-in-entity-framework)
 
 PostgreSQL INSERT с RETURNING - гарантированность возвращяемого порядка.
 
-https://stackoverflow.com/questions/5439293/is-insert-returning-guaranteed-to-return-things-in-the-right-order
+[https://stackoverflow.com/questions/5439293/is-insert-returning-guaranteed-to-return-things-in-the-right-order](https://stackoverflow.com/questions/5439293/is-insert-returning-guaranteed-to-return-things-in-the-right-order)
 
-https://www.postgresql.org/docs/9.5/static/sql-insert.html
-
-
+[https://www.postgresql.org/docs/9.5/static/sql-insert.html](https://www.postgresql.org/docs/9.5/static/sql-insert.html)
 
 Командная оболочка cmder
 
-http://cmder.net/
-
-
+[http://cmder.net/](http://cmder.net/)
 
 Настроить Perfomance Counets
 
-http://www.npgsql.org/doc/performance.html\#performance-counters
-
-
+[http://www.npgsql.org/doc/performance.html\#performance-counters](http://www.npgsql.org/doc/performance.html#performance-counters)
 
 Сакура фреймворк
 
-https://github.com/oxalorg/sakura
+[https://github.com/oxalorg/sakura](https://github.com/oxalorg/sakura)
 
