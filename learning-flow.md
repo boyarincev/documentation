@@ -157,3 +157,9 @@ PostgreSQL INSERT с RETURNING - гарантированность возвра
 
 [https://github.com/oxalorg/sakura](https://github.com/oxalorg/sakura)
 
+Использование окна C\# Interactive
+
+Проверка группы строк на идентиность.
+
+
+
