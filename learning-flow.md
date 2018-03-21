@@ -64,6 +64,7 @@
 ### Deep Learning
 
 * [ ] [Бесплатная GPU Tesla K80 для ваших экспериментов с нейросетями](https://habrahabr.ru/post/348058/)
+* [ ] [Курс от курсеры](https://www.deeplearning.ai/)
 
 ### SQL
 
@@ -161,9 +162,9 @@ PostgreSQL INSERT с RETURNING - гарантированность возвра
 
 Проверка группы строк на идентиность.
 
-https://stackoverflow.com/questions/8094867/good-gethashcode-override-for-list-of-foo-objects-respecting-the-order
+[https://stackoverflow.com/questions/8094867/good-gethashcode-override-for-list-of-foo-objects-respecting-the-order](https://stackoverflow.com/questions/8094867/good-gethashcode-override-for-list-of-foo-objects-respecting-the-order)
 
-https://stackoverflow.com/questions/263400/what-is-the-best-algorithm-for-an-overridden-system-object-gethashcode?noredirect=1&lq=1
+[https://stackoverflow.com/questions/263400/what-is-the-best-algorithm-for-an-overridden-system-object-gethashcode?noredirect=1&lq=1](https://stackoverflow.com/questions/263400/what-is-the-best-algorithm-for-an-overridden-system-object-gethashcode?noredirect=1&lq=1)
 
-https://stackoverflow.com/questions/10567450/implement-gethashcode-for-objects-that-contain-collections
+[https://stackoverflow.com/questions/10567450/implement-gethashcode-for-objects-that-contain-collections](https://stackoverflow.com/questions/10567450/implement-gethashcode-for-objects-that-contain-collections)
 
