@@ -18,5 +18,5 @@
 * [Markup](markup.md)
 * [Learning Flow](learning-flow.md)
 * [Кофе](kofe.md)
-* Learning Flow Курсы
+* [Learning Flow Курсы](learning-flow-kursi.md)
 
