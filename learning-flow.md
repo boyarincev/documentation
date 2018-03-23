@@ -110,6 +110,11 @@
 * [ ] [Современный CSS для динозавров](https://habrahabr.ru/post/348500/)
 * [ ] [**sakura**](https://github.com/oxalorg/sakura) - минималистичный css фреймворк
 
+### WEB
+
+* [ ] [Учебник HTTP на MDN](https://developer.mozilla.org/ru/docs/Web/HTTP)
+* [ ] [CORS на MDN](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)
+
 ### Математика
 
 * [ ] [Как читать математику](https://habrahabr.ru/post/346228/)

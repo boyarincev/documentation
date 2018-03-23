@@ -8,3 +8,11 @@
 
 [FAQ кофе coffeewave](https://docs.google.com/document/d/1oJRel_2eSNReUwKShNUV0t8esBRWVxV0S4dm0rD_lo4/edit?usp=sharing)
 
+### Производители ручных кофемолок
+
+[Kinu](https://kinugrinders.com/)
+
+[Lido](http://www.oehandgrinders.com/OE-Manual-Coffee-Grinders_c_1.html)
+
+[Helor](https://helor-coffee.com/buy-now/)
+
