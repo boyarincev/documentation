@@ -109,10 +109,15 @@
 
 * [ ] [Современный CSS для динозавров](https://habrahabr.ru/post/348500/)
 * [ ] [**sakura**](https://github.com/oxalorg/sakura) - минималистичный css фреймворк
+* [ ] [30 секунд CSS](https://habrahabr.ru/company/mailru/blog/350160/)
 
 ### Математика
 
 * [ ] [Как читать математику](https://habrahabr.ru/post/346228/)
+
+### Производительность БД
+
+* [ ] [Три аспекта оптимизации \(БД и ПО\)](https://habrahabr.ru/post/349910/)
 
 ### Идеи
 
