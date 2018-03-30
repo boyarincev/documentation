@@ -178,3 +178,9 @@ PostgreSQL INSERT с RETURNING - гарантированность возвра
 
 [https://stackoverflow.com/questions/10567450/implement-gethashcode-for-objects-that-contain-collections](https://stackoverflow.com/questions/10567450/implement-gethashcode-for-objects-that-contain-collections)
 
+Какое исключение нужно бросать в свиче по енуму
+
+https://stackoverflow.com/questions/3349540/throwing-exceptions-in-switch-statements-when-no-specified-case-can-be-handled
+
+https://stackoverflow.com/questions/13645149/what-is-the-correct-exception-to-throw-for-unhandled-enum-values
+
