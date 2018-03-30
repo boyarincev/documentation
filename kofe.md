@@ -16,3 +16,7 @@
 
 [Helor](https://helor-coffee.com/buy-now/)
 
+### Кофемашины
+
+https://stoll-espresso.ru/articles/198229 - про кофемашины
+
