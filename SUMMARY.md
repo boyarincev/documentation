@@ -19,4 +19,5 @@
 * [Learning Flow](learning-flow.md)
 * [Кофе](kofe.md)
 * [Learning Flow Курсы](learning-flow-kursi.md)
+* [Drones](drones.md)
 
