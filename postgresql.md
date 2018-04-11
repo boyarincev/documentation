@@ -97,9 +97,9 @@ REVOKE CONNECT ON DATABASE dbname FROM PUBLIC, username; --это навсегд
 
 [оригинал](https://stackoverflow.com/questions/5108876/kill-a-postgresql-session-connection)
 
-
-
 ### Работа с sequence
+
+[Все функции в документации](https://www.postgresql.org/docs/9.1/static/functions-sequence.html)
 
 ```
 SELECT nextval('data."dim_Perfomance_Load_Dimension_49_id"');
@@ -107,10 +107,14 @@ SELECT nextval('data."dim_Perfomance_Load_Dimension_49_id"');
 
 ### Работа с транзакциями
 
+[Раздел документации про транзакции](https://www.postgresql.org/docs/9.6/static/tutorial-transactions.html)
+
+[Презентация про транзакции](https://www.postgresql.org/files/developer/transactions.pdf) - которую я всё не могу прочитать
+
 Посмотреть что есть заблокированного в транзакциях есть сейчас
 
 ```
-SELECT * FROM pg_locks 
+SELECT * FROM pg_locks
 ```
 
 [pg\_locks](https://www.postgresql.org/docs/9.5/static/view-pg-locks.html)
@@ -133,6 +137,10 @@ SELECT * FROM pg_class WHERE oid = 359894
 Пример работы с транзакцией
 
 Начинаем транзакцию и лочим таблицу
+
+[LOCK](https://postgrespro.ru/docs/postgresql/9.6/sql-lock)
+
+[Явное блокирование](https://www.postgresql.org/docs/9.5/static/explicit-locking.html)
 
 ```
 BEGIN;
@@ -158,8 +166,6 @@ COMMIT;
 ```
 INSERT INTO data."dim_Perfomance_Load_Dimension_49" ("Id", "SortOrder") VALUES (4, 4)
 ```
-
-
 
 
 
