@@ -97,3 +97,69 @@ REVOKE CONNECT ON DATABASE dbname FROM PUBLIC, username; --это навсегд
 
 [оригинал](https://stackoverflow.com/questions/5108876/kill-a-postgresql-session-connection)
 
+
+
+### Работа с sequence
+
+```
+SELECT nextval('data."dim_Perfomance_Load_Dimension_49_id"');
+```
+
+### Работа с транзакциями
+
+Посмотреть что есть заблокированного в транзакциях есть сейчас
+
+```
+SELECT * FROM pg_locks 
+```
+
+[pg\_locks](https://www.postgresql.org/docs/9.5/static/view-pg-locks.html)
+
+Вывести больше информации о соединении в котором эта транзакция открыта
+
+```
+SELECT * FROM pg_locks pl LEFT JOIN pg_stat_activity psa
+    ON pl.pid = psa.pid;
+```
+
+колонка "relation" в результирующей таблице указывает на таблицу [pg\_class](https://www.postgresql.org/docs/9.5/static/catalog-pg-class.html) в которой можно посмотреть, что за ресурс заблокирован.
+
+Запрос в pgclass по идентификатору из таблицы pg\_locks
+
+```
+SELECT * FROM pg_class WHERE oid = 359894
+```
+
+Пример работы с транзакцией
+
+Начинаем транзакцию и лочим таблицу
+
+```
+BEGIN;
+LOCK TABLE data."dim_Perfomance_Load_Dimension_49" IN EXCLUSIVE MODE;
+```
+
+В другом окне пытаемся вставить в нее строку
+
+```
+INSERT INTO data."dim_Perfomance_Load_Dimension_49" ("Id", "SortOrder") VALUES (4, 4)
+```
+
+Так как таблица заблокирована, соединение будет висеть
+
+Завершаем транзакцию в первом окне
+
+```
+COMMIT;
+```
+
+Снова пытаемся заинсертить
+
+```
+INSERT INTO data."dim_Perfomance_Load_Dimension_49" ("Id", "SortOrder") VALUES (4, 4)
+```
+
+
+
+
+
