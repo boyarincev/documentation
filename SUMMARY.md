@@ -22,4 +22,5 @@
 * [Drones](drones.md)
 * [ASP.NET WEB API](aspnet-web-api.md)
 * [Еда](eda.md)
+* [Windows Server](windows-server.md)
 
