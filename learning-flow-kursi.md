@@ -10,17 +10,25 @@
 * [ ] Книга по Машинному обучению \(в библиотеке\)
 * [ ] Pluralsight [Understanding Machine Learning with Python](https://app.pluralsight.com/library/courses/python-understanding-machine-learning)
 
+* [ ] Pluralsight [Understanding Machine Learning with R](https://app.pluralsight.com/library/courses/r-understanding-machine-learning)
+
+* [ ] [http://course.fast.ai/](http://course.fast.ai/)
+
+* [ ] [http://course.fast.ai/part2.html](http://course.fast.ai/part2.html)
+
+Я как-то уже рассказывал, что считаю курс “practical deep learning for coders” лучшим в своем жанре. Так вот, вышла вторая его часть и она классная. Если вдруг вы хотите заниматься нейронными сетями, вы программист и почему-то  еще не прошли этот курс - бегите, он бесплатный и правда отличный, без булшита. Да, конечно настоящим математикам этот курс не годится, он для тех кто как я - слегка программист, который хочет решать свои задачи
+
+* [ ] От новичка до профи в машинном обучении за 3 месяца https://proglib.io/p/ml-3months/
+
+### Python
+
+* [ ] Курс Степика [Python: основы и применение](https://stepik.org/course/512)
+
 * [ ] Pluralsight [Python Fundamentals](https://app.pluralsight.com/library/courses/python-fundamentals)
 
 * [ ] Pluralsight [Python: Getting Started](https://app.pluralsight.com/library/courses/python-getting-started)
 
-* [ ] Pluralsight [Understanding Machine Learning with R](https://app.pluralsight.com/library/courses/r-understanding-machine-learning)
-
-* [ ] http://course.fast.ai/
-
-* [ ] http://course.fast.ai/part2.html 
-
-Я как-то уже рассказывал, что считаю курс “practical deep learning for coders” лучшим в своем жанре. Так вот, вышла вторая его часть и она классная. Если вдруг вы хотите заниматься нейронными сетями, вы программист и почему-то  еще не прошли этот курс - бегите, он бесплатный и правда отличный, без булшита. Да, конечно настоящим математикам этот курс не годится, он для тех кто как я - слегка программист, который хочет решать свои задачи 
+* [ ] [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) Альберта Свейгарта – один из лучших учебников по Python с задачами, направленными на облегчение ежедневной рутины. Книгу в вышеуказанном темпе можно пройти за 4 недели, читая и делая задания одной главы в день. Либо можно ориентироваться на объем книги: 600 страниц это соответственно 150 страниц в неделю или 20-25 страниц в день.
 
 ### Операционные системы
 
@@ -103,7 +111,7 @@
 
 * [ ] Pluralsight [WCF by Example](https://app.pluralsight.com/library/courses/wcf-by-example)
 
-### Алгоритмы и Математика
+### Computer Science, Алгоритмы и Математика
 
 * [ ] Книга Карьера Программиста 150 заданий \(в библиотеке\)
 * [ ] Книга Алгоритмы Вводный курс \(в библиотеке\)
@@ -134,7 +142,35 @@
 
   * [ ] [Алгоритмы: теория и практика. Структуры данных](https://stepik.org/course/1547)
 
-* [ ] Курс Степика [Python: основы и применение](https://stepik.org/course/512)
+* [ ] Структуры данных \(6 недель\)
+
+  Чтобы разбираться в связных списках, очередях, множествах, хэш-таблицах, бинарных деревьях и других структурах данных, пройдите[курс университета Сан Диего](https://www.edx.org/course/data-structures-fundamentals-uc-san-diegox-algs201x), в создании которого принял участие Михал Левин, читающий в Школе анализа данных курс «Алгоритмы и структуры данных поиска».
+
+* [ ] Книга Imposter Handbook \(в библиотеке pdf\)
+
+* [ ] Курсы Степика [Введение в архитектуру ЭВМ. Элементы операционных систем.](https://stepik.org/course/253)
+
+* [ ] Книга Структура и интерпретация компьютерных программ \(в библиотеке\)
+
+* [ ] Курс Математика для Computer Science \(8 недель\)
+
+  В освоении вопросов математической индукции, теории чисел, теории графов и прочих математических основ самообразования в Computer Science поможет соответствующий[курс MIT](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/), состоящий из 25 лекций и 12 контрольных работ.[Полный конспект курса](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/readings/MIT6_042JF10_notes.pdf)состоит из 557 страниц, соответственно в среднем нужно проходить около 10 страниц в день и решать 1-2 контрольные в неделю.
+
+* [ ] Алгоритмы \(8 недель\)
+
+  Одним из лучших курсов по алгоритмам является[курс MIT 6.006](https://courses.csail.mit.edu/6.006/fall11/notes.shtml), состоящий из 8 разделов: 24 лекций и 7 подборок задач. Соответственно каждой теме можно уделить одну неделю. В качестве вспомогательно курса по алгоритмам и структурам данных на русском языке вы можете воспользоваться[этим видеокурсом](https://proglib.io/p/data-structure-algorithms/). Кроме того, мы подготовили соответствующую подборки[книг](https://proglib.io/p/algorythm-books/), [веб-сайтов, онлайн-курсов и видеоматериалов](https://proglib.io/p/awesome-algorithms/).
+
+* [ ] Обработка текстов на естественном языке \(4 недели\)
+
+  Одним из интерфейсов взаимодействия человека с миров является язык, на котором человек говорит. Для приобретения навыков в обработке строковых объектов и файлов, написанных на естественном языке, пройдите четырехнедельный курс Мичиганского университета[Applied Text Mining in Python](https://www.coursera.org/learn/python-text-mining).
+
+* [ ] Машинное обучение \(10 недель\)
+
+  Один из вариантов разобраться в главных особенностях машинного обучения – пройти десятинедельный курс[Python for Data Science](https://www.edx.org/course/python-for-data-science). Еще один вариант, который мы рассматривали ранее – план [от новичка до профи в машинном обучении за 3 месяца](https://proglib.io/p/ml-3months/), требующий соответственно 12 недель.
+
+* [ ] Компьютерное зрение \(6 недель\)
+
+  [Вводный курс Georgia Tech](https://www.udacity.com/course/introduction-to-computer-vision--ud810)представляет собой введение в компьютерное зрение, включая основы формирования изображений, обнаружение и сопоставление образов, отслеживание движения и т. д.
 
 ### Javascript
 
@@ -196,13 +232,7 @@
 
 * [ ] Книга Чистый Код Роберт Мартин \(в библиотеке\)
 
-### Computer Science
-
-* [ ] Книга Imposter Handbook \(в библиотеке pdf\)
-
-* [ ] Курсы Степика [Введение в архитектуру ЭВМ. Элементы операционных систем.](https://stepik.org/course/253)
-
-* [ ] Книга Структура и интерпретация компьютерных программ \(в библиотеке\)
+### 
 
 ### Программирование Архитектура
 
