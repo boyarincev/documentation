@@ -61,10 +61,6 @@
 
 * [ ] [Бесплатная GPU Tesla K80 для ваших экспериментов с нейросетями](https://habrahabr.ru/post/348058/)
 
-### SQL
-
-* [ ] [SQL ключи во всех подробностях](https://habrahabr.ru/company/oleg-bunin/blog/348172/)
-
 ### PostgreSQL
 
 * [ ] [Рекурсивные запросы в PostgreSQL \(WITH RECURSIVE\)](https://habrahabr.ru/post/269497/)
