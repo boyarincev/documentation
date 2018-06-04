@@ -13,11 +13,11 @@
 
 ### dotNet
 
-* [ ] Under The Hood .Net Management - управление памятью в .NET \(в библиотеке pdf\)
-* [ ] Джон Скит \(в библиотеке\)
-* [ ] Clr via C\# \(в библиотеке\)
-* [ ] Concurrency in C\# \(в библиотеке\)
-* [ ] Внедрение зависимостей .NET
+* [ ] Книга Under The Hood .Net Management - управление памятью в .NET \(в библиотеке pdf\)
+* [ ] Книга Джон Скит \(в библиотеке\)
+* [ ] Книга Clr via C\# \(в библиотеке\)
+* [ ] Книга Concurrency in C\# \(в библиотеке\)
+* [ ] Книга Внедрение зависимостей .NET
 
 ### Программирование - Технологии
 
@@ -26,41 +26,54 @@
 * [ ] msbuild и Cake
 
 * [ ] Wcf - [http://www.easywcf.com/](http://www.easywcf.com/)
-* [ ] Jwt - handbook \(в библиотеке pdf\)
-* [ ] advanced-api-security-securing-apis-with-oauth-2-0-openid-connect-jws-and-jwe \(в библиотеке pdf\)
+
+* [ ] Книга Jwt - handbook \(в библиотеке pdf\)
+* [ ] Книга advanced-api-security-securing-apis-with-oauth-2-0-openid-connect-jws-and-jwe \(в библиотеке pdf\)
 
 ### Алгоритмы
 
-* [ ] Карьера Программиста 150 заданий \(в библиотеке\)
+* [ ] Книга Карьера Программиста 150 заданий \(в библиотеке\)
 * [ ] Книга Алгоритмы Вводный курс \(в библиотеке\)
 * [ ] Книга Алгоритмы Пападигму
 * [ ] Алгоритмы и структуры данных - [Лекции и Курсы от Яндекса](https://habr.com/company/yandex/blog/208716/)
-* [ ] Problem Solving with Algorithms and Data Structures http://aliev.me/runestone/index.html 
+* [ ] Problem Solving with Algorithms and Data Structures [http://aliev.me/runestone/index.html](http://aliev.me/runestone/index.html) 
+* [ ] Книга Дискретная математика для Программистов \(в библиотеке\)
 
 ### Javascript
 
-* [ ] Learning JavaScript Design Patterns Addy Osmani - https://github.com/addyosmani/essential-js-design-patterns
-* [ ] Стоян Стефанов JavaScript Шаблоны \(в библиотеке pdf\)
-* [ ] Async Javascript \(в библиотеке pdf\)
-* [ ] Эдди Османи Паттерны для масштабируемых JavaScript-приложений - http://largescalejs.ru/
-* [ ] Список примеров паттернов с реализацией - http://shichuan.github.io/javascript-patterns/
-* [ ] http://learn.javascript.ru/ - то что еще не изучено
-* [ ] Angular 2 Fundamentals -Pluralsight
+* [ ] Книга Learning JavaScript Design Patterns Addy Osmani - [https://github.com/addyosmani/essential-js-design-patterns](https://github.com/addyosmani/essential-js-design-patterns)
+* [ ] Книга Стоян Стефанов JavaScript Шаблоны \(в библиотеке pdf\)
+* [ ] Книга Async Javascript \(в библиотеке pdf\)
+* [ ] Эдди Османи Паттерны для масштабируемых JavaScript-приложений - [http://largescalejs.ru/](http://largescalejs.ru/)
+* [ ] Список примеров паттернов с реализацией - [http://shichuan.github.io/javascript-patterns/](http://shichuan.github.io/javascript-patterns/)
+* [ ] [http://learn.javascript.ru/](http://learn.javascript.ru/) - то что еще не изучено
+* [ ] Pluralsight Angular 2 Fundamentals
+
+### SQL
+
+* [ ] Оптимизация запросов и план выполнения запроса http://use-the-index-luke.com/sql/preface 
+* [ ] Joe Celko's Trees and Hierarchies in SQL for Smarties https://www.amazon.com/dp/1558609202/ \(в библиотеке pdf\)
+* [ ] Bill Karwin SQL Antipatterns \(в библиотеке pdf\)
+* [ ] JOE CELKO'S SQL FOR SMARTIES   \(в библиотеке pdf\)
+* [ ] Transaction Processing Concepts And Techniques - книга 1000 страниц, вряд ли она мне понадобится, если я сам не буду БД делать \(в библиотеке pdf\)
+* [ ] Transaction Processing - небольшая презенташка от разработчиков PostgreSQL \(в гугл плей книгах\)
 
 ### Программирование фундаментальные знания
 
-* [ ] Совершенный код \(в библиотеке\)
+* [ ] Книга Совершенный код \(в библиотеке\)
 
-* [ ] Арифметика плавающей точки \(в библиотеке pdf\)
+* [ ] Книга Арифметика плавающей точки \(в библиотеке pdf\)
+
+* [ ] Теоретический минимум для программиста \(куча книг\) -https://sharpc.livejournal.com/67583.html
 
 ### Программирование Архитектура
 
-* [ ] Фаулер Шаблоны Корпоративных приложений
+* [ ] Книга Фаулер Шаблоны Корпоративных приложений
 
 ### Фундаментальные знания
 
-* [ ] Структура и интерпретация компьютерных программ \(в библиотеке\)
-* [ ] Цифровая схемотехника и Архитектура компьютера \(в библиотеке\)  
+* [ ] Книга Структура и интерпретация компьютерных программ \(в библиотеке\)
+* [ ] Книга Цифровая схемотехника и Архитектура компьютера \(в библиотеке\)  
   Скачан пдф:  
   Цифровая схемотехника и архитектура компьютера второе издание Дэвид М. Харрис и Сара Л. Харрис  
   Пост на хабре: [https://habrahabr.ru/post/259505/](https://habrahabr.ru/post/259505/)  
@@ -75,7 +88,7 @@
   Новый продукт MIPSfpga который вписывается как лаба в районе глав 6-7 — доступен тоже через образовательные программы Imagination Technologies — см. habrahabr.ru/post/256223  
   Среды разработки для ASIC от Synopsys и Cadence доступны через их образовательные программы
 
-* [ ] Пенроуз Путь к реальности
+* [ ] Книга Пенроуз Путь к реальности
 
 Смех смехом, но с моей точки зрения, одну из лучших книг по началам э… всего, написал таки физик. Роджер Пенроуз, «Путь к реальности». Книга вообще-то по физике, но первые ~300 страниц посвящены формированию необходимого математического аппарата. Причем действительно с самого начала. Первые главы посвящены базовым принципам научного знания, аристотелевой логике и даже обыкновенным дробям =\) Далее, постепенно повышая уровень хардкора, автор приходит к тензорам и лагранжианам. А потом уже занимается, собственно физикой. Как мне кажется, эта книга — самая плотная, но в то же время последовательная упаковка научного знания.
 
