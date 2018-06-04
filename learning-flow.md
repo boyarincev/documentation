@@ -60,7 +60,6 @@
 ### Deep Learning
 
 * [ ] [Бесплатная GPU Tesla K80 для ваших экспериментов с нейросетями](https://habrahabr.ru/post/348058/)
-* [ ] [Курс от курсеры](https://www.deeplearning.ai/)
 
 ### SQL
 
