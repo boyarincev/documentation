@@ -29,9 +29,9 @@
 * [ ] [https://developers.google.com/machine-learning/crash-course/](https://developers.google.com/machine-learning/crash-course/)
 * [ ] Видеокурс «Машинное обучение».
   Курс посвящен теоретическим основам реализации алгоритмов машинного обучения и сопровождается реальными практическими примерами. Каждая ключевая тема выделена в отдельную лекцию и основательно разобрана. В ходе курса рассматриваются различные методы классификации, основы нейронных сетей и методы их обучения.
-  Первое видео: https://youtu.be/qLBkB4sMztk
-  Ссылка на полный курс: https://goo.gl/zvLz6F
-* [ ] Neural\_Networks\_A\_Compre\_Found\_2nd - по-моему ее в книге по машинному обучению рекомендовали как одну из хороших книг \(в библиотеке pdf\)
+  Первое видео: [https://youtu.be/qLBkB4sMztk](https://youtu.be/qLBkB4sMztk)
+  Ссылка на полный курс: [https://goo.gl/zvLz6F](https://goo.gl/zvLz6F)
+* [ ] Neural\_Networks\_A\_Compre\_Found\_2nd - NEURAL NETWORKS Simon Haykin - по-моему ее в книге по машинному обучению рекомендовали как одну из хороших книг \(в библиотеке pdf\)
 
 ### Python
 
@@ -204,11 +204,11 @@
 
   По математическому анализу существует уйма замечательных курсов, лучший из них вы можете выбрать[по одному из обсуждений на Quora](https://www.quora.com/What-is-the-best-online-calculus-course). В дополнение, в визуализации образов математического анализа вам поможет еще один [описанный нами](https://proglib.io/p/calculus/)иллюстративный курс 3Blue1Brown.
 
-* [ ] Speech and Language Processing Daniel Jurafsky \(в библиотеке nlp\_book.pdf\) 
+* [ ] Speech and Language Processing Daniel Jurafsky \(в библиотеке nlp\_book.pdf\)
 
 Одна из лучших книг по обработке естественных языков от Стэнфордского университета. Очень рекомендуем!
 
-Для затравки можно посмотреть видеокурс на Youtube от тех же авторов: https://goo.gl/1qmmG3
+Для затравки можно посмотреть видеокурс на Youtube от тех же авторов: [https://goo.gl/1qmmG3](https://goo.gl/1qmmG3)
 
 ### Javascript
 
@@ -217,6 +217,7 @@
 * [ ] Книга Стоян Стефанов JavaScript Шаблоны \(в библиотеке pdf\)
 
 * [ ] Книга Async Javascript \(в библиотеке pdf\)
+
 * [ ] Эдди Османи Паттерны для масштабируемых JavaScript-приложений - [http://largescalejs.ru/](http://largescalejs.ru/)
 * [ ] Список примеров паттернов с реализацией - [http://shichuan.github.io/javascript-patterns/](http://shichuan.github.io/javascript-patterns/)
 * [ ] [http://learn.javascript.ru/](http://learn.javascript.ru/) - то что еще не изучено
