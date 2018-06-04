@@ -178,6 +178,8 @@
 
 * [ ] [Раздел документации про транзакции](https://www.postgresql.org/docs/9.6/static/tutorial-transactions.html) в PostgreSQL
 
+* [ ] [SQL ключи во всех подробностях](https://habrahabr.ru/company/oleg-bunin/blog/348172/)
+
 ### Программирование фундаментальные знания
 
 * [ ] Книга Совершенный код \(в библиотеке\)
@@ -210,6 +212,14 @@
 
 * [ ] Книга Фаулер Шаблоны Корпоративных приложений
 * [ ] Архитектура Корпоративных приложений - итоговый разбор \(в библиотеке\)
+
+* [ ] [CQRS. Факты и заблуждения](https://habrahabr.ru/post/347908/)
+
+* [ ] [Строим распредёленное реактивное приложение и решаем задачи согласованности](https://habrahabr.ru/company/2gis/blog/348510/)
+
+* [ ] [Эталонное приложение на базе контейнеров и архитектуры микросервисов](https://habrahabr.ru/company/microsoft/blog/346746/)
+
+* [ ] [Domain Driven Design на практике](https://habrahabr.ru/post/334126/)
 * [ ] Pluralsight [Creating N-Tier Applications in C\#, Part 1](https://app.pluralsight.com/library/courses/n-tier-apps-part1)
 
 * [ ] Pluralsight [Creating N-Tier Applications in C\#, Part 2](https://app.pluralsight.com/library/courses/n-tier-csharp-part2)
@@ -277,6 +287,10 @@
 * [ ] Pluralsight [CSS Animation with Transition and Transform](https://app.pluralsight.com/library/courses/css-animation-with-transition-and-transform)
 
 * [ ] Pluralsight [D3.js Data Visualization Fundamentals](https://app.pluralsight.com/library/courses/d3js-data-visualization-fundamentals)
+
+* [ ] [Учебник HTTP на MDN](https://developer.mozilla.org/ru/docs/Web/HTTP)
+
+* [ ] [CORS на MDN](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)
 
 ### Не технические
 
