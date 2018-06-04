@@ -8,6 +8,13 @@
 Для введения эта книга очень хороша, если вы захотите изучать эту тему глубже, то уже следует обратиться к более академическим трудам.
 
 * [ ] Книга по Машинному обучению \(в библиотеке\)
+* [ ] Pluralsight [Understanding Machine Learning with Python](https://app.pluralsight.com/library/courses/python-understanding-machine-learning)
+
+* [ ] [Python Fundamentals](https://app.pluralsight.com/library/courses/python-fundamentals)
+
+* [ ] [Python: Getting Started](https://app.pluralsight.com/library/courses/python-getting-started)
+
+* [ ] [Understanding Machine Learning with R](https://app.pluralsight.com/library/courses/r-understanding-machine-learning)
 
 ### Операционные системы
 
@@ -21,8 +28,30 @@
 * [ ] Книга Concurrency in C\# \(в библиотеке\)
 * [ ] Книга Внедрение зависимостей .NET
 * [ ] Книга Adaptive Code via C\# \(в библиотеке pdf\)
-* [ ] Pefomance .NET \(в библиотеке\)
-* [ ] .NET Clr Book Сидристый - https://github.com/sidristij/dotnetbook
+* [ ] Книга Pefomance .NET \(в библиотеке\)
+* [ ] .NET Clr Book Сидристый - [https://github.com/sidristij/dotnetbook](https://github.com/sidristij/dotnetbook)
+* [ ] Pluralsight MSIL for the C\# Developer https://app.pluralsight.com/library/courses/msil-csharp-developer/
+* [ ] Pluralsight [Measuring .NET Performance](https://app.pluralsight.com/library/courses/measuring-dotnet-performance)
+
+* [ ] Pluralsight [Event Tracing for Windows \(ETW\) in .NET](https://app.pluralsight.com/library/courses/event-tracing-windows-etw-dotnet)
+
+* [ ] Pluralsight [.NET Performance Optimization & Profiling with JetBrains dotTrace](https://app.pluralsight.com/library/courses/dotnet-performance-optimization-profiling-jetbrains-dottrace)
+
+* [ ] Pluralsight [Introduction to the .NET Compiler Platform](https://app.pluralsight.com/library/courses/dotnet-compiler-platform-introduction)
+
+* [ ] Pluralsight [Getting Started with Asynchronous Programming in .NET](https://app.pluralsight.com/library/courses/asynchronous-programming-dotnet-getting-started)
+
+* [ ] Pluralsight [Exploring C\# 6 with Jon Skeet](https://app.pluralsight.com/library/courses/csharp-with-jon-skeet)
+
+* [ ] Pluralsight [Accelerated C\# Fundamentals](https://app.pluralsight.com/library/courses/csharp-fundamentals)
+
+* [ ] Pluralsight [Visual Studio 2015: Essentials to the Power-User](https://app.pluralsight.com/library/courses/visual-studio-2015-essentials-power-user)
+
+* [ ] Pluralsight [Asynchronous C\# 5.0](https://app.pluralsight.com/library/courses/skeet-async)
+
+* [ ] Pluralsight [C\# Best Practices: Improving on the Basics](https://app.pluralsight.com/library/courses/csharp-best-practices-improving-basics)
+
+* [ ] Pluralsight [Serialization in .NET 4.5](https://app.pluralsight.com/library/courses/serialization-dotnet-4-5)
 
 ### Программирование - Технологии
 
@@ -36,7 +65,37 @@
 
 * [ ] Книга advanced-api-security-securing-apis-with-oauth-2-0-openid-connect-jws-and-jwe \(в библиотеке pdf\)
 
-* [ ] Pluralsight Entity Framework Enterprise
+* [ ] Pluralsight [Entity Framework in the Enterprise](https://app.pluralsight.com/library/courses/entity-framework-enterprise-update)
+
+* [ ] Pluralsight [Getting Started with Entity Framework 6](https://app.pluralsight.com/library/courses/entity-framework-6-getting-started)
+
+* [ ] Pluralsight [Entity Framework 4.1 - DbContext Data Access](https://app.pluralsight.com/library/courses/ef41-data-access)
+
+* [ ] Pluralsight [Entity Framework 4.1 - Code First](https://app.pluralsight.com/library/courses/ef41-code-first)
+
+* [ ] Pluralsight [Data Layer Validation with Entity Framework 4.1+](https://app.pluralsight.com/library/courses/efvalidation)
+
+* [ ] Pluralsight [Entity Framework 6: Ninja Edition - What's New in EF6](https://app.pluralsight.com/library/courses/entity-framework-6-ninja-edition-whats-new)
+
+* [ ] Pluralsight [Querying the Entity Framework](https://app.pluralsight.com/library/courses/querying-entity-framework)
+
+* [ ] Pluralsight [WCF Extensibility](https://app.pluralsight.com/library/courses/wcf-extensibility)
+
+* [ ] Pluralsight [Looking Ahead to Entity Framework 7](https://app.pluralsight.com/library/courses/entity-framework-7-looking-ahead)
+
+* [ ] Pluralsight [RabbitMQ for .NET Developers - Part 1](https://app.pluralsight.com/library/courses/rabbitmq-dotnet-developers)
+
+* [ ] Pluralsight [RabbitMQ for .NET Developers - Part 2](https://app.pluralsight.com/library/courses/rabbitmq-dotnet-developers-pt2)
+
+* [ ] Pluralsight [WCF Jumpstart](https://app.pluralsight.com/library/courses/wcf-jumpstart)
+
+* [ ] Pluralsight [WCF End-to-End](https://app.pluralsight.com/library/courses/wcf-end-to-end)
+
+* [ ] Pluralsight [WCF Power Topics](https://app.pluralsight.com/library/courses/wcf-power-topics)
+
+* [ ] Pluralsight [WCF Fundamentals](https://app.pluralsight.com/library/courses/wcf-fundamentals)
+
+* [ ] Pluralsight [WCF by Example](https://app.pluralsight.com/library/courses/wcf-by-example)
 
 ### Алгоритмы и Математика
 
@@ -50,7 +109,22 @@
 * [ ] Книга Пенроуз Путь к реальности
   Смех смехом, но с моей точки зрения, одну из лучших книг по началам э… всего, написал таки физик. Роджер Пенроуз, «Путь к реальности». Книга вообще-то по физике, но первые ~300 страниц посвящены формированию необходимого математического аппарата. Причем действительно с самого начала. Первые главы посвящены базовым принципам научного знания, аристотелевой логике и даже обыкновенным дробям =\) Далее, постепенно повышая уровень хардкора, автор приходит к тензорам и лагранжианам. А потом уже занимается, собственно физикой. Как мне кажется, эта книга — самая плотная, но в то же время последовательная упаковка научного знания.
 * [ ] Курсы Степика по Математике
+  * [ ] [Линейная алгебра](https://stepik.org/course/2461)
+
+  * [ ] [Основы дискретной математики](https://stepik.org/course/1127)
+
+  * [ ] [Введение в математический анализ](https://stepik.org/course/95)
+
+  * [ ] [Теория вероятностей](https://stepik.org/course/3089)
 * [ ] Курсы Степика по Алгоритмам
+  * [ ] [Теоретическая информатика: сложность вычислений](https://stepik.org/course/1613)
+
+  * [ ] [Алгоритмы: теория и практика. Методы](https://stepik.org/course/217)
+
+  * [ ] [Введение в теоретическую информатику](https://stepik.org/course/104)
+
+  * [ ] [Алгоритмы: теория и практика. Структуры данных](https://stepik.org/course/1547)
+* [ ] Курс Степика [Python: основы и применение](https://stepik.org/course/512)
 
 ### Javascript
 
@@ -60,8 +134,27 @@
 * [ ] Эдди Османи Паттерны для масштабируемых JavaScript-приложений - [http://largescalejs.ru/](http://largescalejs.ru/)
 * [ ] Список примеров паттернов с реализацией - [http://shichuan.github.io/javascript-patterns/](http://shichuan.github.io/javascript-patterns/)
 * [ ] [http://learn.javascript.ru/](http://learn.javascript.ru/) - то что еще не изучено
-* [ ] Pluralsight Angular 2 Fundamentals
+* [ ] Pluralsight Angular 2 Fundamentals \([Angular Fundamentals](https://app.pluralsight.com/library/courses/angular-fundamentals)\)
 * [ ] Архитектура Javascript \(где-то лежит статья\)
+* [ ] Pluralsight [AngularJS Patterns: Clean Code](https://app.pluralsight.com/library/courses/angularjs-patterns-clean-code)
+
+* [ ] Pluralsight [AngularJS In-Depth](https://app.pluralsight.com/library/courses/angularjs-in-depth)
+
+* [ ] Pluralsight [Using ES6 with TypeScript](https://app.pluralsight.com/library/courses/es6-with-typescript)
+
+* [ ] Pluralsight [JavaScript Fundamentals for ES6](https://app.pluralsight.com/library/courses/javascript-fundamentals-es6)
+
+* [ ] Pluralsight [JavaScript Fundamentals](https://app.pluralsight.com/library/courses/jscript-fundamentals)
+
+* [ ] Pluralsight [JavaScript the Good Parts](https://app.pluralsight.com/library/courses/javascript-good-parts)
+
+* [ ] Pluralsight [Practical Design Patterns in JavaScript](https://app.pluralsight.com/library/courses/javascript-practical-design-patterns)
+
+* [ ] Pluralsight [Advanced JavaScript](https://app.pluralsight.com/library/courses/advanced-javascript)
+
+* [ ] Pluralsight [Rapid JavaScript Training](https://app.pluralsight.com/library/courses/rapid-javascript-training)
+
+* [ ] Pluralsight [Webpack Fundamentals](https://app.pluralsight.com/library/courses/webpack-fundamentals)
 
 ### SQL
 
@@ -95,7 +188,7 @@
 
 * [ ] Книга Imposter Handbook \(в библиотеке pdf\)
 
-* [ ] Курсы Степика по Архитектуре Компьютера
+* [ ] Курсы Степика [Введение в архитектуру ЭВМ. Элементы операционных систем.](https://stepik.org/course/253)
 
 * [ ] Книга Структура и интерпретация компьютерных программ \(в библиотеке\)
 
@@ -103,6 +196,25 @@
 
 * [ ] Книга Фаулер Шаблоны Корпоративных приложений
 * [ ] Архитектура Корпоративных приложений - итоговый разбор \(в библиотеке\)
+* [ ] Pluralsight [Creating N-Tier Applications in C\#, Part 1](https://app.pluralsight.com/library/courses/n-tier-apps-part1)
+
+* [ ] Pluralsight [Creating N-Tier Applications in C\#, Part 2](https://app.pluralsight.com/library/courses/n-tier-csharp-part2)
+
+* [ ] Pluralsight [C\# Design Strategies](https://app.pluralsight.com/library/courses/csharp-design-strategies)
+
+* [ ] Pluralsight [Architecting Applications for the Real World in .NET](https://app.pluralsight.com/library/courses/architecting-applications-dotnet)
+
+* [ ] Pluralsight [Encapsulation and SOLID](https://app.pluralsight.com/library/courses/encapsulation-solid)
+
+* [ ] Pluralsight [SOLID Principles of Object Oriented Design](https://app.pluralsight.com/library/courses/principles-oo-design)
+
+* [ ] Pluralsight [Object-Oriented Programming Fundamentals in C\#](https://app.pluralsight.com/library/courses/object-oriented-programming-fundamentals-csharp)
+
+* [ ] Pluralsight [Microservices Architecture](https://app.pluralsight.com/library/courses/microservices-architecture)
+
+* [ ] Pluralsight [Domain-Driven Design Fundamentals](https://app.pluralsight.com/library/courses/domain-driven-design-fundamentals)
+
+* [ ] Pluralsight [Building End-to-End Multi-Client Service Oriented Applications](https://app.pluralsight.com/library/courses/building-multi-client-end-to-end-service-oriented-applications)
 
 ### Электроника
 
@@ -138,6 +250,19 @@
 
 * [ ] Большая книга CSS \(в библиотеке\)
 * [ ] Курс по дизайну на почте Hack Design
+* [ ] Pluralsight [HTML5 Advanced Topics](https://app.pluralsight.com/library/courses/html5-advanced)
+
+* [ ] Pluralsight [HTML5 Fundamentals](https://app.pluralsight.com/library/courses/html5-fundamentals)
+
+* [ ] Pluralsight [Practical HTML5](https://app.pluralsight.com/library/courses/practical-html5)
+
+* [ ] Pluralsight [CSS3 In-Depth](https://app.pluralsight.com/library/courses/css3-in-depth)
+
+* [ ] Pluralsight [Mastering CSS Animations](https://app.pluralsight.com/library/courses/mastering-css-animations-2135)
+
+* [ ] Pluralsight [CSS Animation with Transition and Transform](https://app.pluralsight.com/library/courses/css-animation-with-transition-and-transform)
+
+* [ ] Pluralsight [D3.js Data Visualization Fundamentals](https://app.pluralsight.com/library/courses/d3js-data-visualization-fundamentals)
 
 ### Не технические
 
