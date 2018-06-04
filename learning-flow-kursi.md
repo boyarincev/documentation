@@ -10,7 +10,7 @@
 
 Для введения эта книга очень хороша, если вы захотите изучать эту тему глубже, то уже следует обратиться к более академическим трудам.
 
-* [ ] Книга по Машинному обучению \(в библиотеке\)
+* [ ] Книга Глубокое Обучение \(в библиотеке\)
 * [ ] Pluralsight [Understanding Machine Learning with Python](https://app.pluralsight.com/library/courses/python-understanding-machine-learning)
 
 * [ ] Pluralsight [Understanding Machine Learning with R](https://app.pluralsight.com/library/courses/r-understanding-machine-learning)
@@ -155,6 +155,7 @@
 * [ ] Алгоритмы и структуры данных - [Лекции и Курсы от Яндекса](https://habr.com/company/yandex/blog/208716/)
 * [ ] Problem Solving with Algorithms and Data Structures [http://aliev.me/runestone/index.html](http://aliev.me/runestone/index.html) 
 * [ ] Книга Дискретная математика для Программистов \(в библиотеке\)
+* [ ] Анализ Алгоритмов для программистов \(в библиотеке\)
 * [ ] Лекции от Яндекса по Математике \(в библиотеке pdf\)
 * [ ] Книга Пенроуз Путь к реальности
   Смех смехом, но с моей точки зрения, одну из лучших книг по началам э… всего, написал таки физик. Роджер Пенроуз, «Путь к реальности». Книга вообще-то по физике, но первые ~300 страниц посвящены формированию необходимого математического аппарата. Причем действительно с самого начала. Первые главы посвящены базовым принципам научного знания, аристотелевой логике и даже обыкновенным дробям =\) Далее, постепенно повышая уровень хардкора, автор приходит к тензорам и лагранжианам. А потом уже занимается, собственно физикой. Как мне кажется, эта книга — самая плотная, но в то же время последовательная упаковка научного знания.
@@ -246,6 +247,7 @@
 * [ ] Список примеров паттернов с реализацией - [http://shichuan.github.io/javascript-patterns/](http://shichuan.github.io/javascript-patterns/)
 
 * [ ] [http://learn.javascript.ru/](http://learn.javascript.ru/) - то что еще не изучено
+
 * [ ] Pluralsight Angular 2 Fundamentals \([Angular Fundamentals](https://app.pluralsight.com/library/courses/angular-fundamentals)\)
 * [ ] Архитектура Javascript \(где-то лежит статья\)
 * [ ] Pluralsight [AngularJS Patterns: Clean Code](https://app.pluralsight.com/library/courses/angularjs-patterns-clean-code)
@@ -335,6 +337,10 @@
 
 * [ ] Pluralsight [Building End-to-End Multi-Client Service Oriented Applications](https://app.pluralsight.com/library/courses/building-multi-client-end-to-end-service-oriented-applications)
 
+* [ ] Чистая Архитектура Роберт Мартин \(в библиотеке\)
+
+* [ ] Реализация методов предметно ориентированного проектирования \(в библиотеке\)
+
 ### Электроника
 
 * [ ] Книга Цифровая схемотехника и Архитектура компьютера \(в библиотеке\)  
@@ -361,6 +367,8 @@
 * [ ] Книга про Дроны \(в библиотеке\)
 
 * [ ] Bystry\_start\_Pervye\_shagi\_po\_osvoeniyu\_Arduino\_2015 \(в библиотека pdf\)
+
+* [ ] Книга Изучаем Arduino \(в библиотеке\)
 
 ### Linux
 
@@ -425,6 +433,7 @@
 * [ ] Книга Быстрое чтение за 10 дней \(в библиотеке\)
 * [ ] Книга Микрорешения \(в библиотеке\)
 * [ ] Книга Общаться с ребенком как \(в библиотеке и pdf\)
+* [ ] Книга Сила Воли Келли Макгоногал \(в библиотеке\)
 
 
 
