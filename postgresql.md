@@ -40,10 +40,6 @@ SELECT * FROM pg_stat_activity;
 
 [Системные функции](https://www.postgresql.org/docs/current/static/functions-info.html) дающие доступ к текущей сессии \(current\_database, current\_query и т.д.\)
 
-### Concurrency Control
-
-[Concurrency Control](https://www.postgresql.org/docs/9.6/static/mvcc.html) в PostgreSQL - раздел официальной документации про транзакции и блокировки.
-
 ### Путь до БД сервера
 
 ```
@@ -106,10 +102,6 @@ SELECT nextval('data."dim_Perfomance_Load_Dimension_49_id"');
 ```
 
 ### Работа с транзакциями
-
-[Раздел документации про транзакции](https://www.postgresql.org/docs/9.6/static/tutorial-transactions.html)
-
-[Презентация про транзакции](https://www.postgresql.org/files/developer/transactions.pdf) - которую я всё не могу прочитать
 
 Посмотреть что есть заблокированного в транзакциях есть сейчас
 
