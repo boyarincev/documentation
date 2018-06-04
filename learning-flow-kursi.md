@@ -32,6 +32,7 @@
   Первое видео: [https://youtu.be/qLBkB4sMztk](https://youtu.be/qLBkB4sMztk)
   Ссылка на полный курс: [https://goo.gl/zvLz6F](https://goo.gl/zvLz6F)
 * [ ] Neural\_Networks\_A\_Compre\_Found\_2nd - NEURAL NETWORKS Simon Haykin - по-моему ее в книге по машинному обучению рекомендовали как одну из хороших книг \(в библиотеке pdf\)
+* [ ] Гудфеллоу\_Я\_,\_Бенджио\_И\_,\_Курвилль Глубокое Обучение \(в библиотеке pdf\)
 
 ### Python
 
@@ -79,6 +80,24 @@
 * [ ] Pluralsight [C\# Best Practices: Improving on the Basics](https://app.pluralsight.com/library/courses/csharp-best-practices-improving-basics)
 
 * [ ] Pluralsight [Serialization in .NET 4.5](https://app.pluralsight.com/library/courses/serialization-dotnet-4-5)
+
+* [ ] transactions-dot-net msdn \(библиотека pdf\)
+
+* [ ] reflection-and-codedom msdn \(библиотека pdf\)
+
+* [ ] app-domains msdn \(библиотека pdf\)
+
+* [ ] dataset-datatable-dataview msdn \(библиотека pdf\)
+
+* [ ] adonet msdn \(библиотека pdf\)
+
+* [ ] charp notes for proffessionals \(в библиотеке pdf\)
+
+* [ ] dot net framework notes for proffessionals \(в библиотеке pdf\)
+
+* [ ] power shells notes for proffessionals \(в библиотеке pdf\)
+
+* [ ] entity framework notes for proffessionals \(в библиотеке pdf\)
 
 ### Программирование - Технологии
 
@@ -219,6 +238,7 @@
 * [ ] Книга Async Javascript \(в библиотеке pdf\)
 
 * [ ] Эдди Османи Паттерны для масштабируемых JavaScript-приложений - [http://largescalejs.ru/](http://largescalejs.ru/)
+
 * [ ] Список примеров паттернов с реализацией - [http://shichuan.github.io/javascript-patterns/](http://shichuan.github.io/javascript-patterns/)
 * [ ] [http://learn.javascript.ru/](http://learn.javascript.ru/) - то что еще не изучено
 * [ ] Pluralsight Angular 2 Fundamentals \([Angular Fundamentals](https://app.pluralsight.com/library/courses/angular-fundamentals)\)
@@ -335,6 +355,8 @@
 
 * [ ] Книга про Дроны \(в библиотеке\)
 
+* [ ] Bystry\_start\_Pervye\_shagi\_po\_osvoeniyu\_Arduino\_2015 \(в библиотека pdf\)
+
 ### Linux
 
 * [ ] Книга Командная строка Linux Полное руководство Уильям Шоттс \(в библиотеке pdf\)
@@ -361,6 +383,12 @@
 * [ ] [Учебник HTTP на MDN](https://developer.mozilla.org/ru/docs/Web/HTTP)
 
 * [ ] [CORS на MDN](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)
+
+### DWH
+
+* [ ] Bulding the Data Warehouse 3 Edition \(библиотека pdf\)
+* [ ] Kimball\_&\_Caserta\_The\_Data\_Warehouse \(библиотека pdf\)
+* [ ] The Data Warehouse Toolkit, 3rd Edition \(библиотека pdf\)
 
 ### Не технические
 
