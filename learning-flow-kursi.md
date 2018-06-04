@@ -10,11 +10,15 @@
 * [ ] Книга по Машинному обучению \(в библиотеке\)
 * [ ] Pluralsight [Understanding Machine Learning with Python](https://app.pluralsight.com/library/courses/python-understanding-machine-learning)
 
+* [ ] [Understanding Machine Learning with R](https://app.pluralsight.com/library/courses/r-understanding-machine-learning)
+
+### Python
+
 * [ ] [Python Fundamentals](https://app.pluralsight.com/library/courses/python-fundamentals)
 
 * [ ] [Python: Getting Started](https://app.pluralsight.com/library/courses/python-getting-started)
 
-* [ ] [Understanding Machine Learning with R](https://app.pluralsight.com/library/courses/r-understanding-machine-learning)
+* [ ] Курс Степика [Python: основы и применение](https://stepik.org/course/512)
 
 ### Операционные системы
 
@@ -30,7 +34,7 @@
 * [ ] Книга Adaptive Code via C\# \(в библиотеке pdf\)
 * [ ] Книга Pefomance .NET \(в библиотеке\)
 * [ ] .NET Clr Book Сидристый - [https://github.com/sidristij/dotnetbook](https://github.com/sidristij/dotnetbook)
-* [ ] Pluralsight MSIL for the C\# Developer https://app.pluralsight.com/library/courses/msil-csharp-developer/
+* [ ] Pluralsight MSIL for the C\# Developer [https://app.pluralsight.com/library/courses/msil-csharp-developer/](https://app.pluralsight.com/library/courses/msil-csharp-developer/)
 * [ ] Pluralsight [Measuring .NET Performance](https://app.pluralsight.com/library/courses/measuring-dotnet-performance)
 
 * [ ] Pluralsight [Event Tracing for Windows \(ETW\) in .NET](https://app.pluralsight.com/library/courses/event-tracing-windows-etw-dotnet)
@@ -79,15 +83,17 @@
 
 * [ ] Pluralsight [Querying the Entity Framework](https://app.pluralsight.com/library/courses/querying-entity-framework)
 
-* [ ] Pluralsight [WCF Extensibility](https://app.pluralsight.com/library/courses/wcf-extensibility)
-
 * [ ] Pluralsight [Looking Ahead to Entity Framework 7](https://app.pluralsight.com/library/courses/entity-framework-7-looking-ahead)
 
 * [ ] Pluralsight [RabbitMQ for .NET Developers - Part 1](https://app.pluralsight.com/library/courses/rabbitmq-dotnet-developers)
 
 * [ ] Pluralsight [RabbitMQ for .NET Developers - Part 2](https://app.pluralsight.com/library/courses/rabbitmq-dotnet-developers-pt2)
 
+### WCF
+
 * [ ] Pluralsight [WCF Jumpstart](https://app.pluralsight.com/library/courses/wcf-jumpstart)
+
+* [ ] Pluralsight [WCF Extensibility](https://app.pluralsight.com/library/courses/wcf-extensibility)
 
 * [ ] Pluralsight [WCF End-to-End](https://app.pluralsight.com/library/courses/wcf-end-to-end)
 
@@ -109,6 +115,7 @@
 * [ ] Книга Пенроуз Путь к реальности
   Смех смехом, но с моей точки зрения, одну из лучших книг по началам э… всего, написал таки физик. Роджер Пенроуз, «Путь к реальности». Книга вообще-то по физике, но первые ~300 страниц посвящены формированию необходимого математического аппарата. Причем действительно с самого начала. Первые главы посвящены базовым принципам научного знания, аристотелевой логике и даже обыкновенным дробям =\) Далее, постепенно повышая уровень хардкора, автор приходит к тензорам и лагранжианам. А потом уже занимается, собственно физикой. Как мне кажется, эта книга — самая плотная, но в то же время последовательная упаковка научного знания.
 * [ ] Курсы Степика по Математике
+
   * [ ] [Линейная алгебра](https://stepik.org/course/2461)
 
   * [ ] [Основы дискретной математики](https://stepik.org/course/1127)
@@ -116,7 +123,9 @@
   * [ ] [Введение в математический анализ](https://stepik.org/course/95)
 
   * [ ] [Теория вероятностей](https://stepik.org/course/3089)
+
 * [ ] Курсы Степика по Алгоритмам
+
   * [ ] [Теоретическая информатика: сложность вычислений](https://stepik.org/course/1613)
 
   * [ ] [Алгоритмы: теория и практика. Методы](https://stepik.org/course/217)
@@ -124,7 +133,6 @@
   * [ ] [Введение в теоретическую информатику](https://stepik.org/course/104)
 
   * [ ] [Алгоритмы: теория и практика. Структуры данных](https://stepik.org/course/1547)
-* [ ] Курс Степика [Python: основы и применение](https://stepik.org/course/512)
 
 ### Javascript
 
@@ -184,6 +192,10 @@
 
 * [ ] Книга Чистый Код Роберт Мартин \(в библиотеке\)
 
+### Шифрование
+
+* [ ] [Шпоры по сертификатам X.509](https://habrahabr.ru/post/346798/) https://habr.com/post/346798/
+
 ### Computer Science
 
 * [ ] Книга Imposter Handbook \(в библиотеке pdf\)
@@ -191,6 +203,8 @@
 * [ ] Курсы Степика [Введение в архитектуру ЭВМ. Элементы операционных систем.](https://stepik.org/course/253)
 
 * [ ] Книга Структура и интерпретация компьютерных программ \(в библиотеке\)
+
+* [ ] Книга Математика с плавающей точкой \(библиотека pdf\)
 
 ### Программирование Архитектура
 

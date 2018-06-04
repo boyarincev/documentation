@@ -50,10 +50,6 @@
 
 * [ ] [How do I return multiple result sets with SqlCommand?](https://stackoverflow.com/questions/12715620/how-do-i-return-multiple-result-sets-with-sqlcommand)
 
-### Шифрование
-
-* [ ] [Шпоры по сертификатам X.509](https://habrahabr.ru/post/346798/)
-
 ### Entity Framework
 
 * [ ] [Прямой SQL в EntityFramework. Теперь со строгой типизацией](https://habrahabr.ru/post/347820/)
@@ -180,7 +176,7 @@ PostgreSQL INSERT с RETURNING - гарантированность возвра
 
 Какое исключение нужно бросать в свиче по енуму
 
-https://stackoverflow.com/questions/3349540/throwing-exceptions-in-switch-statements-when-no-specified-case-can-be-handled
+[https://stackoverflow.com/questions/3349540/throwing-exceptions-in-switch-statements-when-no-specified-case-can-be-handled](https://stackoverflow.com/questions/3349540/throwing-exceptions-in-switch-statements-when-no-specified-case-can-be-handled)
 
-https://stackoverflow.com/questions/13645149/what-is-the-correct-exception-to-throw-for-unhandled-enum-values
+[https://stackoverflow.com/questions/13645149/what-is-the-correct-exception-to-throw-for-unhandled-enum-values](https://stackoverflow.com/questions/13645149/what-is-the-correct-exception-to-throw-for-unhandled-enum-values)
 
