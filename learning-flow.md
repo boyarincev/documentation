@@ -1,4 +1,4 @@
-# Learning Flow
+Learning Flow
 
 ### Утечки памяти в Javascript
 
@@ -77,15 +77,6 @@
 
 * [ ] [15.1. How Parallel Query Works](https://www.postgresql.org/docs/9.6/static/how-parallel-query-works.html)
 
-### Архитектура
-
-* [ ] [CQRS. Факты и заблуждения](https://habrahabr.ru/post/347908/)
-* [ ] [Строим распредёленное реактивное приложение и решаем задачи согласованности](https://habrahabr.ru/company/2gis/blog/348510/)
-
-* [ ] [Эталонное приложение на базе контейнеров и архитектуры микросервисов](https://habrahabr.ru/company/microsoft/blog/346746/)
-
-* [ ] [Domain Driven Design на практике](https://habrahabr.ru/post/334126/)
-
 ### Сsharp
 
 * [ ] [Исследуем сопоставление с образцом в C\# 7](https://habrahabr.ru/post/347916/)
@@ -99,11 +90,6 @@
 * [ ] [Современный CSS для динозавров](https://habrahabr.ru/post/348500/)
 * [ ] [**sakura**](https://github.com/oxalorg/sakura) - минималистичный css фреймворк
 * [ ] [30 секунд CSS](https://habrahabr.ru/company/mailru/blog/350160/)
-
-### WEB
-
-* [ ] [Учебник HTTP на MDN](https://developer.mozilla.org/ru/docs/Web/HTTP)
-* [ ] [CORS на MDN](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)
 
 ### Математика
 
