@@ -1,3 +1,8 @@
+
+---
+
+---
+
 # Leraning Flow Курсы, Книги, Области знаний
 
 ### Deep Learning
@@ -10,15 +15,11 @@
 * [ ] Книга по Машинному обучению \(в библиотеке\)
 * [ ] Pluralsight [Understanding Machine Learning with Python](https://app.pluralsight.com/library/courses/python-understanding-machine-learning)
 
-* [ ] [Understanding Machine Learning with R](https://app.pluralsight.com/library/courses/r-understanding-machine-learning)
-
-### Python
-
 * [ ] [Python Fundamentals](https://app.pluralsight.com/library/courses/python-fundamentals)
 
 * [ ] [Python: Getting Started](https://app.pluralsight.com/library/courses/python-getting-started)
 
-* [ ] Курс Степика [Python: основы и применение](https://stepik.org/course/512)
+* [ ] [Understanding Machine Learning with R](https://app.pluralsight.com/library/courses/r-understanding-machine-learning)
 
 ### Операционные системы
 
@@ -83,17 +84,15 @@
 
 * [ ] Pluralsight [Querying the Entity Framework](https://app.pluralsight.com/library/courses/querying-entity-framework)
 
+* [ ] Pluralsight [WCF Extensibility](https://app.pluralsight.com/library/courses/wcf-extensibility)
+
 * [ ] Pluralsight [Looking Ahead to Entity Framework 7](https://app.pluralsight.com/library/courses/entity-framework-7-looking-ahead)
 
 * [ ] Pluralsight [RabbitMQ for .NET Developers - Part 1](https://app.pluralsight.com/library/courses/rabbitmq-dotnet-developers)
 
 * [ ] Pluralsight [RabbitMQ for .NET Developers - Part 2](https://app.pluralsight.com/library/courses/rabbitmq-dotnet-developers-pt2)
 
-### WCF
-
 * [ ] Pluralsight [WCF Jumpstart](https://app.pluralsight.com/library/courses/wcf-jumpstart)
-
-* [ ] Pluralsight [WCF Extensibility](https://app.pluralsight.com/library/courses/wcf-extensibility)
 
 * [ ] Pluralsight [WCF End-to-End](https://app.pluralsight.com/library/courses/wcf-end-to-end)
 
@@ -133,6 +132,8 @@
   * [ ] [Введение в теоретическую информатику](https://stepik.org/course/104)
 
   * [ ] [Алгоритмы: теория и практика. Структуры данных](https://stepik.org/course/1547)
+
+* [ ] Курс Степика [Python: основы и применение](https://stepik.org/course/512)
 
 ### Javascript
 
@@ -194,10 +195,6 @@
 
 * [ ] Книга Чистый Код Роберт Мартин \(в библиотеке\)
 
-### Шифрование
-
-* [ ] [Шпоры по сертификатам X.509](https://habrahabr.ru/post/346798/) https://habr.com/post/346798/
-
 ### Computer Science
 
 * [ ] Книга Imposter Handbook \(в библиотеке pdf\)
@@ -205,8 +202,6 @@
 * [ ] Курсы Степика [Введение в архитектуру ЭВМ. Элементы операционных систем.](https://stepik.org/course/253)
 
 * [ ] Книга Структура и интерпретация компьютерных программ \(в библиотеке\)
-
-* [ ] Книга Математика с плавающей точкой \(библиотека pdf\)
 
 ### Программирование Архитектура
 
@@ -220,6 +215,7 @@
 * [ ] [Эталонное приложение на базе контейнеров и архитектуры микросервисов](https://habrahabr.ru/company/microsoft/blog/346746/)
 
 * [ ] [Domain Driven Design на практике](https://habrahabr.ru/post/334126/)
+
 * [ ] Pluralsight [Creating N-Tier Applications in C\#, Part 1](https://app.pluralsight.com/library/courses/n-tier-apps-part1)
 
 * [ ] Pluralsight [Creating N-Tier Applications in C\#, Part 2](https://app.pluralsight.com/library/courses/n-tier-csharp-part2)
@@ -321,6 +317,4 @@
 * [ ] Курс 27 ключей вашего успеха \(в билиотеке pdf\)
 * [ ] Книга Быстрое чтение за 10 дней \(в библиотеке\)
 * [ ] Книга Микрорешения \(в библиотеке\)
-
-
 
