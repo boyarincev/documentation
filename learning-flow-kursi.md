@@ -31,8 +31,9 @@
   Курс посвящен теоретическим основам реализации алгоритмов машинного обучения и сопровождается реальными практическими примерами. Каждая ключевая тема выделена в отдельную лекцию и основательно разобрана. В ходе курса рассматриваются различные методы классификации, основы нейронных сетей и методы их обучения.
   Первое видео: [https://youtu.be/qLBkB4sMztk](https://youtu.be/qLBkB4sMztk)
   Ссылка на полный курс: [https://goo.gl/zvLz6F](https://goo.gl/zvLz6F)
-* [ ] Neural\_Networks\_A\_Compre\_Found\_2nd - NEURAL NETWORKS Simon Haykin - по-моему ее в книге по машинному обучению рекомендовали как одну из хороших книг \(в библиотеке pdf\)
-* [ ] Гудфеллоу\_Я\_,\_Бенджио\_И\_,\_Курвилль Глубокое Обучение \(в библиотеке pdf\)
+* [ ] Книга Neural\_Networks\_A\_Compre\_Found\_2nd - NEURAL NETWORKS Simon Haykin - по-моему ее в книге по машинному обучению рекомендовали как одну из хороших книг \(в библиотеке pdf\)
+* [ ] Книга Гудфеллоу\_Я\_,\_Бенджио\_И\_,\_Курвилль Глубокое Обучение \(в библиотеке pdf\)
+* [ ] Книга DataScience Наука о данных с нуля \(в библиотеке\)
 
 ### Python
 
@@ -249,6 +250,7 @@
 * [ ] [http://learn.javascript.ru/](http://learn.javascript.ru/) - то что еще не изучено
 
 * [ ] Pluralsight Angular 2 Fundamentals \([Angular Fundamentals](https://app.pluralsight.com/library/courses/angular-fundamentals)\)
+
 * [ ] Архитектура Javascript \(где-то лежит статья\)
 * [ ] Pluralsight [AngularJS Patterns: Clean Code](https://app.pluralsight.com/library/courses/angularjs-patterns-clean-code)
 
@@ -373,7 +375,8 @@
 ### Linux
 
 * [ ] Книга Командная строка Linux Полное руководство Уильям Шоттс \(в библиотеке pdf\)
-* [ ] Книга Внутреннее устройство Linux Брайан Уорд
+* [ ] Книга Внутреннее устройство Linux Брайан Уорд \(в библиотеке pdf\)
+* [ ] Книга Linux с нуля \(в библиотеке\)
 
 ### Web и Дизайн
 
