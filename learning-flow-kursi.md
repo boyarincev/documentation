@@ -1,8 +1,3 @@
-
----
-
----
-
 # Leraning Flow Курсы, Книги, Области знаний
 
 ### Deep Learning
@@ -15,12 +10,13 @@
 * [ ] Книга по Машинному обучению \(в библиотеке\)
 * [ ] Pluralsight [Understanding Machine Learning with Python](https://app.pluralsight.com/library/courses/python-understanding-machine-learning)
 
-* [ ] [Python Fundamentals](https://app.pluralsight.com/library/courses/python-fundamentals)
+* [ ] Pluralsight [Python Fundamentals](https://app.pluralsight.com/library/courses/python-fundamentals)
 
-* [ ] [Python: Getting Started](https://app.pluralsight.com/library/courses/python-getting-started)
+* [ ] Pluralsight [Python: Getting Started](https://app.pluralsight.com/library/courses/python-getting-started)
 
-* [ ] [Understanding Machine Learning with R](https://app.pluralsight.com/library/courses/r-understanding-machine-learning)
+* [ ] Pluralsight [Understanding Machine Learning with R](https://app.pluralsight.com/library/courses/r-understanding-machine-learning)
 
+* [ ] * [ ] 
 ### Операционные системы
 
 * [ ] [Курс по созданию операционной системы для распбери пай](https://web.stanford.edu/class/cs140e/about/)
@@ -317,4 +313,6 @@
 * [ ] Курс 27 ключей вашего успеха \(в билиотеке pdf\)
 * [ ] Книга Быстрое чтение за 10 дней \(в библиотеке\)
 * [ ] Книга Микрорешения \(в библиотеке\)
+
+
 
