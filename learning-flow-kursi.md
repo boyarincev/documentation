@@ -16,6 +16,12 @@
 
 * [ ] Pluralsight [Understanding Machine Learning with R](https://app.pluralsight.com/library/courses/r-understanding-machine-learning)
 
+* [ ] http://course.fast.ai/
+
+* [ ] http://course.fast.ai/part2.html 
+
+Я как-то уже рассказывал, что считаю курс “practical deep learning for coders” лучшим в своем жанре. Так вот, вышла вторая его часть и она классная. Если вдруг вы хотите заниматься нейронными сетями, вы программист и почему-то  еще не прошли этот курс - бегите, он бесплатный и правда отличный, без булшита. Да, конечно настоящим математикам этот курс не годится, он для тех кто как я - слегка программист, который хочет решать свои задачи 
+
 ### Операционные системы
 
 * [ ] [Курс по созданию операционной системы для распбери пай](https://web.stanford.edu/class/cs140e/about/)
