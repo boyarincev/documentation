@@ -75,8 +75,6 @@
 
 * [ ] [14.1. Using EXPLAIN](https://www.postgresql.org/docs/9.6/static/using-explain.html)
 
-* [ ] [Chapter 13. Concurrency Control](https://www.postgresql.org/docs/9.6/static/mvcc.html)
-
 * [ ] [15.1. How Parallel Query Works](https://www.postgresql.org/docs/9.6/static/how-parallel-query-works.html)
 
 ### Архитектура
