@@ -99,6 +99,10 @@
 
 * [ ] entity framework notes for proffessionals \(в библиотеке pdf\)
 
+* [ ] Книга Design Patterns via C\# \(в библиотеке pdf\)
+
+* [ ] Книга .NET Microservices Architecture \(в библиотеке pdf\)
+
 ### Программирование - Технологии
 
 * [ ] Как работает шифрование
@@ -240,6 +244,7 @@
 * [ ] Эдди Османи Паттерны для масштабируемых JavaScript-приложений - [http://largescalejs.ru/](http://largescalejs.ru/)
 
 * [ ] Список примеров паттернов с реализацией - [http://shichuan.github.io/javascript-patterns/](http://shichuan.github.io/javascript-patterns/)
+
 * [ ] [http://learn.javascript.ru/](http://learn.javascript.ru/) - то что еще не изучено
 * [ ] Pluralsight Angular 2 Fundamentals \([Angular Fundamentals](https://app.pluralsight.com/library/courses/angular-fundamentals)\)
 * [ ] Архитектура Javascript \(где-то лежит статья\)
