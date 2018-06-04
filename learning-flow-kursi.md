@@ -4,7 +4,7 @@
 
 * [ ] [Курс от курсеры](https://www.deeplearning.ai/)
 
-Учебного в ленту: Tess Ferrandez прошла на Coursera знаменитый курс лекций Andrew Ng по глубокому обучению и сделала очень классный визуальный конспект https://www.slideshare.net/TessFerrandez/notes-from-coursera-deep-learning-courses-by-andrew-ng
+Учебного в ленту: Tess Ferrandez прошла на Coursera знаменитый курс лекций Andrew Ng по глубокому обучению и сделала очень классный визуальный конспект [https://www.slideshare.net/TessFerrandez/notes-from-coursera-deep-learning-courses-by-andrew-ng](https://www.slideshare.net/TessFerrandez/notes-from-coursera-deep-learning-courses-by-andrew-ng)
 
 * [ ] [A Programmer's Guide to Data Mining](http://guidetodatamining.com/) - Еще одной актуальной сегодня темой является Data Mining или интеллектуальный анализ данных. Если вы до сих пор думаете, что за Data Mining всегда скрывается сложная математика, то эта книга для вас. Автор неформально и доступно, без сложных математических выкладок объясняет, что из себя представляет интеллектуальный анализ данных и его основные методы. Примеры реализованы на языке Python.
 
@@ -15,6 +15,10 @@
 
 * [ ] Pluralsight [Understanding Machine Learning with R](https://app.pluralsight.com/library/courses/r-understanding-machine-learning)
 
+* [ ] Неделя 1. Введение в глубокое обучение
+
+  Начать разбираться в глубоком обучении можно с[плейлиста введения в Deep Learning](https://www.youtube.com/watch?v=vOppzHpvTiQ&list=PL2-dafEMk2A7YdKv4XfKpfbTH5z6rEEj3) из 34 уроков, рассматривающих при помощи Tensor Flow множество реальных задач. Если вы хотите познакомиться с некоторыми алгоритмами работы с нейронными сетями на русском языке, мы описали для вас [такой курс](https://proglib.io/p/plain-neural-networks/).
+
 * [ ] [http://course.fast.ai/](http://course.fast.ai/)
 
 * [ ] [http://course.fast.ai/part2.html](http://course.fast.ai/part2.html)
@@ -22,7 +26,7 @@
 Я как-то уже рассказывал, что считаю курс “practical deep learning for coders” лучшим в своем жанре. Так вот, вышла вторая его часть и она классная. Если вдруг вы хотите заниматься нейронными сетями, вы программист и почему-то  еще не прошли этот курс - бегите, он бесплатный и правда отличный, без булшита. Да, конечно настоящим математикам этот курс не годится, он для тех кто как я - слегка программист, который хочет решать свои задачи
 
 * [ ] От новичка до профи в машинном обучении за 3 месяца [https://proglib.io/p/ml-3months/](https://proglib.io/p/ml-3months/)
-* [ ] https://developers.google.com/machine-learning/crash-course/
+* [ ] [https://developers.google.com/machine-learning/crash-course/](https://developers.google.com/machine-learning/crash-course/)
 
 ### Python
 
@@ -176,18 +180,26 @@
 
   [Вводный курс Georgia Tech](https://www.udacity.com/course/introduction-to-computer-vision--ud810)представляет собой введение в компьютерное зрение, включая основы формирования изображений, обнаружение и сопоставление образов, отслеживание движения и т. д.
 
-* [ ] Теория вероятностей. Математическая статистика. 
+* [ ] Теория вероятностей. Математическая статистика.
+
 * 1. Основные понятия теории вероятности 
-* 2. Случайные величины и их характеристики 
-* 3. Статистические гипотезы. Динамика процессов 
-* 4. Направления теории случайных процессов 
-* 5. Марковские случайные процессы 
-* 6. Теория массового обслуживания 
-* 7. Прогнозирование случайных процессов
-* https://www.youtube.com/watch?v=KcWAcq5QGYQ&list=PLho0jPYl5RAECSwGW7vvANW\_5xDrBpSvZ&index=13
+* 1. Случайные величины и их характеристики 
+* 1. Статистические гипотезы. Динамика процессов 
+* 1. Направления теории случайных процессов 
+* 1. Марковские случайные процессы 
+* 1. Теория массового обслуживания 
+* 1. Прогнозирование случайных процессов
+* [https://www.youtube.com/watch?v=KcWAcq5QGYQ&list=PLho0jPYl5RAECSwGW7vvANW\_5xDrBpSvZ&index=13](https://www.youtube.com/watch?v=KcWAcq5QGYQ&list=PLho0jPYl5RAECSwGW7vvANW_5xDrBpSvZ&index=13)
 
+* [ ] Неделя 1. Линейная алгебра
 
+  В машинном обучении не обойтись без знаний линейной алгебры.[Курс по линейной алгебре](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/), прочитанный Гильбертом Стронгом является одним из наиболее популярных курсов на MIT OpenCourseWare. В визуализации таких вещей, как векторное произведение и определители, вам поможет[описанный нами курс](https://proglib.io/p/algebra/) 3Blue1Brown. В качестве шпаргалки можно воспользоваться [суперкратким изложением линейной алгебры на четырех страницах](https://minireference.com/static/tutorials/linear_algebra_in_4_pages.pdf), скриншот которого был приведен выше. На этом этапе важно усвоить сами концепции линейной алгебры. Со множеством реальных примеров вы далее обязательно столкнетесь на практике.
 
+* [ ] Неделя 2. Математический анализ
+
+  По математическому анализу существует уйма замечательных курсов, лучший из них вы можете выбрать[по одному из обсуждений на Quora](https://www.quora.com/What-is-the-best-online-calculus-course). В дополнение, в визуализации образов математического анализа вам поможет еще один [описанный нами](https://proglib.io/p/calculus/)иллюстративный курс 3Blue1Brown.
+
+* [ ] 
 ### Javascript
 
 * [ ] Книга Learning JavaScript Design Patterns Addy Osmani - [https://github.com/addyosmani/essential-js-design-patterns](https://github.com/addyosmani/essential-js-design-patterns)
