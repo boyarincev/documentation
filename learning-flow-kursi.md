@@ -16,7 +16,6 @@
 
 * [ ] Pluralsight [Understanding Machine Learning with R](https://app.pluralsight.com/library/courses/r-understanding-machine-learning)
 
-* [ ] * [ ] 
 ### Операционные системы
 
 * [ ] [Курс по созданию операционной системы для распбери пай](https://web.stanford.edu/class/cs140e/about/)
