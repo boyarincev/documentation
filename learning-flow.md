@@ -14,6 +14,10 @@ Learning Flow
 * [ ] [Iterators and generators in Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Iterators_and_generators) - MDN
 * [ ] [Побитовые операции](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Operators/Bitwise_Operators)
 * [ ] [Рефакторинг салона видеопроката на JavaScript](https://habrahabr.ru/post/320280/)
+* [ ] Андерс Хейлсберг о нововведениях в TypeScript на конференции MS Build 2017.
+  Очень интересное выступление Андерса Хейлсберга на Build 2017 о нововведениях в языке TypeScript с сильной строгой flow-sensitive системой типов \(flow typing\) - очень советую посмотреть!
+  https://channel9.msdn.com/Events/Build/2017/B8088/
+  Я сам практически не использую Windows в работе \(и остаюсь приверженцем Debian и Arch Linux\), но Андерс показывает классный отработанный до автоматизма экспириенс в Windows 10 и консоли, виртуозное владение TypeScript в редакторе в возможностями IDE Visual Studio Code - люблю смотреть такие выступления, это просто хай-тэк шоу и очень приятно наблюдать за работой профессионалов столь высокой квалификации!
 
 ### Angular
 
