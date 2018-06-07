@@ -16,7 +16,7 @@ Learning Flow
 * [ ] [Рефакторинг салона видеопроката на JavaScript](https://habrahabr.ru/post/320280/)
 * [ ] Андерс Хейлсберг о нововведениях в TypeScript на конференции MS Build 2017.
   Очень интересное выступление Андерса Хейлсберга на Build 2017 о нововведениях в языке TypeScript с сильной строгой flow-sensitive системой типов \(flow typing\) - очень советую посмотреть!
-  https://channel9.msdn.com/Events/Build/2017/B8088/
+  [https://channel9.msdn.com/Events/Build/2017/B8088/](https://channel9.msdn.com/Events/Build/2017/B8088/)
   Я сам практически не использую Windows в работе \(и остаюсь приверженцем Debian и Arch Linux\), но Андерс показывает классный отработанный до автоматизма экспириенс в Windows 10 и консоли, виртуозное владение TypeScript в редакторе в возможностями IDE Visual Studio Code - люблю смотреть такие выступления, это просто хай-тэк шоу и очень приятно наблюдать за работой профессионалов столь высокой квалификации!
 
 ### Angular
@@ -162,4 +162,8 @@ PostgreSQL INSERT с RETURNING - гарантированность возвра
 [https://stackoverflow.com/questions/3349540/throwing-exceptions-in-switch-statements-when-no-specified-case-can-be-handled](https://stackoverflow.com/questions/3349540/throwing-exceptions-in-switch-statements-when-no-specified-case-can-be-handled)
 
 [https://stackoverflow.com/questions/13645149/what-is-the-correct-exception-to-throw-for-unhandled-enum-values](https://stackoverflow.com/questions/13645149/what-is-the-correct-exception-to-throw-for-unhandled-enum-values)
+
+
+
+Использование делегатов с ковариантными/контрвариантными интерфейсами
 
