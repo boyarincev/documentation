@@ -164,21 +164,31 @@
 
   * [ ] [Линейная алгебра](https://stepik.org/course/2461)
 
+  * [ ] [Ликбез по дискретной математике](https://stepik.org/course/91/syllabus)
+
   * [ ] [Основы дискретной математики](https://stepik.org/course/1127)
 
   * [ ] [Введение в математический анализ](https://stepik.org/course/95)
 
   * [ ] [Теория вероятностей](https://stepik.org/course/3089)
 
+  * [ ] [Основы перечислительной комбинаторики](https://stepik.org/course/125/syllabus)
+
+  * [ ] [Дискретные структуры](https://stepik.org/course/83/syllabus)
+
 * [ ] Курсы Степика по Алгоритмам
 
   * [ ] [Теоретическая информатика: сложность вычислений](https://stepik.org/course/1613)
+
+  * [ ] [Введение в теоретическую информатику](https://stepik.org/course/104)
 
   * [ ] [Алгоритмы: теория и практика. Методы](https://stepik.org/course/217)
 
   * [ ] [Введение в теоретическую информатику](https://stepik.org/course/104)
 
   * [ ] [Алгоритмы: теория и практика. Структуры данных](https://stepik.org/course/1547)
+
+  * [ ]  [Основы теории графов](https://stepik.org/course/126/syllabus)
 
 * [ ] Структуры данных \(6 недель\)
 
@@ -252,6 +262,7 @@
 * [ ] Pluralsight Angular 2 Fundamentals \([Angular Fundamentals](https://app.pluralsight.com/library/courses/angular-fundamentals)\)
 
 * [ ] Архитектура Javascript \(где-то лежит статья\)
+
 * [ ] Pluralsight [AngularJS Patterns: Clean Code](https://app.pluralsight.com/library/courses/angularjs-patterns-clean-code)
 
 * [ ] Pluralsight [AngularJS In-Depth](https://app.pluralsight.com/library/courses/angularjs-in-depth)
