@@ -163,7 +163,15 @@ PostgreSQL INSERT с RETURNING - гарантированность возвра
 
 [https://stackoverflow.com/questions/13645149/what-is-the-correct-exception-to-throw-for-unhandled-enum-values](https://stackoverflow.com/questions/13645149/what-is-the-correct-exception-to-throw-for-unhandled-enum-values)
 
-
-
 Использование делегатов с ковариантными/контрвариантными интерфейсами
+
+Как работают аннотации таблиц, которые использует DynamicFilters
+
+https://romiller.com/2017/02/14/ef-core-1-1-read-only-entities-extending-metadata-with-annotations/
+
+https://stackoverflow.com/questions/48210091/how-to-access-the-ef-model-annotations-in-migration-class-up-method
+
+https://msdn.microsoft.com/en-us/library/system.data.entity.migrations.dbmigration.createtable\(v=vs.113\).aspx
+
+https://github.com/zzzprojects/EntityFramework.DynamicFilters/issues/90
 
