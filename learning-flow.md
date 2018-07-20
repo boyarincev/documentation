@@ -103,6 +103,10 @@ Learning Flow
 
 * [ ] [Три аспекта оптимизации \(БД и ПО\)](https://habrahabr.ru/post/349910/)
 
+### OLAP
+
+* [ ] Изучить Олап  http://www.olap.ru/basic/home.asp
+
 ### Идеи
 
 Сравнить производительность двух операций:
@@ -177,5 +181,5 @@ PostgreSQL INSERT с RETURNING - гарантированность возвра
 
 Для вызова c\# Interactive на моём коде
 
-https://stackoverflow.com/questions/11135571/can-the-c-sharp-interactive-window-interact-with-my-code
+[https://stackoverflow.com/questions/11135571/can-the-c-sharp-interactive-window-interact-with-my-code](https://stackoverflow.com/questions/11135571/can-the-c-sharp-interactive-window-interact-with-my-code)
 
