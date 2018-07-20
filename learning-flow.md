@@ -167,11 +167,15 @@ PostgreSQL INSERT с RETURNING - гарантированность возвра
 
 Как работают аннотации таблиц, которые использует DynamicFilters
 
-https://romiller.com/2017/02/14/ef-core-1-1-read-only-entities-extending-metadata-with-annotations/
+[https://romiller.com/2017/02/14/ef-core-1-1-read-only-entities-extending-metadata-with-annotations/](https://romiller.com/2017/02/14/ef-core-1-1-read-only-entities-extending-metadata-with-annotations/)
 
-https://stackoverflow.com/questions/48210091/how-to-access-the-ef-model-annotations-in-migration-class-up-method
+[https://stackoverflow.com/questions/48210091/how-to-access-the-ef-model-annotations-in-migration-class-up-method](https://stackoverflow.com/questions/48210091/how-to-access-the-ef-model-annotations-in-migration-class-up-method)
 
-https://msdn.microsoft.com/en-us/library/system.data.entity.migrations.dbmigration.createtable\(v=vs.113\).aspx
+[https://msdn.microsoft.com/en-us/library/system.data.entity.migrations.dbmigration.createtable\(v=vs.113\).aspx](https://msdn.microsoft.com/en-us/library/system.data.entity.migrations.dbmigration.createtable%28v=vs.113%29.aspx)
 
-https://github.com/zzzprojects/EntityFramework.DynamicFilters/issues/90
+[https://github.com/zzzprojects/EntityFramework.DynamicFilters/issues/90](https://github.com/zzzprojects/EntityFramework.DynamicFilters/issues/90)
+
+Для вызова c\# Interactive на моём коде
+
+https://stackoverflow.com/questions/11135571/can-the-c-sharp-interactive-window-interact-with-my-code
 
