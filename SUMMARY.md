@@ -23,4 +23,5 @@
 * [ASP.NET WEB API](aspnet-web-api.md)
 * [Еда](eda.md)
 * [Windows Server](windows-server.md)
+* [Jupyter Notebook](jupyter-notebook.md)
 
