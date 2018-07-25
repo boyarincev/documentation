@@ -189,3 +189,11 @@ PostgreSQL INSERT с RETURNING - гарантированность возвра
 
 перегружены, как например в string - то есть в случае со стринг будет проверка на ссылочную идентичность
 
+Тестирование производительности в .net
+
+https://github.com/dotnet/BenchmarkDotNet
+
+https://benchmarkdotnet.org/Overview.htm
+
+
+
