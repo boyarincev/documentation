@@ -105,7 +105,7 @@ Learning Flow
 
 ### OLAP
 
-* [ ] Изучить Олап  http://www.olap.ru/basic/home.asp
+* [ ] Изучить Олап  [http://www.olap.ru/basic/home.asp](http://www.olap.ru/basic/home.asp)
 
 ### Идеи
 
@@ -182,4 +182,10 @@ PostgreSQL INSERT с RETURNING - гарантированность возвра
 Для вызова c\# Interactive на моём коде
 
 [https://stackoverflow.com/questions/11135571/can-the-c-sharp-interactive-window-interact-with-my-code](https://stackoverflow.com/questions/11135571/can-the-c-sharp-interactive-window-interact-with-my-code)
+
+Ограничения параметров типов class и операции == и !=
+
+Скит написал, что в этом случае всегда проверяется ссылочная идентичность и не учитывается если эти операции
+
+перегружены, как например в string - то есть в случае со стринг будет проверка на ссылочную идентичность
 
