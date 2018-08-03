@@ -195,5 +195,7 @@ https://github.com/dotnet/BenchmarkDotNet
 
 https://benchmarkdotnet.org/Overview.htm
 
+Использование **StringComparison.Ordinal **or **StringComparison.OrdinalIgnoreCase**
 
+https://msdn.microsoft.com/en-us/library/ms973919.aspx
 
