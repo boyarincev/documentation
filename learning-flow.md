@@ -189,3 +189,7 @@ PostgreSQL INSERT с RETURNING - гарантированность возвра
 
 перегружены, как например в string - то есть в случае со стринг будет проверка на ссылочную идентичность
 
+Использование **StringComparison.Ordinal **or **StringComparison.OrdinalIgnoreCase**
+
+https://msdn.microsoft.com/en-us/library/ms973919.aspx
+
