@@ -191,11 +191,18 @@ PostgreSQL INSERT с RETURNING - гарантированность возвра
 
 Тестирование производительности в .net
 
-https://github.com/dotnet/BenchmarkDotNet
+[https://github.com/dotnet/BenchmarkDotNet](https://github.com/dotnet/BenchmarkDotNet)
 
-https://benchmarkdotnet.org/Overview.htm
+[https://benchmarkdotnet.org/Overview.htm](https://benchmarkdotnet.org/Overview.htm)
 
 Использование **StringComparison.Ordinal **or **StringComparison.OrdinalIgnoreCase**
 
-https://msdn.microsoft.com/en-us/library/ms973919.aspx
+[https://msdn.microsoft.com/en-us/library/ms973919.aspx](https://msdn.microsoft.com/en-us/library/ms973919.aspx)
+
+Попробовать поиграться с юникодом
+
+* Создать строку из байтов
+* Посмотреть юникодную строку в виде байтов и попробовать ее расшифровать
+
+
 
