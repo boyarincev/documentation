@@ -204,5 +204,9 @@ PostgreSQL INSERT с RETURNING - гарантированность возвра
 * Создать строку из байтов
 * Посмотреть юникодную строку в виде байтов и попробовать ее расшифровать
 
+Следующая ошибка в Visual Studio
+
+https://stackoverflow.com/questions/1695040/visual-studio-jump-to-next-error-shortcut
+
 
 
