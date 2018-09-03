@@ -206,7 +206,11 @@ PostgreSQL INSERT с RETURNING - гарантированность возвра
 
 Следующая ошибка в Visual Studio
 
-https://stackoverflow.com/questions/1695040/visual-studio-jump-to-next-error-shortcut
+[https://stackoverflow.com/questions/1695040/visual-studio-jump-to-next-error-shortcut](https://stackoverflow.com/questions/1695040/visual-studio-jump-to-next-error-shortcut)
+
+Насколько дорога операция typeof - бенчмарк тест
+
+typeof\(IList&lt;CubeElementViewModel&gt;\) == modelType vs кэшированная версия - для биндера
 
 
 
