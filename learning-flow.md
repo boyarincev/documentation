@@ -107,6 +107,10 @@ Learning Flow
 
 * [ ] Изучить Олап  [http://www.olap.ru/basic/home.asp](http://www.olap.ru/basic/home.asp)
 
+**ASP.NET**
+
+* [ ] Implementing a Session-State Store Provider https://msdn.microsoft.com/en-us/library/ms178587.aspx
+
 ### Идеи
 
 Сравнить производительность двух операций:
@@ -211,6 +215,4 @@ PostgreSQL INSERT с RETURNING - гарантированность возвра
 Насколько дорога операция typeof - бенчмарк тест
 
 typeof\(IList&lt;CubeElementViewModel&gt;\) == modelType vs кэшированная версия - для биндера
-
-
 
