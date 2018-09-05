@@ -84,6 +84,7 @@ Learning Flow
 ### Сsharp
 
 * [ ] [Исследуем сопоставление с образцом в C\# 7](https://habrahabr.ru/post/347916/)
+* [ ] Нюансы работы со строками: https://msdn.microsoft.com/en-us/library/ms973919.aspx
 
 ### Профилирование приложений
 
@@ -211,4 +212,10 @@ PostgreSQL INSERT с RETURNING - гарантированность возвра
 Насколько дорога операция typeof - бенчмарк тест
 
 typeof\(IList&lt;CubeElementViewModel&gt;\) == modelType vs кэшированная версия - для биндера
+
+**Тестирование производительности в PostgreSQL**
+
+Пример замера производительности: https://stackoverflow.com/questions/6633050/performance-difference-between-int4-and-int8-in-postgresql-on-64-bit-server
+
+Утилита для замеров производительности: https://www.postgresql.org/docs/10/static/pgbench.html
 
