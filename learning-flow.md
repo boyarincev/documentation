@@ -84,7 +84,7 @@ Learning Flow
 ### Сsharp
 
 * [ ] [Исследуем сопоставление с образцом в C\# 7](https://habrahabr.ru/post/347916/)
-* [ ] Нюансы работы со строками: https://msdn.microsoft.com/en-us/library/ms973919.aspx
+* [ ] Нюансы работы со строками: [https://msdn.microsoft.com/en-us/library/ms973919.aspx](https://msdn.microsoft.com/en-us/library/ms973919.aspx)
 
 ### Профилирование приложений
 
@@ -215,7 +215,11 @@ typeof\(IList&lt;CubeElementViewModel&gt;\) == modelType vs кэшированн
 
 **Тестирование производительности в PostgreSQL**
 
-Пример замера производительности: https://stackoverflow.com/questions/6633050/performance-difference-between-int4-and-int8-in-postgresql-on-64-bit-server
+Пример замера производительности: [https://stackoverflow.com/questions/6633050/performance-difference-between-int4-and-int8-in-postgresql-on-64-bit-server](https://stackoverflow.com/questions/6633050/performance-difference-between-int4-and-int8-in-postgresql-on-64-bit-server)
 
-Утилита для замеров производительности: https://www.postgresql.org/docs/10/static/pgbench.html
+Утилита для замеров производительности: [https://www.postgresql.org/docs/10/static/pgbench.html](https://www.postgresql.org/docs/10/static/pgbench.html)
+
+
+
+Можно ли использовать Body в Get запросе / Что такое Get запрос
 
