@@ -219,7 +219,9 @@ typeof\(IList&lt;CubeElementViewModel&gt;\) == modelType vs кэшированн
 
 Утилита для замеров производительности: [https://www.postgresql.org/docs/10/static/pgbench.html](https://www.postgresql.org/docs/10/static/pgbench.html)
 
-
-
 Можно ли использовать Body в Get запросе / Что такое Get запрос
+
+Частый вопрос на собеседовании Что такое Кластерный индекс
+
+https://stackoverflow.com/questions/4796548/about-clustered-index-in-postgres
 
