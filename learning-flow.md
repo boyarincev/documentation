@@ -223,5 +223,7 @@ typeof\(IList&lt;CubeElementViewModel&gt;\) == modelType vs кэшированн
 
 Частый вопрос на собеседовании Что такое Кластерный индекс
 
-https://stackoverflow.com/questions/4796548/about-clustered-index-in-postgres
+[https://stackoverflow.com/questions/4796548/about-clustered-index-in-postgres](https://stackoverflow.com/questions/4796548/about-clustered-index-in-postgres)
+
+Во что разворачивается yeld return
 
