@@ -22,6 +22,8 @@ pg_ctl -D . restart
 
 Обычно путь до инстанса - "C:\Program Files\PostgreSQL\data\pg95"
 
+Замечание: Похоже путь до инстанса нужно указывать в кавычках
+
 ### Доступ к метаданным
 
 Посмотреть какие сейчас блокировки в базе - [view pg\_locks](https://www.postgresql.org/docs/9.6/static/view-pg-locks.html)
