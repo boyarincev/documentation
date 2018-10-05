@@ -26,8 +26,6 @@ pg_ctl -D . restart
 
 ### Доступ к метаданным
 
-Посмотреть какие сейчас блокировки в базе - [view pg\_locks](https://www.postgresql.org/docs/9.6/static/view-pg-locks.html)
-
 [Другие системные вью и таблицы постгреса](https://www.postgresql.org/docs/9.6/static/catalogs.html) \(доступ ко всем метаданным\)
 
 ### Cборщики статистики
@@ -161,5 +159,21 @@ COMMIT;
 INSERT INTO data."dim_Perfomance_Load_Dimension_49" ("Id", "SortOrder") VALUES (4, 4)
 ```
 
+### Узнать местоположение таблицы в файловой системе
 
+[Раздел документации о том как всё хранится в файловой системе](https://www.postgresql.org/docs/10/static/storage.html)
+
+Определяем oid таблицы
+
+```
+SELECT oid FROM pg_class WHERE relname = 'employees';
+```
+
+Нужно запрашивать именно колонку oid - если просто выводить все поля таблицы через звёздочку, то oid колонка не будет показываться в итоговой выборке - колонка скрытая.
+
+```
+SELECT pg_relation_filepath(446565)
+```
+
+Покажет местоположение таблицы в файловой системе относительно местоположения БД в файловой системе \(в моём случае относительно  каталога "C:\Program Files\PostgreSQL\data\pg95"\)
 
