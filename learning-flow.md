@@ -81,6 +81,8 @@ Learning Flow
 
 * [ ] [15.1. How Parallel Query Works](https://www.postgresql.org/docs/9.6/static/how-parallel-query-works.html)
 
+* [ ] [Как стать спецом в Базах Данных](https://habr.com/post/429508/)
+
 ### Сsharp
 
 * [ ] [Исследуем сопоставление с образцом в C\# 7](https://habrahabr.ru/post/347916/)
@@ -150,7 +152,7 @@ Learning Flow
 
 * [ ] Часть 14:[Как работает JS: абстрактные синтаксические деревья, парсинг и его оптимизация](https://habr.com/company/ruvds/blog/415269/)
 
-* [ ] Работа с абстрактными синтаксическими деревьями JavaScript - Еще одна статья про АСТ в Javascript https://habr.com/company/jugru/blog/428628/
+* [ ] Работа с абстрактными синтаксическими деревьями JavaScript - Еще одна статья про АСТ в Javascript [https://habr.com/company/jugru/blog/428628/](https://habr.com/company/jugru/blog/428628/)
 
 * [ ] Часть 15:[Как работает JS: классы и наследование, транспиляция в Babel и TypeScript](https://habr.com/company/ruvds/blog/415377/)
 

@@ -16,6 +16,10 @@
 
 [Helor](https://helor-coffee.com/buy-now/)
 
+### Весы
+
+[Timemore](https://www.torrefacto.ru/catalog/accessories/timemore-black-mirror/) - китайские весы с приложением на телефон \(аналог akai ?\)
+
 ### Кофемашины
 
 [https://stoll-espresso.ru/articles/198229](https://stoll-espresso.ru/articles/198229) - про кофемашины
@@ -46,5 +50,11 @@ PID на теплообменнике: [https://www.home-barista.com/espresso-ma
 
 [http://www.cyberelectronics.org/?p=458](http://www.cyberelectronics.org/?p=458)
 
-http://int03.co.uk/blog/project-coffee-espiresso-machine/
+[http://int03.co.uk/blog/project-coffee-espiresso-machine/](http://int03.co.uk/blog/project-coffee-espiresso-machine/)
+
+### Приготовление
+
+[Техника приготовления эспрессо](https://www.torrefacto.ru/blog/brew-guide/espresso-first-steps/)
+
+
 

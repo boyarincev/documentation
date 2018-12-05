@@ -6,5 +6,5 @@
 
 [Обработка естественного языка: с чего начать и что изучать дальше](https://proglib.io/p/how-to-start-nlp/) - сборник ссылок, на ресурсы по изучению, немного советов.
 
-
+Есть русскоязычное сообщество в слаке OpenDataScience чтобы добавить в него нужно отправить [запрос](https://docs.google.com/forms/d/e/1FAIpQLSdjQB90EdZGV7Eelwo20WFC1ziP884FR_mtrsrdXPhEKIB3Ow/viewform)
 
