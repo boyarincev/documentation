@@ -180,6 +180,12 @@ Learning Flow
 
 * [ ] Хроники Архитектуры: [https://herbertograca.com/2017/07/03/the-software-architecture-chronicles/](https://herbertograca.com/2017/07/03/the-software-architecture-chronicles/)
 
+### .NET Internals
+
+* [ ] [DotNetClrBook](https://github.com/sidristij/dotnetbook)
+* [ ] [Не уважаю инкапсуляцию, или использование таблицы методов другого типа для быстрого вызова приватных методов](https://habr.com/post/423657/)
+* [ ] [Что происходит за кулисами С\#: основы работы со стеком](https://habr.com/post/427465/)
+
 ### Идеи
 
 Сравнить производительность двух операций:

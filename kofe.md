@@ -32,6 +32,8 @@ PID with pressure sensor instead of thermocouple: [https://www.home-barista.com/
 
 PID на теплообменнике: [https://www.home-barista.com/espresso-machines/hx-heaven-or-1-boiler-t6758.html](https://www.home-barista.com/espresso-machines/hx-heaven-or-1-boiler-t6758.html)
 
+[Тема про Acs Minima](https://coffeeforums.co.uk/showthread.php?45898-ACS-Minima-Beta-Machines-creating-list-of-people-who-want-one/page39) - новая дешевёвая двухбойлерная машина
+
 ### **DIY**
 
 Корзинка для измерения температуры: [https://www.home-barista.com/espresso-machines/building-diy-thermofilter-t38248.html](https://www.home-barista.com/espresso-machines/building-diy-thermofilter-t38248.html)
@@ -42,7 +44,7 @@ PID на теплообменнике: [https://www.home-barista.com/espresso-ma
 
 Установка регулятора мембраны: [https://www.youtube.com/watch?v=tarVahYAR1k](https://www.youtube.com/watch?v=tarVahYAR1k)+
 
-Установка роторной помпы на Expobar: https://wiki.wholelattelove.com/images/c/c0/EXPOBAR\_BREWTUS\_Rotary\_Pump\_Conversion.pdf
+Установка роторной помпы на Expobar: [https://wiki.wholelattelove.com/images/c/c0/EXPOBAR\_BREWTUS\_Rotary\_Pump\_Conversion.pdf](https://wiki.wholelattelove.com/images/c/c0/EXPOBAR_BREWTUS_Rotary_Pump_Conversion.pdf)
 
 ### Проекты самодельных кофемашин
 
