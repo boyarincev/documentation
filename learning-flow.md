@@ -120,7 +120,7 @@ Learning Flow
 
 ### Как работает Javascript
 
-* [ ]  Часть 1:[Обзор движка, механизмов времени выполнения, стека вызовов](https://habrahabr.ru/company/ruvds/blog/337042/)
+* [ ] Часть 1:[Обзор движка, механизмов времени выполнения, стека вызовов](https://habrahabr.ru/company/ruvds/blog/337042/)
 
 * [ ] Часть 2:[О внутреннем устройстве V8 и оптимизации кода](https://habrahabr.ru/company/ruvds/blog/337460/)
 
@@ -159,6 +159,14 @@ Learning Flow
 * [ ] Часть 18:[Как работает JS: WebRTC и механизмы P2P-коммуникаций](https://habr.com/company/ruvds/blog/416821/)
 
 * [ ] Часть 19:[Как работает JS: пользовательские элементы](https://habr.com/company/ruvds/blog/419831/)
+
+### Numpy и Scipy
+
+* [ ] Руководство https://engineering.ucsb.edu/~shell/che210d/numpy.pdf
+
+### BigData
+
+* [ ] Как яндекс хранит данные: https://habr.com/company/yandex/blog/273305/
 
 ### Идеи
 
