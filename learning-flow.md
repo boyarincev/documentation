@@ -150,6 +150,8 @@ Learning Flow
 
 * [ ] Часть 14:[Как работает JS: абстрактные синтаксические деревья, парсинг и его оптимизация](https://habr.com/company/ruvds/blog/415269/)
 
+* [ ] Работа с абстрактными синтаксическими деревьями JavaScript - Еще одна статья про АСТ в Javascript https://habr.com/company/jugru/blog/428628/
+
 * [ ] Часть 15:[Как работает JS: классы и наследование, транспиляция в Babel и TypeScript](https://habr.com/company/ruvds/blog/415377/)
 
 * [ ] Часть 16:[Как работает JS: системы хранения данных](https://habr.com/company/ruvds/blog/415505/)
@@ -174,7 +176,7 @@ Learning Flow
 
 ### Архитектура
 
-* [ ] Хроники Архитектуры: https://herbertograca.com/2017/07/03/the-software-architecture-chronicles/
+* [ ] Хроники Архитектуры: [https://herbertograca.com/2017/07/03/the-software-architecture-chronicles/](https://herbertograca.com/2017/07/03/the-software-architecture-chronicles/)
 
 ### Идеи
 
