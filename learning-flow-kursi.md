@@ -2,6 +2,10 @@
 
 ### Deep Learning
 
+Обзор онлайн курсов: https://medium.freecodecamp.org/every-single-machine-learning-course-on-the-internet-ranked-by-your-reviews-3c4a7b8026c0
+
+Как стать датасаентистом: https://habr.com/company/qiwi/blog/427311/
+
 * [ ] [Курс от курсеры](https://www.deeplearning.ai/)
 
 Учебного в ленту: Tess Ferrandez прошла на Coursera знаменитый курс лекций Andrew Ng по глубокому обучению и сделала очень классный визуальный конспект [https://www.slideshare.net/TessFerrandez/notes-from-coursera-deep-learning-courses-by-andrew-ng](https://www.slideshare.net/TessFerrandez/notes-from-coursera-deep-learning-courses-by-andrew-ng)
