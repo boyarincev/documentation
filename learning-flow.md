@@ -170,7 +170,11 @@ Learning Flow
 
 ### Чистый код
 
-Конспект книги Роберта Мартина https://habr.com/post/424051/
+Конспект книги Роберта Мартина [https://habr.com/post/424051/](https://habr.com/post/424051/)
+
+### Архитектура
+
+* [ ] Хроники Архитектуры: https://herbertograca.com/2017/07/03/the-software-architecture-chronicles/
 
 ### Идеи
 
