@@ -40,7 +40,9 @@ PID на теплообменнике: [https://www.home-barista.com/espresso-ma
 
 Регулировка прессостата на expobar: [https://www.youtube.com/watch?v=WVKg4z3yhkI](https://www.youtube.com/watch?v=WVKg4z3yhkI)
 
-Установка регулятора мембраны: [https://www.youtube.com/watch?v=tarVahYAR1k](https://www.youtube.com/watch?v=tarVahYAR1k)
+Установка регулятора мембраны: [https://www.youtube.com/watch?v=tarVahYAR1k](https://www.youtube.com/watch?v=tarVahYAR1k)+
+
+Установка роторной помпы на Expobar: https://wiki.wholelattelove.com/images/c/c0/EXPOBAR\_BREWTUS\_Rotary\_Pump\_Conversion.pdf
 
 ### Проекты самодельных кофемашин
 
@@ -55,6 +57,4 @@ PID на теплообменнике: [https://www.home-barista.com/espresso-ma
 ### Приготовление
 
 [Техника приготовления эспрессо](https://www.torrefacto.ru/blog/brew-guide/espresso-first-steps/)
-
-
 
