@@ -87,6 +87,14 @@ Learning Flow
 
 * [ ] [The SQLite Query Optimizer Overview](https://www.sqlite.org/optoverview.html) - как устроен квери оптимайзер
 
+* [ ] [Презентация о квери оптимизаторе постгреса](http://momjian.us/main/writings/pgsql/optimizer.pdf)
+
+* [ ] [Презентация как работает MVCC в постгресе](http://momjian.us/main/writings/pgsql/mvcc.pdf)
+
+* [ ] [Презентация как организована память в постгресе](http://momjian.us/main/writings/pgsql/inside_shmem.pdf)
+
+* [ ] [Пример анализа проблем производительности в постгресе](https://habr.com/company/postgrespro/blog/423685/)
+
 ### Сsharp
 
 * [ ] [Исследуем сопоставление с образцом в C\# 7](https://habrahabr.ru/post/347916/)
