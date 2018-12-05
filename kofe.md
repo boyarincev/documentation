@@ -24,25 +24,27 @@
 
 Мотор и Ротопомпа в комплекте: [https://expert-cm.ru/products/motor-s-pompoi-230v](https://expert-cm.ru/products/motor-s-pompoi-230v)
 
-PID with pressure sensor instead of thermocouple: https://www.home-barista.com/knockbox/pid-with-pressure-sensor-instead-of-thermocouple-t7587.html
+PID with pressure sensor instead of thermocouple: [https://www.home-barista.com/knockbox/pid-with-pressure-sensor-instead-of-thermocouple-t7587.html](https://www.home-barista.com/knockbox/pid-with-pressure-sensor-instead-of-thermocouple-t7587.html)
 
-PID на теплообменнике: https://www.home-barista.com/espresso-machines/hx-heaven-or-1-boiler-t6758.html
+PID на теплообменнике: [https://www.home-barista.com/espresso-machines/hx-heaven-or-1-boiler-t6758.html](https://www.home-barista.com/espresso-machines/hx-heaven-or-1-boiler-t6758.html)
 
 ### **DIY**
 
-Корзинка для измерения температуры: https://www.home-barista.com/espresso-machines/building-diy-thermofilter-t38248.html
+Корзинка для измерения температуры: [https://www.home-barista.com/espresso-machines/building-diy-thermofilter-t38248.html](https://www.home-barista.com/espresso-machines/building-diy-thermofilter-t38248.html)
 
-Цифровой прессостат: https://coffeesnobs.com.au/brewing-equipment-non-machine-specific/48696-digital-pressurestat.html
+Цифровой прессостат: [https://coffeesnobs.com.au/brewing-equipment-non-machine-specific/48696-digital-pressurestat.html](https://coffeesnobs.com.au/brewing-equipment-non-machine-specific/48696-digital-pressurestat.html)
 
-Регулировка прессостата на expobar: https://www.youtube.com/watch?v=WVKg4z3yhkI
+Регулировка прессостата на expobar: [https://www.youtube.com/watch?v=WVKg4z3yhkI](https://www.youtube.com/watch?v=WVKg4z3yhkI)
 
-Установка регулятора мембраны: https://www.youtube.com/watch?v=tarVahYAR1k
+Установка регулятора мембраны: [https://www.youtube.com/watch?v=tarVahYAR1k](https://www.youtube.com/watch?v=tarVahYAR1k)
 
 ### Проекты самодельных кофемашин
 
-https://playground.arduino.cc/Main/CoffeeTronics
+[https://playground.arduino.cc/Main/CoffeeTronics](https://playground.arduino.cc/Main/CoffeeTronics)
 
-http://josh.to/crema/page/3/
+[http://josh.to/crema/page/3/](http://josh.to/crema/page/3/)
 
-http://www.cyberelectronics.org/?p=458
+[http://www.cyberelectronics.org/?p=458](http://www.cyberelectronics.org/?p=458)
+
+http://int03.co.uk/blog/project-coffee-espiresso-machine/
 
