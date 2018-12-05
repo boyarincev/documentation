@@ -162,11 +162,15 @@ Learning Flow
 
 ### Numpy и Scipy
 
-* [ ] Руководство https://engineering.ucsb.edu/~shell/che210d/numpy.pdf
+* [ ] Руководство [https://engineering.ucsb.edu/~shell/che210d/numpy.pdf](https://engineering.ucsb.edu/~shell/che210d/numpy.pdf)
 
 ### BigData
 
-* [ ] Как яндекс хранит данные: https://habr.com/company/yandex/blog/273305/
+* [ ] Как яндекс хранит данные: [https://habr.com/company/yandex/blog/273305/](https://habr.com/company/yandex/blog/273305/)
+
+### Чистый код
+
+Конспект книги Роберта Мартина https://habr.com/post/424051/
 
 ### Идеи
 
