@@ -2,9 +2,9 @@
 
 ### Deep Learning
 
-Обзор онлайн курсов: https://medium.freecodecamp.org/every-single-machine-learning-course-on-the-internet-ranked-by-your-reviews-3c4a7b8026c0
+Обзор онлайн курсов: [https://medium.freecodecamp.org/every-single-machine-learning-course-on-the-internet-ranked-by-your-reviews-3c4a7b8026c0](https://medium.freecodecamp.org/every-single-machine-learning-course-on-the-internet-ranked-by-your-reviews-3c4a7b8026c0)
 
-Как стать датасаентистом: https://habr.com/company/qiwi/blog/427311/
+Как стать датасаентистом: [https://habr.com/company/qiwi/blog/427311/](https://habr.com/company/qiwi/blog/427311/)
 
 * [ ] [Курс от курсеры](https://www.deeplearning.ai/)
 
@@ -43,6 +43,10 @@
   * [ ] [Главы 15-19](https://habr.com/post/419885/)
   * [ ] [Главы 20-27](https://habr.com/post/420591/)
   * [ ] [Главы 28-29](https://habr.com/post/429832/)
+* [ ] Курс от OpenDataScience
+  * [ ] Начало курса https://habr.com/company/ods/blog/322626/
+  * [ ] Тут видеы к курсу: https://habr.com/company/ods/blog/344044/
+  * [ ] Сайт mlcourse.ai - запись на новую итерацию курса будет объявлена в январе 2019, начало в феврале 2019
 
 ### Python
 
