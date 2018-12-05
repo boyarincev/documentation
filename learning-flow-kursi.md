@@ -258,6 +258,16 @@
 
 Для затравки можно посмотреть видеокурс на Youtube от тех же авторов: [https://goo.gl/1qmmG3](https://goo.gl/1qmmG3)
 
+* [ ] Рекомендация как изучать математику от Савватаева
+  * [ ] [ Что такое математика? Курант Роббинс](http://ilib.mccme.ru/pdf/kurant.pdf)
+* [ ] Математическая логика и Теория алгоритмов
+
+  * [ ] [Шень Начала теории множество](https://www.mccme.ru/free-books/shen/shen-logic-part1-2.pdf)
+
+  * [ ] [Шень Языки и исчисления](https://www.mccme.ru/free-books/shen/shen-logic-part2-2.pdf)
+
+  * [ ] [Шень Вычислимые функции](https://www.mccme.ru/free-books/shen/shen-logic-part3-2.pdf)
+
 ### Javascript
 
 * [ ] Книга Learning JavaScript Design Patterns Addy Osmani - [https://github.com/addyosmani/essential-js-design-patterns](https://github.com/addyosmani/essential-js-design-patterns)
