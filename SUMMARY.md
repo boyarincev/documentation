@@ -27,4 +27,5 @@
 * [Functional Programming](functional-programming.md)
 * [WebDesign](webdesign.md)
 * [Health](health.md)
+* [Frontend](frontend.md)
 
