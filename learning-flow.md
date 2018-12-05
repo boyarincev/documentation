@@ -83,6 +83,10 @@ Learning Flow
 
 * [ ] [Как стать спецом в Базах Данных](https://habr.com/post/429508/)
 
+* [ ] [Индексы в постгресе](https://habr.com/company/postgrespro/blog/326096/)
+
+* [ ] [The SQLite Query Optimizer Overview](https://www.sqlite.org/optoverview.html) - как устроен квери оптимайзер
+
 ### Сsharp
 
 * [ ] [Исследуем сопоставление с образцом в C\# 7](https://habrahabr.ru/post/347916/)
