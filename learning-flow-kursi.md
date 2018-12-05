@@ -34,6 +34,11 @@
 * [ ] Книга Neural\_Networks\_A\_Compre\_Found\_2nd - NEURAL NETWORKS Simon Haykin - по-моему ее в книге по машинному обучению рекомендовали как одну из хороших книг \(в библиотеке pdf\)
 * [ ] Книга Гудфеллоу\_Я\_,\_Бенджио\_И\_,\_Курвилль Глубокое Обучение \(в библиотеке pdf\)
 * [ ] Книга DataScience Наука о данных с нуля \(в библиотеке\)
+* [ ] Первод книга Andrew Ng "Machine Learning Yearning"
+  * [ ] [Главы 1-14](https://habr.com/post/419757/)
+  * [ ] [Главы 15-19](https://habr.com/post/419885/)
+  * [ ] [Главы 20-27](https://habr.com/post/420591/)
+  * [ ] [Главы 28-29](https://habr.com/post/429832/)
 
 ### Python
 
@@ -188,7 +193,7 @@
 
   * [ ] [Алгоритмы: теория и практика. Структуры данных](https://stepik.org/course/1547)
 
-  * [ ]  [Основы теории графов](https://stepik.org/course/126/syllabus)
+  * [ ] [Основы теории графов](https://stepik.org/course/126/syllabus)
 
 * [ ] Структуры данных \(6 недель\)
 
