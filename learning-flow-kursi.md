@@ -44,8 +44,8 @@
   * [ ] [Главы 20-27](https://habr.com/post/420591/)
   * [ ] [Главы 28-29](https://habr.com/post/429832/)
 * [ ] Курс от OpenDataScience
-  * [ ] Начало курса https://habr.com/company/ods/blog/322626/
-  * [ ] Тут видеы к курсу: https://habr.com/company/ods/blog/344044/
+  * [ ] Начало курса [https://habr.com/company/ods/blog/322626/](https://habr.com/company/ods/blog/322626/)
+  * [ ] Тут видеы к курсу: [https://habr.com/company/ods/blog/344044/](https://habr.com/company/ods/blog/344044/)
   * [ ] Сайт mlcourse.ai - запись на новую итерацию курса будет объявлена в январе 2019, начало в феврале 2019
 
 ### Python
@@ -329,6 +329,14 @@
 * [ ] Книга Чистый Код Роберт Мартин \(в библиотеке\)
 
 * [ ] How to be a programmer \(в библиотеке pdf\)
+
+* [ ] Ричард Хэмминг о Научном стиле мышления
+
+  * [ ] [The Art of Doing Science and Engineering](http://worrydream.com/refs/Hamming-TheArtOfDoingScienceAndEngineering.pdf) - Это книга не просто про ИТ, это книга про стиль мышления невероятно крутых людей. «Это не просто заряд положительного мышления; в ней описаны условия, которые увеличивают шансы сделать великую работу.»
+
+  * [ ] [В этой статье оглавление с переводом книги](https://habr.com/post/426595/)
+
+  * [ ] [Вы и ваша работа](https://habr.com/post/209100/) - статья про то как делать научные исследования. Она лежит в основе книги
 
 ### Программирование Архитектура
 
