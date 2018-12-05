@@ -108,6 +108,16 @@ Learning Flow
 
 * [ ] Изучить Олап  [http://www.olap.ru/basic/home.asp](http://www.olap.ru/basic/home.asp)
 
+### Строки в .NET
+
+\[ \] [Строки в C\# и .NET](https://habr.com/post/165597/)
+
+\[ \] [Юникод и .NET](https://habr.com/post/193048/)
+
+\[ \] [Кодировки](http://kunststube.net/encoding/)
+
+\[ \] [Особенности строк в .NET](https://habr.com/post/172627/)
+
 ### Идеи
 
 Сравнить производительность двух операций:
