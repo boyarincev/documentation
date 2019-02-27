@@ -29,4 +29,5 @@
 * [Health](health.md)
 * [Frontend](frontend.md)
 * [Linux](linux.md)
+* [DIY](diy.md)
 
