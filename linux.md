@@ -3,12 +3,40 @@
 Очистка диска от данных: [https://wiki.archlinux.org/index.php/Securely\_wipe\_disk](https://wiki.archlinux.org/index.php/Securely_wipe_disk)
 
 ```
-# shred -v /dev/sd
+shred -v /dev/sd # очистить диск
+shred -v file1.txt file2.jpg file3.doc # очистить указанные файлы
 ```
+
+Больше про shred: https://www.computerhope.com/unix/shred.htm
 
 ## Управление процессами
 
+### Запуск в фоне
 
+```bash
+ count & # запуск программы в фоне
+ jobs # список работающих в
+ fg # перевести из фонового режима в активный программу (если выполняется в фоне только одна)
+ fg %# # перевести задачу с указанным номером джоба в активный режим
+ kill PID # убить фоновый процесс по PID
+ jobs -l # вывести список джобов с их PID'ами
+ count 2> /dev/null & 
+ # в фоне программа продолжить писать output и erros в консоль, перенаправить ошибки консоли в /dev/null
+ count > /dev/null 2>$1 & # ошибки и вывод в /dev/null
+ count 2>&1 > /dev/null # ошибки в консоль, вывод в /dev/null
+```
+
+#### Переводим запущенную программу в фон
+
+```bash
+# приостанавливаем выполнение программы  Ctrl-z
+jobs # выводим список джобов
+bg %# возобновляем работу программу в фоне
+```
+
+#### Перенаправления Ввода Вывода
+
+Основная статья: https://www.guru99.com/linux-redirection.html
 
 ## Работа с сервисами
 
@@ -45,9 +73,9 @@ WantedBy=multi-user.target
 ### Управление сервисами
 
 ```bash
-sudo systemctl enable kestrel-helloapp.service -- включение сервиса
-sudo systemctl start kestrel-helloapp.service -- старт сервиса
-sudo systemctl status kestrel-helloapp.service -- просмотр статуса сервиса
+sudo systemctl enable kestrel-helloapp.service #включение сервиса
+sudo systemctl start kestrel-helloapp.service #старт сервиса
+sudo systemctl status kestrel-helloapp.service #просмотр статуса сервиса
 ```
 
 ### Просмотр журнала сервиса
@@ -72,9 +100,5 @@ sudo ufw enable
 
 ## Fail2Ban
 
-[Основная статья](https://community.vscale.io/hc/ru/community/posts/211756429-%D0%98%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-fail2ban-%D0%B4%D0%BB%D1%8F-%D0%B7%D0%B0%D1%89%D0%B8%D1%82%D1%8B-SSH-%D0%BE%D1%82-%D0%BF%D0%BE%D0%B4%D0%B1%D0%BE%D1%80%D0%B0-%D0%BF%D0%B0%D1%80%D0%BE%D0%BB%D1%8F)
-
-
-
-
+[Основная статья](https://community.vscale.io/hc/ru/community/posts/211756429-Использование-fail2ban-для-защиты-SSH-от-подбора-пароля)
 
