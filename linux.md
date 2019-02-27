@@ -8,8 +8,6 @@
 
 ## Управление процессами
 
-
-
 ## Работа с сервисами
 
 ### Создание сервиса
@@ -72,9 +70,20 @@ sudo ufw enable
 
 ## Fail2Ban
 
-[Основная статья](https://community.vscale.io/hc/ru/community/posts/211756429-%D0%98%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-fail2ban-%D0%B4%D0%BB%D1%8F-%D0%B7%D0%B0%D1%89%D0%B8%D1%82%D1%8B-SSH-%D0%BE%D1%82-%D0%BF%D0%BE%D0%B4%D0%B1%D0%BE%D1%80%D0%B0-%D0%BF%D0%B0%D1%80%D0%BE%D0%BB%D1%8F)
+[Основная статья](https://community.vscale.io/hc/ru/community/posts/211756429-Использование-fail2ban-для-защиты-SSH-от-подбора-пароля)
 
+## Работа с SSH
 
+```bash
+$ ssh-keygen -t rsa -b 4096 -C "your_email@example.com" # Генерация ключа
+$ ssh-copy-id username@remotehost # Копирование на удалённый компьютер
+```
 
+### Статьи
 
+[Генерация ключа](https://help.github.com/en/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
+
+[Просмотр существующих ключей](https://help.github.com/en/articles/checking-for-existing-ssh-keys)
+
+[Настройка ssh на Ubuntu](https://help.ubuntu.com/lts/serverguide/openssh-server.html.en)
 
