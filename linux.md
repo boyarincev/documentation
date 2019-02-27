@@ -7,7 +7,7 @@ shred -v /dev/sd # очистить диск
 shred -v file1.txt file2.jpg file3.doc # очистить указанные файлы
 ```
 
-Больше про shred: https://www.computerhope.com/unix/shred.htm
+Больше про shred: [https://www.computerhope.com/unix/shred.htm](https://www.computerhope.com/unix/shred.htm)
 
 ## Управление процессами
 
@@ -36,7 +36,7 @@ bg %# возобновляем работу программу в фоне
 
 #### Перенаправления Ввода Вывода
 
-Основная статья: https://www.guru99.com/linux-redirection.html
+Основная статья: [https://www.guru99.com/linux-redirection.html](https://www.guru99.com/linux-redirection.html)
 
 ## Работа с сервисами
 
@@ -116,3 +116,6 @@ $ ssh-copy-id username@remotehost # Копирование на удалённы
 [Просмотр существующих ключей](https://help.github.com/en/articles/checking-for-existing-ssh-keys)
 
 [Настройка ssh на Ubuntu](https://help.ubuntu.com/lts/serverguide/openssh-server.html.en)
+
+[Очень подробно про настройку конфига](https://www.ssh.com/ssh/sshd_config/)
+
