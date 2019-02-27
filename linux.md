@@ -100,13 +100,52 @@ sudo ufw enable
 
 ## Fail2Ban
 
-[Основная статья](https://community.vscale.io/hc/ru/community/posts/211756429-Использование-fail2ban-для-защиты-SSH-от-подбора-пароля)
+[Основная статья](https://community.vscale.io/hc/ru/community/posts/211756429-Использование-fail2ban-для-защиты-SSH-от-подбора-пароля) по установке и настройке
+
+```
+sudo service fail2ban restart # перезапуск сервиса
+tail -n 20 -f /var/log/fail2ban.log # просмотр логов
+```
 
 ## Работа с SSH
 
 ```bash
 $ ssh-keygen -t rsa -b 4096 -C "your_email@example.com" # Генерация ключа
 $ ssh-copy-id username@remotehost # Копирование на удалённый компьютер
+
+$ sudo systemctl status ssh # узнать состояние ssh сервера
+
+$ ssh -i /path/to/id_rsa user@server.nixcraft.com # подключение по ssh с явным указанием ключа
+# (по-умолчанию используется ключ с названием id_rsa)
+```
+
+В конфиге ssh клиента можно указать какой ключ использовать для определённого клиента
+
+Редактируем \`~/.ssh/config\`
+
+```
+Host server1.nixcraft.com
+  IdentityFile ~/backups/.ssh/id_dsa
+Host server2.nixcraft.com
+  IdentityFile /backup/home/userName/.ssh/id_rsa
+```
+
+### Если не пускает под root по SSH
+
+```bash
+passwd root # У рута должен быть пароль
+```
+
+Редактируем конфиг /etc/ssh/sshd\_config
+
+```
+PermitRootLogin yes
+```
+
+Перезапускаем сервис
+
+```bash
+systemctl restart ssh || systemctl restart sshd
 ```
 
 ### Статьи
@@ -118,4 +157,21 @@ $ ssh-copy-id username@remotehost # Копирование на удалённы
 [Настройка ssh на Ubuntu](https://help.ubuntu.com/lts/serverguide/openssh-server.html.en)
 
 [Очень подробно про настройку конфига](https://www.ssh.com/ssh/sshd_config/)
+
+[Как добавить ssh ключи в Putty](https://support.rackspace.com/how-to/log-into-a-linux-server-with-an-ssh-private-key-on-windows/)
+
+[Статья в которой описывается создание ключа и его копирование на сервер](https://www.digitalocean.com/community/tutorials/ssh-ubuntu-18-04-ru)
+
+## Создание пользователя
+
+```bash
+adduser username # создать пользователя
+usermod -aG sudo username # включить в группу sudo 
+#по-умолчанию на Ubuntu пользователи состоящие в этой группе имеют sudo привилегии
+su - username # сменить пользователя на нового
+```
+
+## Создать архив tar.gz
+
+Можно сделать с помощью mc - есть пункт в меню появляющийся при нажатии на F2 - сожмёт всю директорию в которой сейчас находимся.
 
