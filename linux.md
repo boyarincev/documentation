@@ -102,3 +102,17 @@ sudo ufw enable
 
 [Основная статья](https://community.vscale.io/hc/ru/community/posts/211756429-Использование-fail2ban-для-защиты-SSH-от-подбора-пароля)
 
+## Работа с SSH
+
+```bash
+$ ssh-keygen -t rsa -b 4096 -C "your_email@example.com" # Генерация ключа
+$ ssh-copy-id username@remotehost # Копирование на удалённый компьютер
+```
+
+### Статьи
+
+[Генерация ключа](https://help.github.com/en/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
+
+[Просмотр существующих ключей](https://help.github.com/en/articles/checking-for-existing-ssh-keys)
+
+[Настройка ssh на Ubuntu](https://help.ubuntu.com/lts/serverguide/openssh-server.html.en)
