@@ -1,4 +1,4 @@
-# Linux
+# Linux \(Ubuntu\)
 
 Очистка диска от данных: [https://wiki.archlinux.org/index.php/Securely\_wipe\_disk](https://wiki.archlinux.org/index.php/Securely_wipe_disk)
 
@@ -86,7 +86,7 @@ sudo journalctl -fu kestrel-helloapp.service --since "2016-10-18" --until "2016-
 sudo journalctl -fu kestrel-helloapp.service --since today --until 1 hour ago
 ```
 
-## Firewall
+## Firewall \(ufw\)
 
 ```bash
 sudo apt-get install ufw
@@ -95,7 +95,24 @@ sudo ufw allow 22/tcp
 sudo ufw allow 80/tcp
 sudo ufw allow 443/tcp
 
+# или
+
+sudo ufw allow ssh
+sudo ufw allow http
+sudo ufw allow https
+
+sudo ufw allow from any to any port 10000 proto tcp
+sudo ufw allow from 10.1.1.231 to any port 443 proto tcp
+sudo ufw allow from 10.1.1.0/8 to any port 53 proto udp
+sudo ufw allow from any to any port 20,21 proto tcp
+
 sudo ufw enable
+
+sudo ufw status # вывести все текущие правила
+sudo ufw status verbose # видимо какой-то более расширенный вывод
+
+sudo ufw status numbered # вывести правила с номерами
+sudo ufw delete  5 # удалить правило по номеру
 ```
 
 ## Fail2Ban
@@ -171,7 +188,27 @@ usermod -aG sudo username # включить в группу sudo
 su - username # сменить пользователя на нового
 ```
 
-## Создать архив tar.gz
+## Midnight Commander
+
+### Создать архив tar.gz
 
 Можно сделать с помощью mc - есть пункт в меню появляющийся при нажатии на F2 - сожмёт всю директорию в которой сейчас находимся.
+
+### Работа с текстовым редактором
+
+Хоткеи текстового редактора: https://midnight-commander.org/wiki/doc/editor/hotkeys
+
+## SCP
+
+```bash
+$ scp username@from_host:file.txt /local/directory/ # копируем файл с удалённого хоста на локальный
+$ scp file.txt username@to_host:/remote/directory/ # копируем файл с локального хоста на удалённый
+$ scp -r username@from_host:/remote/directory/  /local/directory/ # копируем директорию с удалённого хоста на локальный
+$ scp -r /local/directory/ username@to_host:/remote/directory/$ scp username@from_host:/remote/directory/file.txt username@to_host:/remote/directory/
+$ # копируем директорию с удалённого хоста на удалённый
+$ scp -i ~/.ssh/id_rsa file username@to_host:/remote/directory 
+$ # с указанием ключа, который нужно использовать при подключении
+```
+
+
 
