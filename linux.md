@@ -223,7 +223,7 @@ PermitRootLogin prohibit-password # Запретить вход по парол�
 Перезапускаем сервис
 
 ```bash
-systemctl restart ssh || systemctl restart sshd
+sudo systemctl restart ssh || systemctl restart sshd || systemctl restart sshd.service
 ```
 
 ### Статьи
