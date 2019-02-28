@@ -9,6 +9,66 @@ shred -v file1.txt file2.jpg file3.doc # очистить указанные ф�
 
 Больше про shred: [https://www.computerhope.com/unix/shred.htm](https://www.computerhope.com/unix/shred.htm)
 
+## Хоткеи bash
+
+Working With Processes
+
+Ctrl+C: Interrupt \(kill\) the current foreground process running in in the terminal. This sends the SIGINT signal to the process, which is technically just a request—most processes will honor it, but some may ignore it.
+
+Ctrl+Z: Suspend the current foreground process running in bash. This sends the SIGTSTP signal to the process. To return the process to the foreground later, use the fg process\_name command.
+
+Ctrl+D: Close the bash shell. This sends an EOF \(End-of-file\) marker to bash, and bash exits when it receives this marker. This is similar to running the exit command.
+
+Controlling the Screen
+
+Ctrl+L: Clear the screen. This is similar to running the “clear” command.
+
+Ctrl+S: Stop all output to the screen. This is particularly useful when running commands with a lot of long, verbose output, but you don’t want to stop the command itself with Ctrl+C.
+
+Ctrl+Q: Resume output to the screen after stopping it with Ctrl+S.
+
+Moving the Cursor
+
+Ctrl+A or Home: Go to the beginning of the line.
+
+Ctrl+E or End: Go to the end of the line.
+
+Alt+B: Go left \(back\) one word.
+
+Ctrl+B: Go left \(back\) one character.
+
+Alt+F: Go right \(forward\) one word.
+
+Ctrl+F: Go right \(forward\) one character.
+
+Ctrl+XX: Move between the beginning of the line and the current position of the cursor. This allows you to press Ctrl+XX to return to the start of the line, change something, and then press Ctrl+XX to go back to your original cursor position. To use this shortcut, hold the Ctrl key and tap the X key twice.
+
+Deleting Text
+
+Ctrl+D or Delete: Delete the character under the cursor.
+
+Alt+D: Delete all characters after the cursor on the current line.
+
+Ctrl+H or Backspace: Delete the character before the cursor.
+
+Fixing Typos
+
+Alt+T: Swap the current word with the previous word.
+
+Ctrl+T: Swap the last two characters before the cursor with each other. You can use this to quickly fix typos when you type two characters in the wrong order.
+
+Ctrl+\_: Undo your last key press. You can repeat this to undo multiple times.
+
+Cutting and Pasting
+
+Ctrl+W: Cut the word before the cursor, adding it to the clipboard.
+
+Ctrl+K: Cut the part of the line after the cursor, adding it to the clipboard.
+
+Ctrl+U: Cut the part of the line before the cursor, adding it to the clipboard.
+
+Ctrl+Y: Paste the last thing you cut from the clipboard. The y here stands for “yank”.
+
 ## Управление процессами
 
 ### Запуск в фоне
@@ -91,7 +151,26 @@ ps aux # Все процессы запущенные под всеми поль
 
 ### history
 
+```
+history # выводить список последних команд в истории
+history | grep cd # поиск в истории
+!8 # выполнить восьмой номер в истории
+```
 
+Ctrl+r - поиск в истории, повторное нажатие перейти к следующему найденному, Enter - ввести команду.
+
+Ctrl+s - перейти к предыдущему найденному пункту в истории.
+
+Alt+r - если в команду полученную из историю внесли изменения и хочется их отменить.
+
+#### Поиск в истории, если начал набирать часть команды, но понял, что она есть в истории
+
+1. Перейти в начало строки \(Ctrl+a\)
+2. Нажать Ctrl+r \(это начнёт поиск в истории и скоприует в буфер обмена всё что после курсора\)
+3. Нажать Ctrl+y - это введёт набранную команду в поиск из буфера обмена
+4. Нажимая Ctrl+r можно передвигаться назад в истории
+
+[Куча все про историю и работу с ней](https://www.digitalocean.com/community/tutorials/how-to-use-bash-history-commands-and-expansions-on-a-linux-vps)
 
 ## Работа с сервисами
 
