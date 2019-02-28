@@ -11,7 +11,7 @@ shred -v file1.txt file2.jpg file3.doc # очистить указанные ф�
 
 ## Хоткеи bash
 
-Working With Processes
+### Working With Processes
 
 Ctrl+C: Interrupt \(kill\) the current foreground process running in in the terminal. This sends the SIGINT signal to the process, which is technically just a request—most processes will honor it, but some may ignore it.
 
@@ -19,7 +19,7 @@ Ctrl+Z: Suspend the current foreground process running in bash. This sends the S
 
 Ctrl+D: Close the bash shell. This sends an EOF \(End-of-file\) marker to bash, and bash exits when it receives this marker. This is similar to running the exit command.
 
-Controlling the Screen
+### Controlling the Screen
 
 Ctrl+L: Clear the screen. This is similar to running the “clear” command.
 
@@ -27,7 +27,7 @@ Ctrl+S: Stop all output to the screen. This is particularly useful when running 
 
 Ctrl+Q: Resume output to the screen after stopping it with Ctrl+S.
 
-Moving the Cursor
+### Moving the Cursor
 
 Ctrl+A or Home: Go to the beginning of the line.
 
@@ -43,7 +43,7 @@ Ctrl+F: Go right \(forward\) one character.
 
 Ctrl+XX: Move between the beginning of the line and the current position of the cursor. This allows you to press Ctrl+XX to return to the start of the line, change something, and then press Ctrl+XX to go back to your original cursor position. To use this shortcut, hold the Ctrl key and tap the X key twice.
 
-Deleting Text
+### Deleting Text
 
 Ctrl+D or Delete: Delete the character under the cursor.
 
@@ -59,7 +59,7 @@ Ctrl+T: Swap the last two characters before the cursor with each other. You can 
 
 Ctrl+\_: Undo your last key press. You can repeat this to undo multiple times.
 
-Cutting and Pasting
+### Cutting and Pasting
 
 Ctrl+W: Cut the word before the cursor, adding it to the clipboard.
 
