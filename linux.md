@@ -78,11 +78,9 @@ cat sample | grep -v a | sort - r
 
 ### grep
 
-Регулярки: https://www.guru99.com/linux-regular-expressions.html
+Регулярки: [https://www.guru99.com/linux-regular-expressions.html](https://www.guru99.com/linux-regular-expressions.html)
 
 ### less
-
-
 
 ### ps
 
@@ -200,6 +198,15 @@ Host server2.nixcraft.com
   IdentityFile /backup/home/userName/.ssh/id_rsa
 ```
 
+### Правим конфиг сервера
+
+Предварительно сделать копию конфига
+
+```bash
+sudo cp /etc/ssh/sshd_config /etc/ssh/sshd_config.original
+sudo chmod a-w /etc/ssh/sshd_config.original
+```
+
 ### Если не пускает под root по SSH
 
 ```bash
@@ -210,6 +217,7 @@ passwd root # У рута должен быть пароль
 
 ```
 PermitRootLogin yes
+PermitRootLogin prohibit-password # Запретить вход по паролю, но оставить по ключу
 ```
 
 Перезапускаем сервис
