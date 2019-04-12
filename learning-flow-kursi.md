@@ -47,6 +47,7 @@
   * [ ] Начало курса [https://habr.com/company/ods/blog/322626/](https://habr.com/company/ods/blog/322626/)
   * [ ] Тут видеы к курсу: [https://habr.com/company/ods/blog/344044/](https://habr.com/company/ods/blog/344044/)
   * [ ] Сайт mlcourse.ai - запись на новую итерацию курса будет объявлена в январе 2019, начало в феврале 2019
+* [ ] [Курсы от Amazone](https://aws.amazon.com/ru/training/learning-paths/machine-learning/)
 
 ### Python
 
