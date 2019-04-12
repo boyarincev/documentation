@@ -82,7 +82,7 @@ PID на теплообменнике: [https://www.home-barista.com/espresso-ma
 
 [Термометр](https://www.chriscoffee.com/e61-digital-thermometer-adapter-p/sss-04.htm) Эрика
 
-[Coffee-Sensor](https://coffee-sensor.com/) - Альтернативный термометр для группы
+[Coffee-Sensor](https://coffee-sensor.com/) - Альтернативный термометр для группы \([обсуждение на прокофе](http://prokofe.ru/plugins/forum/forum_viewtopic.php?212492), [обсуждение на coffeeforums.co.uk](https://coffeeforums.co.uk/showthread.php?47156-REVIEW-Coffee-Sensor-E61-digital-group-thermometer)\)
 
 [Здесь предлагают Coffee-Sensor](https://www.theespressoshop.co.uk/en/Coffee-Sensor-E61-HX-and-Dual-Boiler-Digital-Grouphead-Thermometer/m-4258.aspx) с доставкой за 7 фунтов
 
