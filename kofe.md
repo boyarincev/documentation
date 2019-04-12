@@ -38,6 +38,8 @@ PID на теплообменнике: [https://www.home-barista.com/espresso-ma
 
 [Lelit Bianca](https://www.bellabarista.co.uk/brands/lelit-bianca-dual-boiler-paddle-pl162t.html) - кофемашина с регулятором потока
 
+[ECM Classika PID](https://stoll-espresso.ru/products/ecm-classika-pid) - однобойлерная кофемашина с ПИД, группой е61, манометром давления помпы, за 1000 евро
+
 ### **DIY**
 
 Корзинка для измерения температуры: [https://www.home-barista.com/espresso-machines/building-diy-thermofilter-t38248.html](https://www.home-barista.com/espresso-machines/building-diy-thermofilter-t38248.html)
@@ -72,11 +74,15 @@ PID на теплообменнике: [https://www.home-barista.com/espresso-ma
 
 [Деаэратор](https://www.bellabarista.co.uk/espresso-parts/coffee-machine-parts-by-brand/expobar-parts/expobar-air-bleed-valve-brass.html) на беллабариста
 
-[OPV](https://www.theespressoshop.co.uk/en/Expobar-Pump-Bypass-Fitting-%C3%B8-18---30400055/m-4385.aspx) theespressoshop.co.uk
+[OPV](https://www.theespressoshop.co.uk/en/Expobar-Pump-Bypass-Fitting-ø-18---30400055/m-4385.aspx) theespressoshop.co.uk
 
 [OPV](https://shop.partsguru.com/Adjustable-expansion-valve-10-Bar-1-8M-1-8M-S200116.htm?categoryId=-1) использующийся на Gaggia
 
 [Front Panel](https://shop.partsguru.com/Expobar-Office-Front-Panel-W-Display-0040033.htm?categoryId=-1) с двумя манометрами и PID
 
 [Термометр](https://www.chriscoffee.com/e61-digital-thermometer-adapter-p/sss-04.htm) Эрика
+
+[Coffee-Sensor](https://coffee-sensor.com/) - Альтернативный термометр для группы
+
+[Здесь предлагают Coffee-Sensor](https://www.theespressoshop.co.uk/en/Coffee-Sensor-E61-HX-and-Dual-Boiler-Digital-Grouphead-Thermometer/m-4258.aspx) с доставкой за 7 фунтов
 
