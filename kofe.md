@@ -40,6 +40,10 @@ PID на теплообменнике: [https://www.home-barista.com/espresso-ma
 
 [ECM Classika PID](https://stoll-espresso.ru/products/ecm-classika-pid) - однобойлерная кофемашина с ПИД, группой е61, манометром давления помпы, за 1000 евро
 
+### Кофемолки
+
+[Wilfa grinder](https://www.slurp.coffee/en/shop/grinders/wilfa-svart-uniform-wsfbs-100b-coffee-grinder/) для эспрессо
+
 ### **DIY**
 
 Корзинка для измерения температуры: [https://www.home-barista.com/espresso-machines/building-diy-thermofilter-t38248.html](https://www.home-barista.com/espresso-machines/building-diy-thermofilter-t38248.html)
