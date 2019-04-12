@@ -10,3 +10,17 @@
 
 [Голосовой помошник Jasper](http://jasperproject.github.io/)
 
+[ИБП Powercom WOW 300](https://www.ozon.ru/context/detail/id/143212430/) - ИБП поддерживающий устройства с низким потреблением \([описание ИБП](http://pcm.ru/about/story/6022/) на сайте производителе\)
+
+[Обсуждение на Тостере ИБП для роутера](https://toster.ru/q/33887)
+
+[ИБП для пожарной сигнализации](http://www.inels.ru/item_ibp-postoyannogo-toka-shtil-ps1203b/) - похоже подходит для роутера
+
+Самодельный ИБП для распберри:
+
+[Обсуждение](https://forum.raspberrypi.ru/d/821)
+
+[Основная статья](http://raspberrypi.azm.su/page63.html)
+
+[Raspi UPS HAT Board](http://www.raspberrypiwiki.com/index.php/Raspi_UPS_HAT_Board) - плата резервного питания для распберри, статья на вики
+
