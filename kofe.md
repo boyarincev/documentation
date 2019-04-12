@@ -34,6 +34,10 @@ PID на теплообменнике: [https://www.home-barista.com/espresso-ma
 
 [Тема про Acs Minima](https://coffeeforums.co.uk/showthread.php?45898-ACS-Minima-Beta-Machines-creating-list-of-people-who-want-one/page39) - новая дешевёвая двухбойлерная машина
 
+[Acs Minima](https://www.bellabarista.co.uk/brands/acs-minima-dual-boiler-espresso-machine.html) на беллабариста
+
+[Lelit Bianca](https://www.bellabarista.co.uk/brands/lelit-bianca-dual-boiler-paddle-pl162t.html) - кофемашина с регулятором потока
+
 ### **DIY**
 
 Корзинка для измерения температуры: [https://www.home-barista.com/espresso-machines/building-diy-thermofilter-t38248.html](https://www.home-barista.com/espresso-machines/building-diy-thermofilter-t38248.html)
@@ -59,4 +63,20 @@ PID на теплообменнике: [https://www.home-barista.com/espresso-ma
 ### Приготовление
 
 [Техника приготовления эспрессо](https://www.torrefacto.ru/blog/brew-guide/espresso-first-steps/)
+
+### Кофештуки
+
+[Банки для кофе](https://www.bellabarista.co.uk/brands/airscape.html)
+
+### Запчасти для Expobar
+
+[Деаэратор](https://www.bellabarista.co.uk/espresso-parts/coffee-machine-parts-by-brand/expobar-parts/expobar-air-bleed-valve-brass.html) на беллабариста
+
+[OPV](https://www.theespressoshop.co.uk/en/Expobar-Pump-Bypass-Fitting-%C3%B8-18---30400055/m-4385.aspx) theespressoshop.co.uk
+
+[OPV](https://shop.partsguru.com/Adjustable-expansion-valve-10-Bar-1-8M-1-8M-S200116.htm?categoryId=-1) использующийся на Gaggia
+
+[Front Panel](https://shop.partsguru.com/Expobar-Office-Front-Panel-W-Display-0040033.htm?categoryId=-1) с двумя манометрами и PID
+
+[Термометр](https://www.chriscoffee.com/e61-digital-thermometer-adapter-p/sss-04.htm) Эрика
 
