@@ -24,3 +24,5 @@
 
 [Raspi UPS HAT Board](http://www.raspberrypiwiki.com/index.php/Raspi_UPS_HAT_Board) - плата резервного питания для распберри, статья на вики
 
+[Lazurite](https://habr.com/ru/post/443608/) - система управления умным домом
+

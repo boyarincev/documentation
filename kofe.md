@@ -40,6 +40,8 @@ PID на теплообменнике: [https://www.home-barista.com/espresso-ma
 
 [ECM Classika PID](https://stoll-espresso.ru/products/ecm-classika-pid) - однобойлерная кофемашина с ПИД, группой е61, манометром давления помпы, за 1000 евро
 
+[Dalla Corte MINI](https://coffeestate.ru/p226264155-dalla-corte-mini.html)
+
 ### Кофемолки
 
 [Wilfa grinder](https://www.slurp.coffee/en/shop/grinders/wilfa-svart-uniform-wsfbs-100b-coffee-grinder/) для эспрессо
@@ -85,6 +87,8 @@ PID на теплообменнике: [https://www.home-barista.com/espresso-ma
 [Front Panel](https://shop.partsguru.com/Expobar-Office-Front-Panel-W-Display-0040033.htm?categoryId=-1) с двумя манометрами и PID
 
 [Термометр](https://www.chriscoffee.com/e61-digital-thermometer-adapter-p/sss-04.htm) Эрика
+
+В термометре эрика в группу прикручивается  Swagelok P/N SS-200-1-0221BT \(так написано в [документации](https://www.chriscoffee.com/v/vspfiles/manuals/Digital_Thermometer_Adapter_Manual.pdf)\) - [попытался его найти](https://www.swagelok.com/en/search?N=0&Ntt=SS-200-1&nrpp=24&No=0&language=en&tab=productTabs&), возможно [вот этот подходит](https://www.swagelok.com/en/catalog/Product/Detail?part=SS-200-1-2RP)
 
 [Coffee-Sensor](https://coffee-sensor.com/) - Альтернативный термометр для группы \([обсуждение на прокофе](http://prokofe.ru/plugins/forum/forum_viewtopic.php?212492), [обсуждение на coffeeforums.co.uk](https://coffeeforums.co.uk/showthread.php?47156-REVIEW-Coffee-Sensor-E61-digital-group-thermometer)\)
 
