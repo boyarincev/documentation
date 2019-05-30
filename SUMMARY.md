@@ -33,5 +33,7 @@
 * [Entity Framework](entity-framework.md)
 * [Docker](docker.md)
 * [CLR via CSharp](clr-via-csharp.md)
-* 22. Хостинг CLR и домены приложений
+  * [Глава 21. Уборка мусора](glava-21-uborka-musora.md)
+  * [Глава 22. Хостинг CLR и домены приложений](clr-via-csharp/glava-22-hosting-clr-i-domeni-prilozhenii.md)
+  * Глава 23. Загрузка сборок и отражение
 
