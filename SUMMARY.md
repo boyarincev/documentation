@@ -35,5 +35,5 @@
 * [CLR via CSharp](clr-via-csharp.md)
   * [Глава 21. Уборка мусора](glava-21-uborka-musora.md)
   * [Глава 22. Хостинг CLR и домены приложений](clr-via-csharp/glava-22-hosting-clr-i-domeni-prilozhenii.md)
-  * Глава 23. Загрузка сборок и отражение
+  * [Глава 23. Загрузка сборок и отражение](glava-23-zagruzka-sborok-i-otrazhenie.md)
 
