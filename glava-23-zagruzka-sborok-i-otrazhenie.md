@@ -1,3 +1,7 @@
+---
+book: 'CLR via C#'
+---
+
 # Глава 23. Загрузка сборок и отражение
 
 Загрузить сборку в домен
@@ -134,7 +138,7 @@ RuntimeFieldHandle
 RuntimeMethodHandle
 ```
 
-это значимые типы, содержащие только IntPtr - это дескриптор, ссылающийся на тип, поле или метод в куче загрузчика домена. 
+это значимые типы, содержащие только IntPtr - это дескриптор, ссылающийся на тип, поле или метод в куче загрузчика домена.
 
 ```
 runtimeTypeHanlde = Type.GetTypeHandle(type); // обращение к типу
@@ -143,6 +147,4 @@ fieldInfo = FieldInfo.GetTypeFromHandle(runtimeFieldHandle);
 runtimeMethodHandle = methodInfo.MethodHandle;
 methodInfo = MethodInfo.GetMethodFromHandle(runtimeMethodHandle);
 ```
-
-
 
