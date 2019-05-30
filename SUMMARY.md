@@ -32,4 +32,6 @@
 * [DIY](diy.md)
 * [Entity Framework](entity-framework.md)
 * [Docker](docker.md)
+* [CLR via CSharp](clr-via-csharp.md)
+* 22. Хостинг CLR и домены приложений
 
