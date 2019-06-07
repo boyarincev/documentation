@@ -1,5 +1,6 @@
 ---
 book: 'Clr via C#'
+tags: synopsis
 ---
 
 # Глава 22. Хостинг CLR и домены приложений
