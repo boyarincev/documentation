@@ -38,6 +38,7 @@
   * [Глава 22. Хостинг CLR и домены приложений](clr-via-csharp/glava-22-hosting-clr-i-domeni-prilozhenii.md)
   * [Глава 23. Загрузка сборок и отражение](glava-23-zagruzka-sborok-i-otrazhenie.md)
   * Глава 26. Потоки исполнения
+  * [Глава 27. Асинхронные вычислительные операции](glava-27-asinhronnie-vichislitelnie-operatsii.md)
 * Summaries
   * Complete Code
     * [Глава 7. Высококачественные методы](glava-7-visokokachestvennie-metodi.md)
