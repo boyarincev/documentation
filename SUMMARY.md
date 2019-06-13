@@ -34,14 +34,14 @@
 * [Entity Framework](entity-framework.md)
 * [Docker](docker.md)
 * [CLR via CSharp](clr-via-csharp.md)
-  * [Глава 20. Исключения и управление состоянием](glava-20-isklyucheniya-i-upravlenie-sostoyaniem.md)
-  * [Глава 21. Уборка мусора](glava-21-uborka-musora.md)
+  * [Глава 20. Исключения и управление состоянием](clr-via-csharp/glava-20-isklyucheniya-i-upravlenie-sostoyaniem.md)
+  * [Глава 21. Уборка мусора](clr-via-csharp/glava-21-uborka-musora.md)
   * [Глава 22. Хостинг CLR и домены приложений](clr-via-csharp/glava-22-hosting-clr-i-domeni-prilozhenii.md)
-  * [Глава 23. Загрузка сборок и отражение](glava-23-zagruzka-sborok-i-otrazhenie.md)
-  * [Глава 26. Потоки исполнения](glava-26-potoki-ispolneniya.md)
-  * [Глава 27. Асинхронные вычислительные операции](glava-27-asinhronnie-vichislitelnie-operatsii.md)
-  * [Глава 28. Асинхронные операции ввода-вывода](glava-28-asinhronnie-operatsii-vvoda-vivoda.md)
+  * [Глава 23. Загрузка сборок и отражение](clr-via-csharp/glava-23-zagruzka-sborok-i-otrazhenie.md)
+  * [Глава 26. Потоки исполнения](clr-via-csharp/glava-26-potoki-ispolneniya.md)
+  * [Глава 27. Асинхронные вычислительные операции](clr-via-csharp/glava-27-asinhronnie-vichislitelnie-operatsii.md)
+  * [Глава 28. Асинхронные операции ввода-вывода](clr-via-csharp/glava-28-asinhronnie-operatsii-vvoda-vivoda.md)
 * Summaries
   * Complete Code
-    * [Глава 7. Высококачественные методы](glava-7-visokokachestvennie-metodi.md)
+    * [Глава 7. Высококачественные методы](complete-code/glava-7-visokokachestvennie-metodi.md)
 
