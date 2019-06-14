@@ -38,7 +38,7 @@
   * [Глава 21. Уборка мусора](glava-21-uborka-musora.md)
   * [Глава 22. Хостинг CLR и домены приложений](clr-via-csharp/glava-22-hosting-clr-i-domeni-prilozhenii.md)
   * [Глава 23. Загрузка сборок и отражение](glava-23-zagruzka-sborok-i-otrazhenie.md)
-  * Глава 26. Потоки исполнения
+  * [Глава 26. Потоки исполнения](glava-26-potoki-ispolneniya.md)
   * [Глава 27. Асинхронные вычислительные операции](glava-27-asinhronnie-vichislitelnie-operatsii.md)
   * [Глава 28. Асинхронные операции ввода-вывода](glava-28-asinhronnie-operatsii-vvoda-vivoda.md)
 * Summaries
