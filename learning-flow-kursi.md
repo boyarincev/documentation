@@ -68,11 +68,12 @@
 * [ ] Книга Under The Hood .Net Management - управление памятью в .NET \(в библиотеке pdf\)
 * [ ] Книга Джон Скит \(в библиотеке\)
 * [ ] Книга Clr via C\# \(в библиотеке\)
-* [ ] Книга Concurrency in C\# \(в библиотеке\)
+* [x] Книга Concurrency in C\# \(в библиотеке\)
 * [ ] Книга Внедрение зависимостей .NET
 * [ ] Книга Adaptive Code via C\# \(в библиотеке pdf\)
 * [ ] Книга Pefomance .NET \(в библиотеке\)
 * [ ] .NET Clr Book Сидристый - [https://github.com/sidristij/dotnetbook](https://github.com/sidristij/dotnetbook)
+* [ ] Конрад Кокос .NET Memory Book
 * [ ] Pluralsight MSIL for the C\# Developer [https://app.pluralsight.com/library/courses/msil-csharp-developer/](https://app.pluralsight.com/library/courses/msil-csharp-developer/)
 * [ ] Pluralsight [Measuring .NET Performance](https://app.pluralsight.com/library/courses/measuring-dotnet-performance)
 
