@@ -17,7 +17,6 @@
 * [Job Interviews](job-interviews.md)
 * [Markup](markup.md)
 * [Learning Flow](learning-flow.md)
-  * [TaskScheduler vs SynchronizationContext](learning-flow/taskscheduler-vs-synchronizationcontext.md)
 * [Кофе](kofe.md)
 * [Learning Flow Курсы](learning-flow-kursi.md)
 * [Drones](drones.md)
