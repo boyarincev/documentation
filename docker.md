@@ -8,6 +8,9 @@ sudo docker run  -v /home/boyarincev/data-collection-share:/mnt/volume --rm -p 8
 sudo docker stop  data-collection_sample
 sudo docker build -t data-collection:CLang -f installer/docker/dockerfile --build-arg=VERSION=2.13.1 .
 sudo docker build -t baseenv .
+
+sudo docker ps -a // запущенные и не запущенные контейнеры
+sudo docker stop имя_контейнера //остановить контейнер
 ```
 
 
