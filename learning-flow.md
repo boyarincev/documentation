@@ -50,13 +50,6 @@ Learning Flow
 
 * [ ] [How do I return multiple result sets with SqlCommand?](https://stackoverflow.com/questions/12715620/how-do-i-return-multiple-result-sets-with-sqlcommand)
 
-### Entity Framework
-
-* [ ] [Прямой SQL в EntityFramework. Теперь со строгой типизацией](https://habrahabr.ru/post/347820/)
-* [ ] [Fastest Way of Inserting in Entity Framework](https://stackoverflow.com/questions/5940225/fastest-way-of-inserting-in-entity-framework)
-
-* [ ] [Improving bulk insert performance in Entity framework](https://stackoverflow.com/questions/6107206/improving-bulk-insert-performance-in-entity-framework)
-
 ### Deep Learning
 
 * [ ] [Бесплатная GPU Tesla K80 для ваших экспериментов с нейросетями](https://habrahabr.ru/post/348058/)
