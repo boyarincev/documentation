@@ -19,10 +19,6 @@ Learning Flow
   [https://channel9.msdn.com/Events/Build/2017/B8088/](https://channel9.msdn.com/Events/Build/2017/B8088/)
   Я сам практически не использую Windows в работе \(и остаюсь приверженцем Debian и Arch Linux\), но Андерс показывает классный отработанный до автоматизма экспириенс в Windows 10 и консоли, виртуозное владение TypeScript в редакторе в возможностями IDE Visual Studio Code - люблю смотреть такие выступления, это просто хай-тэк шоу и очень приятно наблюдать за работой профессионалов столь высокой квалификации!
 
-### Angular
-
-[Angular 1.5: Компоненты](https://habrahabr.ru/post/277087/)
-
 ### Утечки памяти в Angular
 
 * [ ] [How does data binding work in AngularJS?](https://stackoverflow.com/questions/9682092/how-does-data-binding-work-in-angularjs) - Объяснение как биндинг работает в Angular + про время выполнения с разным количеством вотчеров и в разных браузерах
@@ -194,7 +190,6 @@ Learning Flow
 
 ### .NET Internals
 
-* [ ] [DotNetClrBook](https://github.com/sidristij/dotnetbook)
 * [ ] [Не уважаю инкапсуляцию, или использование таблицы методов другого типа для быстрого вызова приватных методов](https://habr.com/post/423657/)
 * [ ] [Что происходит за кулисами С\#: основы работы со стеком](https://habr.com/post/427465/)
 
