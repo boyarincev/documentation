@@ -10,6 +10,12 @@
 
 [Кириллица в psql](http://www.iu5bmstu.ru/index.php/PostgreSQL_-_Кириллица_в_psql_под_Windows)
 
+### pgcli
+
+Более продвинутая консольная утилита для доступа к БД
+
+[https://www.pgcli.com/](https://www.pgcli.com/)
+
 ### Управление сервером \(рестарт, старт, шутдаун\)
 
 [Утилита для управления сервером PostgreSQL - pg-ctl](https://www.postgresql.org/docs/9.3/static/app-pg-ctl.html) \(рестарт, старт, шутдаун\)
