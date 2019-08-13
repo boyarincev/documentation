@@ -46,4 +46,5 @@
     * [Глава 7. Высококачественные методы](complete-code/glava-7-visokokachestvennie-metodi.md)
   * [Databases](summaries/databases.md)
 * [LinAlg](linalg.md)
+* [DWH](dwh.md)
 
