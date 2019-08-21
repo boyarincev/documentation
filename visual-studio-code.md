@@ -10,6 +10,7 @@
 | Ctrl+K, Ctrl+S | Открыть настройки шорткатов |
 | Ctrl+1/2/3/4 | Переключить Editor Group |
 | Ctrl+F11 | Максимизировать текущий Editor Group \(кастомный шорткат\) |
+| Ctrl+Alt+L | Переключиться в File Explorer |
 
 
 
