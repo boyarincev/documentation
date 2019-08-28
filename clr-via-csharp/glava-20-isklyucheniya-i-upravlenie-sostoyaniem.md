@@ -59,3 +59,5 @@ Constrained Executation Region - CER.
 
 Смотреть документацию для `RunitmeHelper.PrepareContrainedRegion()`
 
+Ещё похоже в коде в такой области не может быть выкинута ThreadAbortException.
+
