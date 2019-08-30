@@ -48,4 +48,5 @@
 * [LinAlg](linalg.md)
 * [DWH](dwh.md)
 * [Visual Studio Code](visual-studio-code.md)
+* [Innopolis](innopolis.md)
 
