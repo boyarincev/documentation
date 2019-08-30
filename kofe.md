@@ -76,6 +76,8 @@ PID на теплообменнике: [https://www.home-barista.com/espresso-ma
 
 [Банки для кофе](https://www.bellabarista.co.uk/brands/airscape.html)
 
+[Flow Control E61](https://www.wholelattelove.com/collections/profitec/products/profitec-e61-flow-control-device)
+
 ### Запчасти для Expobar
 
 [Деаэратор](https://www.bellabarista.co.uk/espresso-parts/coffee-machine-parts-by-brand/expobar-parts/expobar-air-bleed-valve-brass.html) на беллабариста
