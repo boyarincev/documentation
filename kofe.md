@@ -42,6 +42,8 @@ PID на теплообменнике: [https://www.home-barista.com/espresso-ma
 
 [Dalla Corte MINI](https://coffeestate.ru/p226264155-dalla-corte-mini.html)
 
+[Российская кофемашина GUFO](http://www.guforus.com/s1.php): [Характеристики](http://www.guforus.com/files/GUFO_S1.pdf)
+
 ### Кофемолки
 
 [Wilfa grinder](https://www.slurp.coffee/en/shop/grinders/wilfa-svart-uniform-wsfbs-100b-coffee-grinder/) для эспрессо
