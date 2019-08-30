@@ -4,3 +4,5 @@
 
 [Статья про пластик на Медузе](https://meduza.io/feature/2019/06/20/naskolko-vreden-plastik-nuzhno-li-ot-nego-otkazatsya-i-kuda-ego-sdat)
 
+[Маркировки пластика](https://www.sibur.ru/upload/iblock/54f/54fa1e558a8e65febce81bbf7116ec99.pdf)
+
