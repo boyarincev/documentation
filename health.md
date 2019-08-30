@@ -6,3 +6,5 @@
 
 [Маркировки пластика](https://www.sibur.ru/upload/iblock/54f/54fa1e558a8e65febce81bbf7116ec99.pdf)
 
+[Минерализатор воды](https://www.barrier.ru/product/smennye-kartridzhi-dlya-filtrov/pod-mojku/osmos/komplekt-mineralizatora-ro/)
+
