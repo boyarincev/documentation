@@ -80,6 +80,8 @@ PID на теплообменнике: [https://www.home-barista.com/espresso-ma
 
 [Flow Control E61](https://www.wholelattelove.com/collections/profitec/products/profitec-e61-flow-control-device)
 
+[Lynweber](https://lynweber.com/products/) \(всякие интересные штуки, например зеркало и мензурки\)
+
 ### Запчасти для Expobar
 
 [Деаэратор](https://www.bellabarista.co.uk/espresso-parts/coffee-machine-parts-by-brand/expobar-parts/expobar-air-bleed-valve-brass.html) на беллабариста
