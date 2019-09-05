@@ -49,4 +49,5 @@
 * [DWH](dwh.md)
 * [Visual Studio Code](visual-studio-code.md)
 * [Innopolis](innopolis.md)
+* Visual Studio
 
