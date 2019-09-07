@@ -34,6 +34,7 @@
 * [Docker](docker.md)
 * [CLR via CSharp](clr-via-csharp.md)
   * [Глава 1. Модель выполнения кода в среде CLR](clr-via-csharp/glava-1-model-vipolneniya-koda-v-srede-clr.md)
+  * [Глава 2. Компоновка, упаковка, развертывание и администрирование приложений и типов](clr-via-csharp/glava-2-komponovka-upakovka-razvertivanie-i-administrirovanie-prilozhenii-i-tipov.md)
   * [Глава 20. Исключения и управление состоянием](clr-via-csharp/glava-20-isklyucheniya-i-upravlenie-sostoyaniem.md)
   * [Глава 21. Уборка мусора](clr-via-csharp/glava-21-uborka-musora.md)
   * [Глава 22. Хостинг CLR и домены приложений](clr-via-csharp/glava-22-hosting-clr-i-domeni-prilozhenii.md)
@@ -41,7 +42,6 @@
   * [Глава 26. Потоки исполнения](clr-via-csharp/glava-26-potoki-ispolneniya.md)
   * [Глава 27. Асинхронные вычислительные операции](clr-via-csharp/glava-27-asinhronnie-vichislitelnie-operatsii.md)
   * [Глава 28. Асинхронные операции ввода-вывода](clr-via-csharp/glava-28-asinhronnie-operatsii-vvoda-vivoda.md)
-  * [Глава 29. Примитивные конструкции синхронизации потоков](clr-via-csharp/glava-29-primitivnie-konstruktsii-sinhronizatsii-potokov.md)
   * [Глава 2. Компоновка, упаковка, развертывание и администрирование приложений и типов](clr-via-csharp/glava-2-komponovka-upakovka-razvertivanie-i-administrirovanie-prilozhenii-i-tipov.md)
 * [Summaries](summaries.md)
   * Complete Code
