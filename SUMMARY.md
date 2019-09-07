@@ -42,7 +42,6 @@
   * [Глава 26. Потоки исполнения](clr-via-csharp/glava-26-potoki-ispolneniya.md)
   * [Глава 27. Асинхронные вычислительные операции](clr-via-csharp/glava-27-asinhronnie-vichislitelnie-operatsii.md)
   * [Глава 28. Асинхронные операции ввода-вывода](clr-via-csharp/glava-28-asinhronnie-operatsii-vvoda-vivoda.md)
-  * [Глава 2.](clr-via-csharp/glava-2.md)
 * [Summaries](summaries.md)
   * Complete Code
     * [Глава 7. Высококачественные методы](complete-code/glava-7-visokokachestvennie-metodi.md)
