@@ -42,6 +42,7 @@
   * [Глава 23. Загрузка сборок и отражение](clr-via-csharp/glava-23-zagruzka-sborok-i-otrazhenie.md)
   * [Глава 26. Потоки исполнения](clr-via-csharp/glava-26-potoki-ispolneniya.md)
   * [Глава 27. Асинхронные вычислительные операции](clr-via-csharp/glava-27-asinhronnie-vichislitelnie-operatsii.md)
+  * [Глава 4. Основы типов](clr-via-csharp/glava-4-osnovi-tipov.md)
 * [Summaries](summaries.md)
   * Complete Code
     * [Глава 7. Высококачественные методы](complete-code/glava-7-visokokachestvennie-metodi.md)
