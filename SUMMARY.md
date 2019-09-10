@@ -51,4 +51,5 @@
 * [Visual Studio Code](visual-studio-code.md)
 * [Innopolis](innopolis.md)
 * [Visual Studio](visual-studio.md)
+* [Python](python.md)
 
