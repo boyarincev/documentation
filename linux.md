@@ -140,6 +140,14 @@ cat sample | grep -v a | sort - r
 
 Регулярки: [https://www.guru99.com/linux-regular-expressions.html](https://www.guru99.com/linux-regular-expressions.html)
 
+```bash
+tecmint@TecMint ~ $ grep "aaronkilik" /etc/passwd
+aaronkilik:x:1001:1001::/home/aaronkilik:
+
+tecmint@TecMint ~ $ cat /etc/passwd | grep "aronkilik"
+aaronkilik:x:1001:1001::/home/aaronkilik:
+```
+
 ### less
 
 ### ps
