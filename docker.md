@@ -10,7 +10,7 @@ sudo docker build -t data-collection:CLang -f installer/docker/dockerfile --buil
 sudo docker build -t baseenv .
 
 sudo docker ps -a // запущенные и не запущенные контейнеры
-sudo docker stop имя_контейнера //остановить контейнер
+sudo docker stop имя_контейнера //остановить контейнерs
 ```
 
 
