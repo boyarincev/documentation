@@ -136,6 +136,8 @@ cat sample | grep -v a | sort - r
 
 ## Утилиты командной строки
 
+Статья про утилиты работающие с текстом: [https://www.tecmint.com/linux-file-operations-commands/](https://www.tecmint.com/linux-file-operations-commands/)
+
 ### grep
 
 Регулярки: [https://www.guru99.com/linux-regular-expressions.html](https://www.guru99.com/linux-regular-expressions.html)
