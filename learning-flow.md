@@ -2,31 +2,15 @@ Learning Flow
 
 ### Утечки памяти в Javascript
 
-* [x] [Best practices for reducing Garbage Collector activity in Javascript](https://stackoverflow.com/questions/18364175/best-practices-for-reducing-garbage-collector-activity-in-javascript) - много советов как избежать сборку мусора
-* [ ] [Javascript and Garbage collection](https://stackoverflow.com/questions/18800440/javascript-and-garbage-collection) - небольшой ответ про то как избегать сборки мусора
+* [ ] [**Memory Management**](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Memory_Management)** в Javascript - Must Read, статья с MDN**
 
-* [x] [**Memory Management**](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Memory_Management)** в Javascript - Must Read, статья с MDN**
-
-* [x] [**Concurrency model and Event Loop in Javascript**](https://developer.mozilla.org/en-US/docs/Web/JavaScript/EventLoop)** - Must Read, статья с MDN**
+* [ ] [**Concurrency model and Event Loop in Javascript**](https://developer.mozilla.org/en-US/docs/Web/JavaScript/EventLoop)** - Must Read, статья с MDN**
 
 ### Javascript
 
 * [ ] [Iterators and generators in Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Iterators_and_generators) - MDN
 * [ ] [Побитовые операции](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Operators/Bitwise_Operators)
 * [ ] [Рефакторинг салона видеопроката на JavaScript](https://habrahabr.ru/post/320280/)
-* [ ] Андерс Хейлсберг о нововведениях в TypeScript на конференции MS Build 2017.
-  Очень интересное выступление Андерса Хейлсберга на Build 2017 о нововведениях в языке TypeScript с сильной строгой flow-sensitive системой типов \(flow typing\) - очень советую посмотреть!
-  [https://channel9.msdn.com/Events/Build/2017/B8088/](https://channel9.msdn.com/Events/Build/2017/B8088/)
-  Я сам практически не использую Windows в работе \(и остаюсь приверженцем Debian и Arch Linux\), но Андерс показывает классный отработанный до автоматизма экспириенс в Windows 10 и консоли, виртуозное владение TypeScript в редакторе в возможностями IDE Visual Studio Code - люблю смотреть такие выступления, это просто хай-тэк шоу и очень приятно наблюдать за работой профессионалов столь высокой квалификации!
-
-### Утечки памяти в Angular
-
-* [ ] [How does data binding work in AngularJS?](https://stackoverflow.com/questions/9682092/how-does-data-binding-work-in-angularjs) - Объяснение как биндинг работает в Angular + про время выполнения с разным количеством вотчеров и в разных браузерах
-* [x] [What is the lifecycle of an AngularJS Controller?](https://stackoverflow.com/questions/16094940/what-is-the-lifecycle-of-an-angularjs-controller) - рассказывается когда уничтожается скоуп контроллера при роутинге
-* [x] [Memory management in Angular applications](https://medium.com/@rlucha/memory-management-in-angular-applications-12f05499b36d) - какая-то общая вода из-за чего может утечь память
-* [x] [How The $destroy Event Affects The Scope Tree In AngularJS](https://www.bennadel.com/blog/2883-how-the-destroy-event-affects-the-scope-tree-in-angularjs.htm) - про дестрой скоупа, только уже на примере ng-if
-* [ ] [**Fixing Memory Leaks in AngularJS and other JavaScript Applications**](http://www.dwmkerr.com/fixing-memory-leaks-in-angularjs-applications/)** - какая-то здоровая статья, про утечки памяти в Angular !!! нужно прочитать**
-* [ ] [Notes On AngularJS Scope Life-Cycle](http://onehungrymind.com/notes-on-angularjs-scope-life-cycle/) - небольшая статья про digest цикл, вотчеры и apply 
 
 ### Ограничения запросов SQL
 
@@ -49,10 +33,6 @@ Learning Flow
 ### ADO.NET
 
 * [ ] [How do I return multiple result sets with SqlCommand?](https://stackoverflow.com/questions/12715620/how-do-i-return-multiple-result-sets-with-sqlcommand)
-
-### Deep Learning
-
-* [ ] [Бесплатная GPU Tesla K80 для ваших экспериментов с нейросетями](https://habrahabr.ru/post/348058/)
 
 ### PostgreSQL
 
@@ -84,15 +64,6 @@ Learning Flow
 
 * [ ] [Пример анализа проблем производительности в постгресе](https://habr.com/company/postgrespro/blog/423685/)
 
-### Сsharp
-
-* [ ] [Исследуем сопоставление с образцом в C\# 7](https://habrahabr.ru/post/347916/)
-* [ ] Нюансы работы со строками: [https://msdn.microsoft.com/en-us/library/ms973919.aspx](https://msdn.microsoft.com/en-us/library/ms973919.aspx)
-
-### Профилирование приложений
-
-* [ ] [CodeTrack](https://getcodetrack.wordpress.com/)
-
 ### Верстка
 
 * [ ] [Современный CSS для динозавров](https://habrahabr.ru/post/348500/)
@@ -120,6 +91,8 @@ Learning Flow
 \[ \] [Кодировки](http://kunststube.net/encoding/)
 
 \[ \] [Особенности строк в .NET](https://habr.com/post/172627/)
+
+\[ \] Нюансы работы со строками: [https://msdn.microsoft.com/en-us/library/ms973919.aspx](https://msdn.microsoft.com/en-us/library/ms973919.aspx)
 
 ### Как работает Javascript
 
@@ -164,10 +137,6 @@ Learning Flow
 * [ ] Часть 18:[Как работает JS: WebRTC и механизмы P2P-коммуникаций](https://habr.com/company/ruvds/blog/416821/)
 
 * [ ] Часть 19:[Как работает JS: пользовательские элементы](https://habr.com/company/ruvds/blog/419831/)
-
-### Numpy и Scipy
-
-* [ ] Руководство [https://engineering.ucsb.edu/~shell/che210d/numpy.pdf](https://engineering.ucsb.edu/~shell/che210d/numpy.pdf)
 
 ### BigData
 

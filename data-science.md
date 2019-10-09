@@ -8,3 +8,7 @@
 
 Есть русскоязычное сообщество в слаке OpenDataScience чтобы добавить в него нужно отправить [запрос](https://docs.google.com/forms/d/e/1FAIpQLSdjQB90EdZGV7Eelwo20WFC1ziP884FR_mtrsrdXPhEKIB3Ow/viewform)
 
+Руководство по numpy [https://engineering.ucsb.edu/~shell/che210d/numpy.pdf](https://engineering.ucsb.edu/~shell/che210d/numpy.pdf)
+
+
+
