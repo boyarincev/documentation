@@ -52,4 +52,5 @@
 * [Innopolis](innopolis.md)
 * [Visual Studio](visual-studio.md)
 * [Python](python.md)
+* [Algorithms](algorithms.md)
 
