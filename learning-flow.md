@@ -163,15 +163,11 @@ Object -&gt; IEnumerable&lt;object&gt; - есть упаковка?
 
 Почему не создается лист интов размером инт.МаксВелью?
 
-
-
 Get c Body
 
 [https://stackoverflow.com/questions/978061/http-get-with-request-body](https://stackoverflow.com/questions/978061/http-get-with-request-body)
 
 [https://stackoverflow.com/questions/17094496/what-would-a-body-in-an-http-get-look-like?noredirect=1&lq=1](https://stackoverflow.com/questions/17094496/what-would-a-body-in-an-http-get-look-like?noredirect=1&lq=1)
-
-
 
 PostgreSQL INSERT с RETURNING - гарантированность возвращяемого порядка.
 
@@ -179,13 +175,9 @@ PostgreSQL INSERT с RETURNING - гарантированность возвра
 
 [https://www.postgresql.org/docs/9.5/static/sql-insert.html](https://www.postgresql.org/docs/9.5/static/sql-insert.html)
 
-
-
 Настроить Perfomance Counets
 
 [http://www.npgsql.org/doc/performance.html\#performance-counters](http://www.npgsql.org/doc/performance.html#performance-counters)
-
-
 
 Проверка группы строк на идентиность.
 
@@ -195,19 +187,13 @@ PostgreSQL INSERT с RETURNING - гарантированность возвра
 
 [https://stackoverflow.com/questions/10567450/implement-gethashcode-for-objects-that-contain-collections](https://stackoverflow.com/questions/10567450/implement-gethashcode-for-objects-that-contain-collections)
 
-
-
 Какое исключение нужно бросать в свиче по енуму
 
 [https://stackoverflow.com/questions/3349540/throwing-exceptions-in-switch-statements-when-no-specified-case-can-be-handled](https://stackoverflow.com/questions/3349540/throwing-exceptions-in-switch-statements-when-no-specified-case-can-be-handled)
 
 [https://stackoverflow.com/questions/13645149/what-is-the-correct-exception-to-throw-for-unhandled-enum-values](https://stackoverflow.com/questions/13645149/what-is-the-correct-exception-to-throw-for-unhandled-enum-values)
 
-
-
 Использование делегатов с ковариантными/контрвариантными интерфейсами
-
-
 
 Как работают аннотации таблиц, которые использует DynamicFilters
 
@@ -219,13 +205,9 @@ PostgreSQL INSERT с RETURNING - гарантированность возвра
 
 [https://github.com/zzzprojects/EntityFramework.DynamicFilters/issues/90](https://github.com/zzzprojects/EntityFramework.DynamicFilters/issues/90)
 
-
-
 Для вызова c\# Interactive на моём коде
 
 [https://stackoverflow.com/questions/11135571/can-the-c-sharp-interactive-window-interact-with-my-code](https://stackoverflow.com/questions/11135571/can-the-c-sharp-interactive-window-interact-with-my-code)
-
-
 
 Ограничения параметров типов class и операции == и !=
 
@@ -233,38 +215,27 @@ PostgreSQL INSERT с RETURNING - гарантированность возвра
 
 перегружены, как например в string - то есть в случае со стринг будет проверка на ссылочную идентичность
 
-
-
 Тестирование производительности в .net
 
 [https://github.com/dotnet/BenchmarkDotNet](https://github.com/dotnet/BenchmarkDotNet)
 
 [https://benchmarkdotnet.org/Overview.htm](https://benchmarkdotnet.org/Overview.htm)
 
-
-
 Использование **StringComparison.Ordinal **or **StringComparison.OrdinalIgnoreCase**
 
 [https://msdn.microsoft.com/en-us/library/ms973919.aspx](https://msdn.microsoft.com/en-us/library/ms973919.aspx)
-
-
 
 Попробовать поиграться с юникодом
 
 * Создать строку из байтов
 * Посмотреть юникодную строку в виде байтов и попробовать ее расшифровать
-* 
-Следующая ошибка в Visual Studio
+* Следующая ошибка в Visual Studio
 
 [https://stackoverflow.com/questions/1695040/visual-studio-jump-to-next-error-shortcut](https://stackoverflow.com/questions/1695040/visual-studio-jump-to-next-error-shortcut)
-
-
 
 Насколько дорога операция typeof - бенчмарк тест
 
 typeof\(IList&lt;CubeElementViewModel&gt;\) == modelType vs кэшированная версия - для биндера
-
-
 
 **Тестирование производительности в PostgreSQL**
 
@@ -276,15 +247,11 @@ typeof\(IList&lt;CubeElementViewModel&gt;\) == modelType vs кэшированн
 
 [https://stackoverflow.com/questions/4796548/about-clustered-index-in-postgres](https://stackoverflow.com/questions/4796548/about-clustered-index-in-postgres)
 
-
-
 Во что разворачивается yeld return
-
-
 
 Производительность nullable value type
 
-
-
 Разбор того как можно смотреть какие ресурсы заблокированы в транзакции, как смотреть информацию о транзакции
+
+Разбор случаев выкидывания StackOverflowException
 
