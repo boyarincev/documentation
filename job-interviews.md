@@ -14,3 +14,45 @@
 
 [Список сервисов задачников](https://habr.com/ru/company/hexlet/blog/434786/)
 
+Подготовка к собеседованию в яндекс на Javascript: [https://habr.com/ru/post/470337/](https://habr.com/ru/post/470337/)
+
+Если кому интересно, как подготовиться к собесу в Яндекс \(и не только\) на JS разработчика и попасть на младшего разработчика, то вот примерный список:
+
+
+
+Что читать:
+
+learn.javascript.ru
+
+developer.mozilla.org
+
+maxpfrontend.ru/vebinary/voprosy-dlya-sobesedovaniya-javascript-razrabotchika
+
+
+
+Что знать:
+
+Event loop, очередность вывода setTimeout, promise
+
+Async/await
+
+call, bind, apply
+
+замыкания и область видимости
+
+hoisting
+
+ES6
+
+Передача по ссылке и по значению
+
+Генераторы и итераторы
+
+Как работает spread/rest
+
+Армия функций, различия let, const, var
+
+
+
+Все это с примерами в коде, чтобы было понимание.
+
