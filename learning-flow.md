@@ -255,3 +255,5 @@ typeof\(IList&lt;CubeElementViewModel&gt;\) == modelType vs кэшированн
 
 Разбор случаев выкидывания StackOverflowException
 
+Что с сессией в asp.net core ? Она существует? Одновременные запросы по прежнему блокируются?
+
