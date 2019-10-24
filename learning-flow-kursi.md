@@ -60,6 +60,12 @@
 
   [Вводный курс Georgia Tech](https://www.udacity.com/course/introduction-to-computer-vision--ud810) представляет собой введение в компьютерное зрение, включая основы формирования изображений, обнаружение и сопоставление образов, отслеживание движения и т. д.
 
+* [ ] Speech and Language Processing Daniel Jurafsky \(в библиотеке nlp\_book.pdf
+
+  Одна из лучших книг по обработке естественных языков от Стэнфордского университета. Очень рекомендуем!
+
+  Для затравки можно посмотреть видеокурс на Youtube от тех же авторов: [https://goo.gl/1qmmG3](https://goo.gl/1qmmG3)
+
 ### Python
 
 * [ ] Курс Степика [Python: основы и применение](https://stepik.org/course/512)
@@ -87,8 +93,9 @@
 * [ ] Книга Pefomance .NET \(в библиотеке\)
 
 * [ ] .NET Clr Book Сидристый - [https://github.com/sidristij/dotnetbook](https://github.com/sidristij/dotnetbook)
+
 * [ ] Конрад Кокос .NET Memory Book
-* [ ] ~~Pluralsight MSIL for the C\# Developer ~~[~~https://app.pluralsight.com/library/courses/msil-csharp-developer/~~](https://app.pluralsight.com/library/courses/msil-csharp-developer/)
+* [ ] ~~Pluralsight MSIL for the C\# Developer ~~\[~~[https://app.pluralsight.com/library/courses/msil-csharp-developer/~~\]\(https://app.pluralsight.com/library/courses/msil-csharp-developer/](https://app.pluralsight.com/library/courses/msil-csharp-developer/~~]%28https://app.pluralsight.com/library/courses/msil-csharp-developer/)\)
 * [ ] Pluralsight [Measuring .NET Performance](https://app.pluralsight.com/library/courses/measuring-dotnet-performance)
 
 * [ ] Pluralsight [Event Tracing for Windows \(ETW\) in .NET](https://app.pluralsight.com/library/courses/event-tracing-windows-etw-dotnet)
@@ -97,19 +104,19 @@
 
 * [ ] Pluralsight [Introduction to the .NET Compiler Platform](https://app.pluralsight.com/library/courses/dotnet-compiler-platform-introduction)
 
-* [ ] ~~Pluralsight ~~[~~Getting Started with Asynchronous Programming in .NET~~](https://app.pluralsight.com/library/courses/asynchronous-programming-dotnet-getting-started)
+* [ ] ~~Pluralsight ~~\[~~Getting Started with Asynchronous Programming in .NET~~\]\([https://app.pluralsight.com/library/courses/asynchronous-programming-dotnet-getting-started](https://app.pluralsight.com/library/courses/asynchronous-programming-dotnet-getting-started)\)
 
 * [ ] Pluralsight [Exploring C\# 6 with Jon Skeet](https://app.pluralsight.com/library/courses/csharp-with-jon-skeet)
 
 * [ ] Pluralsight [Accelerated C\# Fundamentals](https://app.pluralsight.com/library/courses/csharp-fundamentals)
 
-* [ ] ~~Pluralsight ~~[~~Visual Studio 2015: Essentials to the Power-User~~](https://app.pluralsight.com/library/courses/visual-studio-2015-essentials-power-user)
+* [ ] ~~Pluralsight ~~\[~~Visual Studio 2015: Essentials to the Power-User~~\]\([https://app.pluralsight.com/library/courses/visual-studio-2015-essentials-power-user](https://app.pluralsight.com/library/courses/visual-studio-2015-essentials-power-user)\)
 
 * [ ] Pluralsight [Asynchronous C\# 5.0](https://app.pluralsight.com/library/courses/skeet-async)
 
 * [ ] Pluralsight [C\# Best Practices: Improving on the Basics](https://app.pluralsight.com/library/courses/csharp-best-practices-improving-basics)
 
-* [ ] ~~Pluralsight ~~[~~Serialization in .NET 4.5~~](https://app.pluralsight.com/library/courses/serialization-dotnet-4-5)
+* [ ] ~~Pluralsight ~~\[~~Serialization in .NET 4.5~~\]\([https://app.pluralsight.com/library/courses/serialization-dotnet-4-5](https://app.pluralsight.com/library/courses/serialization-dotnet-4-5)\)
 
 * [ ] Книга Design Patterns via C\# \(в библиотеке pdf\)
 
@@ -125,13 +132,13 @@
 
 * [ ] Pluralsight [Entity Framework in the Enterprise](https://app.pluralsight.com/library/courses/entity-framework-enterprise-update)
 
-* [ ] ~~Pluralsight ~~[~~Getting Started with Entity Framework 6~~](https://app.pluralsight.com/library/courses/entity-framework-6-getting-started)
+* [ ] ~~Pluralsight ~~\[~~Getting Started with Entity Framework 6~~\]\([https://app.pluralsight.com/library/courses/entity-framework-6-getting-started](https://app.pluralsight.com/library/courses/entity-framework-6-getting-started)\)
 
-* [ ] ~~Pluralsight ~~[~~Entity Framework 4.1 - DbContext Data Access~~](https://app.pluralsight.com/library/courses/ef41-data-access)
+* [ ] ~~Pluralsight ~~\[~~Entity Framework 4.1 - DbContext Data Access~~\]\([https://app.pluralsight.com/library/courses/ef41-data-access](https://app.pluralsight.com/library/courses/ef41-data-access)\)
 
-* [ ] ~~Pluralsight ~~[~~Entity Framework 4.1 - Code First~~](https://app.pluralsight.com/library/courses/ef41-code-first)
+* [ ] ~~Pluralsight ~~\[~~Entity Framework 4.1 - Code First~~\]\([https://app.pluralsight.com/library/courses/ef41-code-first](https://app.pluralsight.com/library/courses/ef41-code-first)\)
 
-* [ ] ~~Pluralsight ~~[~~Data Layer Validation with Entity Framework 4.1+~~](https://app.pluralsight.com/library/courses/efvalidation)
+* [ ] ~~Pluralsight ~~\[~~Data Layer Validation with Entity Framework 4.1+~~\]\([https://app.pluralsight.com/library/courses/efvalidation](https://app.pluralsight.com/library/courses/efvalidation)\)
 
 * [ ] Pluralsight [Entity Framework 6: Ninja Edition - What's New in EF6](https://app.pluralsight.com/library/courses/entity-framework-6-ninja-edition-whats-new)
 
@@ -229,7 +236,9 @@
   Для затравки можно посмотреть видеокурс на Youtube от тех же авторов: [https://goo.gl/1qmmG3](https://goo.gl/1qmmG3)
 
 * [ ] Рекомендация как изучать математику от Савватаева
+
   * [ ] [ Что такое математика? Курант Роббинс](http://ilib.mccme.ru/pdf/kurant.pdf)
+
 * [ ] Математическая логика и Теория алгоритмов
 
   * [ ] [Шень Начала теории множество](https://www.mccme.ru/free-books/shen/shen-logic-part1-2.pdf)
@@ -240,9 +249,9 @@
 
 * [ ] Теория категорий для программистов
 
-  https://github.com/hmemcpy/milewski-ctfp-pdf
+  [https://github.com/hmemcpy/milewski-ctfp-pdf](https://github.com/hmemcpy/milewski-ctfp-pdf)
 
-  https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/
+  [https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/)
 
 ### Javascript
 
@@ -447,6 +456,7 @@
 * [ ] Книга Канеман  \(в библиотеке\)
 
 * [ ] Книга Думай как математик - итоговый разбор \(в библиотеке\)
+
 * [ ] Книга Психология Достижений - повторить \(в библиотеке\)
 * [ ] Книга Акунин История Государства Российского \(в библиотеке\)
 * [ ] Книга Гумилёв История \(в библиотеке\)
