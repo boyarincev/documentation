@@ -48,6 +48,17 @@
   * [ ] Тут видеы к курсу: [https://habr.com/company/ods/blog/344044/](https://habr.com/company/ods/blog/344044/)
   * [ ] Сайт mlcourse.ai - запись на новую итерацию курса будет объявлена в январе 2019, начало в феврале 2019
 * [ ] [Курсы от Amazone](https://aws.amazon.com/ru/training/learning-paths/machine-learning/)
+* [ ] Обработка текстов на естественном языке \(4 недели\)
+
+  Одним из интерфейсов взаимодействия человека с миров является язык, на котором человек говорит. Для приобретения навыков в обработке строковых объектов и файлов, написанных на естественном языке, пройдите четырехнедельный курс Мичиганского университета [Applied Text Mining in Python](https://www.coursera.org/learn/python-text-mining).
+
+* [ ] Машинное обучение \(10 недель\)
+
+  Один из вариантов разобраться в главных особенностях машинного обучения – пройти десяти недельный курс [Python for Data Science](https://www.edx.org/course/python-for-data-science). Еще один вариант, который мы рассматривали ранее – план [от новичка до профи в машинном обучении за 3 месяца](https://proglib.io/p/ml-3months/), требующий соответственно 12 недель
+
+* [ ] Компьютерное зрение \(6 недель\)
+
+  [Вводный курс Georgia Tech](https://www.udacity.com/course/introduction-to-computer-vision--ud810) представляет собой введение в компьютерное зрение, включая основы формирования изображений, обнаружение и сопоставление образов, отслеживание движения и т. д.
 
 ### Python
 
@@ -66,7 +77,7 @@
 ### dotNet
 
 * [ ] Книга Under The Hood .Net Management - управление памятью в .NET \(в библиотеке pdf\)
-* [ ] Книга Джон Скит \(в библиотеке\)
+* [x] Книга Джон Скит \(в библиотеке\)
 * [ ] Книга Clr via C\# \(в библиотеке\)
 
 * [ ] Книга Внедрение зависимостей .NET
@@ -74,9 +85,10 @@
 * [ ] Книга Adaptive Code via C\# \(в библиотеке pdf\)
 
 * [ ] Книга Pefomance .NET \(в библиотеке\)
+
 * [ ] .NET Clr Book Сидристый - [https://github.com/sidristij/dotnetbook](https://github.com/sidristij/dotnetbook)
 * [ ] Конрад Кокос .NET Memory Book
-* [ ] Pluralsight MSIL for the C\# Developer [https://app.pluralsight.com/library/courses/msil-csharp-developer/](https://app.pluralsight.com/library/courses/msil-csharp-developer/)
+* [ ] ~~Pluralsight MSIL for the C\# Developer ~~[~~https://app.pluralsight.com/library/courses/msil-csharp-developer/~~](https://app.pluralsight.com/library/courses/msil-csharp-developer/)
 * [ ] Pluralsight [Measuring .NET Performance](https://app.pluralsight.com/library/courses/measuring-dotnet-performance)
 
 * [ ] Pluralsight [Event Tracing for Windows \(ETW\) in .NET](https://app.pluralsight.com/library/courses/event-tracing-windows-etw-dotnet)
@@ -85,37 +97,19 @@
 
 * [ ] Pluralsight [Introduction to the .NET Compiler Platform](https://app.pluralsight.com/library/courses/dotnet-compiler-platform-introduction)
 
-* [ ] Pluralsight [Getting Started with Asynchronous Programming in .NET](https://app.pluralsight.com/library/courses/asynchronous-programming-dotnet-getting-started)
+* [ ] ~~Pluralsight ~~[~~Getting Started with Asynchronous Programming in .NET~~](https://app.pluralsight.com/library/courses/asynchronous-programming-dotnet-getting-started)
 
 * [ ] Pluralsight [Exploring C\# 6 with Jon Skeet](https://app.pluralsight.com/library/courses/csharp-with-jon-skeet)
 
 * [ ] Pluralsight [Accelerated C\# Fundamentals](https://app.pluralsight.com/library/courses/csharp-fundamentals)
 
-* [ ] Pluralsight [Visual Studio 2015: Essentials to the Power-User](https://app.pluralsight.com/library/courses/visual-studio-2015-essentials-power-user)
+* [ ] ~~Pluralsight ~~[~~Visual Studio 2015: Essentials to the Power-User~~](https://app.pluralsight.com/library/courses/visual-studio-2015-essentials-power-user)
 
 * [ ] Pluralsight [Asynchronous C\# 5.0](https://app.pluralsight.com/library/courses/skeet-async)
 
 * [ ] Pluralsight [C\# Best Practices: Improving on the Basics](https://app.pluralsight.com/library/courses/csharp-best-practices-improving-basics)
 
-* [ ] Pluralsight [Serialization in .NET 4.5](https://app.pluralsight.com/library/courses/serialization-dotnet-4-5)
-
-* [ ] transactions-dot-net msdn \(библиотека pdf\)
-
-* [ ] reflection-and-codedom msdn \(библиотека pdf\)
-
-* [ ] app-domains msdn \(библиотека pdf\)
-
-* [ ] dataset-datatable-dataview msdn \(библиотека pdf\)
-
-* [ ] adonet msdn \(библиотека pdf\)
-
-* [ ] charp notes for proffessionals \(в библиотеке pdf\)
-
-* [ ] dot net framework notes for proffessionals \(в библиотеке pdf\)
-
-* [ ] power shells notes for proffessionals \(в библиотеке pdf\)
-
-* [ ] entity framework notes for proffessionals \(в библиотеке pdf\)
+* [ ] ~~Pluralsight ~~[~~Serialization in .NET 4.5~~](https://app.pluralsight.com/library/courses/serialization-dotnet-4-5)
 
 * [ ] Книга Design Patterns via C\# \(в библиотеке pdf\)
 
@@ -125,45 +119,29 @@
 
 * [ ] Как работает шифрование
 
-* [ ] msbuild и Cake
+* [ ] ~~Книга Jwt - handbook \(в библиотеке pdf\)~~
 
-* [ ] Wcf - [http://www.easywcf.com/](http://www.easywcf.com/)
-
-* [ ] Книга Jwt - handbook \(в библиотеке pdf\)
-
-* [ ] Книга advanced-api-security-securing-apis-with-oauth-2-0-openid-connect-jws-and-jwe \(в библиотеке pdf\)
+* [ ] ~~Книга advanced-api-security-securing-apis-with-oauth-2-0-openid-connect-jws-and-jwe \(в библиотеке pdf\)~~
 
 * [ ] Pluralsight [Entity Framework in the Enterprise](https://app.pluralsight.com/library/courses/entity-framework-enterprise-update)
 
-* [ ] Pluralsight [Getting Started with Entity Framework 6](https://app.pluralsight.com/library/courses/entity-framework-6-getting-started)
+* [ ] ~~Pluralsight ~~[~~Getting Started with Entity Framework 6~~](https://app.pluralsight.com/library/courses/entity-framework-6-getting-started)
 
-* [ ] Pluralsight [Entity Framework 4.1 - DbContext Data Access](https://app.pluralsight.com/library/courses/ef41-data-access)
+* [ ] ~~Pluralsight ~~[~~Entity Framework 4.1 - DbContext Data Access~~](https://app.pluralsight.com/library/courses/ef41-data-access)
 
-* [ ] Pluralsight [Entity Framework 4.1 - Code First](https://app.pluralsight.com/library/courses/ef41-code-first)
+* [ ] ~~Pluralsight ~~[~~Entity Framework 4.1 - Code First~~](https://app.pluralsight.com/library/courses/ef41-code-first)
 
-* [ ] Pluralsight [Data Layer Validation with Entity Framework 4.1+](https://app.pluralsight.com/library/courses/efvalidation)
+* [ ] ~~Pluralsight ~~[~~Data Layer Validation with Entity Framework 4.1+~~](https://app.pluralsight.com/library/courses/efvalidation)
 
 * [ ] Pluralsight [Entity Framework 6: Ninja Edition - What's New in EF6](https://app.pluralsight.com/library/courses/entity-framework-6-ninja-edition-whats-new)
 
 * [ ] Pluralsight [Querying the Entity Framework](https://app.pluralsight.com/library/courses/querying-entity-framework)
-
-* [ ] Pluralsight [WCF Extensibility](https://app.pluralsight.com/library/courses/wcf-extensibility)
 
 * [ ] Pluralsight [Looking Ahead to Entity Framework 7](https://app.pluralsight.com/library/courses/entity-framework-7-looking-ahead)
 
 * [ ] Pluralsight [RabbitMQ for .NET Developers - Part 1](https://app.pluralsight.com/library/courses/rabbitmq-dotnet-developers)
 
 * [ ] Pluralsight [RabbitMQ for .NET Developers - Part 2](https://app.pluralsight.com/library/courses/rabbitmq-dotnet-developers-pt2)
-
-* [ ] Pluralsight [WCF Jumpstart](https://app.pluralsight.com/library/courses/wcf-jumpstart)
-
-* [ ] Pluralsight [WCF End-to-End](https://app.pluralsight.com/library/courses/wcf-end-to-end)
-
-* [ ] Pluralsight [WCF Power Topics](https://app.pluralsight.com/library/courses/wcf-power-topics)
-
-* [ ] Pluralsight [WCF Fundamentals](https://app.pluralsight.com/library/courses/wcf-fundamentals)
-
-* [ ] Pluralsight [WCF by Example](https://app.pluralsight.com/library/courses/wcf-by-example)
 
 ### Computer Science, Алгоритмы и Математика
 
@@ -219,23 +197,11 @@
 
 * [ ] Курс Математика для Computer Science \(8 недель\)
 
-  В освоении вопросов математической индукции, теории чисел, теории графов и прочих математических основ самообразования в Computer Science поможет соответствующий[курс MIT](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/), состоящий из 25 лекций и 12 контрольных работ.[Полный конспект курса](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/readings/MIT6_042JF10_notes.pdf)состоит из 557 страниц, соответственно в среднем нужно проходить около 10 страниц в день и решать 1-2 контрольные в неделю.
+  В освоении вопросов математической индукции, теории чисел, теории графов и прочих математических основ самообразования в Computer Science поможет соответствующий [курс MIT](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/), состоящий из 25 лекций и 12 контрольных работ.[Полный конспект курса](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/readings/MIT6_042JF10_notes.pdf) состоит из 557 страниц, соответственно в среднем нужно проходить около 10 страниц в день и решать 1-2 контрольные в неделю.
 
 * [ ] Алгоритмы \(8 недель\)
 
-  Одним из лучших курсов по алгоритмам является[курс MIT 6.006](https://courses.csail.mit.edu/6.006/fall11/notes.shtml), состоящий из 8 разделов: 24 лекций и 7 подборок задач. Соответственно каждой теме можно уделить одну неделю. В качестве вспомогательно курса по алгоритмам и структурам данных на русском языке вы можете воспользоваться[этим видеокурсом](https://proglib.io/p/data-structure-algorithms/). Кроме того, мы подготовили соответствующую подборки[книг](https://proglib.io/p/algorythm-books/), [веб-сайтов, онлайн-курсов и видеоматериалов](https://proglib.io/p/awesome-algorithms/).
-
-* [ ] Обработка текстов на естественном языке \(4 недели\)
-
-  Одним из интерфейсов взаимодействия человека с миров является язык, на котором человек говорит. Для приобретения навыков в обработке строковых объектов и файлов, написанных на естественном языке, пройдите четырехнедельный курс Мичиганского университета[Applied Text Mining in Python](https://www.coursera.org/learn/python-text-mining).
-
-* [ ] Машинное обучение \(10 недель\)
-
-  Один из вариантов разобраться в главных особенностях машинного обучения – пройти десятинедельный курс[Python for Data Science](https://www.edx.org/course/python-for-data-science). Еще один вариант, который мы рассматривали ранее – план [от новичка до профи в машинном обучении за 3 месяца](https://proglib.io/p/ml-3months/), требующий соответственно 12 недель.
-
-* [ ] Компьютерное зрение \(6 недель\)
-
-  [Вводный курс Georgia Tech](https://www.udacity.com/course/introduction-to-computer-vision--ud810)представляет собой введение в компьютерное зрение, включая основы формирования изображений, обнаружение и сопоставление образов, отслеживание движения и т. д.
+  Одним из лучших курсов по алгоритмам является[курс MIT 6.006](https://courses.csail.mit.edu/6.006/fall11/notes.shtml), состоящий из 8 разделов: 24 лекций и 7 подборок задач. Соответственно каждой теме можно уделить одну неделю. В качестве вспомогательно курса по алгоритмам и структурам данных на русском языке вы можете воспользоваться [этим видеокурсом](https://proglib.io/p/data-structure-algorithms/). Кроме того, мы подготовили соответствующую подборки [книг](https://proglib.io/p/algorythm-books/), [веб-сайтов, онлайн-курсов и видеоматериалов](https://proglib.io/p/awesome-algorithms/).
 
 * [ ] Теория вероятностей. Математическая статистика.
 
@@ -250,17 +216,17 @@
 
 * [ ] Неделя 1. Линейная алгебра
 
-  В машинном обучении не обойтись без знаний линейной алгебры.[Курс по линейной алгебре](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/), прочитанный Гильбертом Стронгом является одним из наиболее популярных курсов на MIT OpenCourseWare. В визуализации таких вещей, как векторное произведение и определители, вам поможет[описанный нами курс](https://proglib.io/p/algebra/) 3Blue1Brown. В качестве шпаргалки можно воспользоваться [суперкратким изложением линейной алгебры на четырех страницах](https://minireference.com/static/tutorials/linear_algebra_in_4_pages.pdf), скриншот которого был приведен выше. На этом этапе важно усвоить сами концепции линейной алгебры. Со множеством реальных примеров вы далее обязательно столкнетесь на практике.
+  В машинном обучении не обойтись без знаний линейной алгебры.[Курс по линейной алгебре](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/), прочитанный Гильбертом Стронгом является одним из наиболее популярных курсов на MIT OpenCourseWare. В визуализации таких вещей, как векторное произведение и определители, вам поможет [описанный нами курс](https://proglib.io/p/algebra/) 3Blue1Brown. В качестве шпаргалки можно воспользоваться [суперкратким изложением линейной алгебры на четырех страницах](https://minireference.com/static/tutorials/linear_algebra_in_4_pages.pdf), скриншот которого был приведен выше. На этом этапе важно усвоить сами концепции линейной алгебры. Со множеством реальных примеров вы далее обязательно столкнетесь на практике.
 
 * [ ] Неделя 2. Математический анализ
 
-  По математическому анализу существует уйма замечательных курсов, лучший из них вы можете выбрать[по одному из обсуждений на Quora](https://www.quora.com/What-is-the-best-online-calculus-course). В дополнение, в визуализации образов математического анализа вам поможет еще один [описанный нами](https://proglib.io/p/calculus/)иллюстративный курс 3Blue1Brown.
+  По математическому анализу существует уйма замечательных курсов, лучший из них вы можете выбрать [по одному из обсуждений на Quora](https://www.quora.com/What-is-the-best-online-calculus-course). В дополнение, в визуализации образов математического анализа вам поможет еще один [описанный нами](https://proglib.io/p/calculus/) иллюстративный курс 3Blue1Brown.
 
-* [ ] Speech and Language Processing Daniel Jurafsky \(в библиотеке nlp\_book.pdf\)
+* [ ] Speech and Language Processing Daniel Jurafsky \(в библиотеке nlp\_book.pdf
 
-Одна из лучших книг по обработке естественных языков от Стэнфордского университета. Очень рекомендуем!
+  Одна из лучших книг по обработке естественных языков от Стэнфордского университета. Очень рекомендуем!
 
-Для затравки можно посмотреть видеокурс на Youtube от тех же авторов: [https://goo.gl/1qmmG3](https://goo.gl/1qmmG3)
+  Для затравки можно посмотреть видеокурс на Youtube от тех же авторов: [https://goo.gl/1qmmG3](https://goo.gl/1qmmG3)
 
 * [ ] Рекомендация как изучать математику от Савватаева
   * [ ] [ Что такое математика? Курант Роббинс](http://ilib.mccme.ru/pdf/kurant.pdf)
@@ -272,11 +238,11 @@
 
   * [ ] [Шень Вычислимые функции](https://www.mccme.ru/free-books/shen/shen-logic-part3-2.pdf)
 
-* [ ] Теория категорий для программистов 
+* [ ] Теория категорий для программистов
 
-          [https://github.com/hmemcpy/milewski-ctfp-pdf](https://github.com/hmemcpy/milewski-ctfp-pdf) 
+  https://github.com/hmemcpy/milewski-ctfp-pdf
 
-          [https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/)
+  https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/
 
 ### Javascript
 
@@ -479,6 +445,7 @@
 * [ ] Книга Навыки \(в библиотеке\)
 
 * [ ] Книга Канеман  \(в библиотеке\)
+
 * [ ] Книга Думай как математик - итоговый разбор \(в библиотеке\)
 * [ ] Книга Психология Достижений - повторить \(в библиотеке\)
 * [ ] Книга Акунин История Государства Российского \(в библиотеке\)
