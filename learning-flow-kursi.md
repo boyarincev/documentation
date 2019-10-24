@@ -95,6 +95,7 @@
 * [ ] .NET Clr Book Сидристый - [https://github.com/sidristij/dotnetbook](https://github.com/sidristij/dotnetbook)
 
 * [ ] Конрад Кокос .NET Memory Book
+
 * [ ] ~~Pluralsight MSIL for the C\# Developer ~~\[~~[https://app.pluralsight.com/library/courses/msil-csharp-developer/~~\]\(https://app.pluralsight.com/library/courses/msil-csharp-developer/](https://app.pluralsight.com/library/courses/msil-csharp-developer/~~]%28https://app.pluralsight.com/library/courses/msil-csharp-developer/)\)
 * [ ] Pluralsight [Measuring .NET Performance](https://app.pluralsight.com/library/courses/measuring-dotnet-performance)
 
@@ -298,7 +299,7 @@
 * [ ] Книга Bill Karwin SQL Antipatterns \(в библиотеке pdf\)
 * [ ] Книга JOE CELKO'S SQL FOR SMARTIES
   \(в библиотеке pdf\)
-* [ ] Книга Transaction Processing Concepts And Techniques - книга 1000 страниц, вряд ли она мне понадобится, если я сам не буду БД делать \(в библиотеке pdf\)
+* [ ] ~~Книга Transaction Processing Concepts And Techniques - книга 1000 страниц, вряд ли она мне понадобится, если я сам не буду БД делать \(в библиотеке pdf\)~~
 * [ ] Transaction Processing - небольшая презенташка от разработчиков PostgreSQL \(в гугл плей книгах\) - [https://www.postgresql.org/files/developer/transactions.pdf](https://www.postgresql.org/files/developer/transactions.pdf)
 
 * [ ] [Concurrency Control](https://www.postgresql.org/docs/9.6/static/mvcc.html) в PostgreSQL - раздел официальной документации про транзакции и блокировки.
@@ -313,7 +314,7 @@
 
 * [ ] Книга Совершенный код \(в библиотеке\)
 
-* [ ] Книга Арифметика плавающей точки \(в библиотеке pdf\)
+* [ ] ~~Книга Арифметика плавающей точки \(в библиотеке pdf\)~~
 
 * [ ] Теоретический минимум для программиста \(куча книг\) -[https://sharpc.livejournal.com/67583.html](https://sharpc.livejournal.com/67583.html)
 
@@ -458,6 +459,7 @@
 * [ ] Книга Думай как математик - итоговый разбор \(в библиотеке\)
 
 * [ ] Книга Психология Достижений - повторить \(в библиотеке\)
+
 * [ ] Книга Акунин История Государства Российского \(в библиотеке\)
 * [ ] Книга Гумилёв История \(в библиотеке\)
 * [ ] Книга 30 дней который потрясли мир \(в библиотеке\)
