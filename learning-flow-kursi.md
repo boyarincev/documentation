@@ -72,6 +72,7 @@
 * [ ] Книга Внедрение зависимостей .NET
 
 * [ ] Книга Adaptive Code via C\# \(в библиотеке pdf\)
+
 * [ ] Книга Pefomance .NET \(в библиотеке\)
 * [ ] .NET Clr Book Сидристый - [https://github.com/sidristij/dotnetbook](https://github.com/sidristij/dotnetbook)
 * [ ] Конрад Кокос .NET Memory Book
@@ -270,6 +271,12 @@
   * [ ] [Шень Языки и исчисления](https://www.mccme.ru/free-books/shen/shen-logic-part2-2.pdf)
 
   * [ ] [Шень Вычислимые функции](https://www.mccme.ru/free-books/shen/shen-logic-part3-2.pdf)
+
+* [ ] Теория категорий для программистов 
+
+          [https://github.com/hmemcpy/milewski-ctfp-pdf](https://github.com/hmemcpy/milewski-ctfp-pdf) 
+
+          [https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/)
 
 ### Javascript
 
@@ -470,6 +477,7 @@
 * [ ] hs2 Теория психики
 
 * [ ] Книга Навыки \(в библиотеке\)
+
 * [ ] Книга Канеман  \(в библиотеке\)
 * [ ] Книга Думай как математик - итоговый разбор \(в библиотеке\)
 * [ ] Книга Психология Достижений - повторить \(в библиотеке\)
