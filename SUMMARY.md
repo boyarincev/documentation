@@ -54,4 +54,5 @@
 * [Python](python.md)
 * [Algorithms](algorithms.md)
 * [Innopolis AI](innopolis-ai.md)
+* [Теория обучения](teoriya-obucheniya.md)
 
