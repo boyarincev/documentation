@@ -42,3 +42,7 @@ git gui browser maint //Показывает дерево файлов и пап
 
 [https://git-scm.com/docs/git-gui/1.5.6](https://git-scm.com/docs/git-gui/1.5.6)
 
+Статья с описанием разных стратегий Мержа
+
+[https://habr.com/ru/post/195674/](https://habr.com/ru/post/195674/)
+
