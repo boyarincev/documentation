@@ -56,4 +56,5 @@
 * [Innopolis AI](innopolis-ai.md)
 * [Теория обучения](teoriya-obucheniya.md)
 * [Теория Психики](teoriya-psihiki.md)
+* [Карьера](karera.md)
 
