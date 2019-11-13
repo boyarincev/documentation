@@ -12,10 +12,6 @@ Learning Flow
 * [ ] [Побитовые операции](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Operators/Bitwise_Operators)
 * [ ] [Рефакторинг салона видеопроката на JavaScript](https://habrahabr.ru/post/320280/)
 
-### ADO.NET
-
-* [ ] [How do I return multiple result sets with SqlCommand?](https://stackoverflow.com/questions/12715620/how-do-i-return-multiple-result-sets-with-sqlcommand)
-
 ### PostgreSQL
 
 * [ ] [Рекурсивные запросы в PostgreSQL \(WITH RECURSIVE\)](https://habrahabr.ru/post/269497/)
