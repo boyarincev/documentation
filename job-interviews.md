@@ -18,9 +18,7 @@
 
 Если кому интересно, как подготовиться к собесу в Яндекс \(и не только\) на JS разработчика и попасть на младшего разработчика, то вот примерный список:
 
-
-
-Что читать:
+Что читать:
 
 learn.javascript.ru
 
@@ -28,9 +26,7 @@ developer.mozilla.org
 
 maxpfrontend.ru/vebinary/voprosy-dlya-sobesedovaniya-javascript-razrabotchika
 
-
-
-Что знать:
+Что знать:
 
 Event loop, очередность вывода setTimeout, promise
 
@@ -52,7 +48,9 @@ ES6
 
 Армия функций, различия let, const, var
 
-
-
 Все это с примерами в коде, чтобы было понимание.
+
+
+
+Правильные вопросы на собеседовании: [https://habr.com/ru/post/468923/](https://habr.com/ru/post/468923/)
 
