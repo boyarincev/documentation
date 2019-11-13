@@ -12,26 +12,6 @@ Learning Flow
 * [ ] [Побитовые операции](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Operators/Bitwise_Operators)
 * [ ] [Рефакторинг салона видеопроката на JavaScript](https://habrahabr.ru/post/320280/)
 
-### Ограничения запросов SQL
-
-* [ ] [SQLCommand ExecuteNonQuery Maximum CommandText Length?](https://stackoverflow.com/questions/21390537/sqlcommand-executenonquery-maximum-commandtext-length)
-
-* [ ] [PostgreSQL - max number of parameters in “IN” clause?](https://stackoverflow.com/questions/1009706/postgresql-max-number-of-parameters-in-in-clause)
-
-* [ ] [Is SQL IN bad for performance?](https://stackoverflow.com/questions/1013797/is-sql-in-bad-for-performance)
-
-* [ ] [Entity Framework query slow, but same SQL in SqlQuery is fast](https://stackoverflow.com/questions/15767803/entity-framework-query-slow-but-same-sql-in-sqlquery-is-fast)
-
-* [ ] [SQL WHERE ID IN \(id1, id2, …, idn\)](https://stackoverflow.com/questions/5803472/sql-where-id-in-id1-id2-idn)
-
-### Ограничения размеров коллекций и массивов
-
-* [ ] [List size limitation in C\#](https://stackoverflow.com/questions/7885294/list-size-limitation-in-c-sharp)
-
-* [ ] [What is the Maximum Size that an Array can hold?](https://stackoverflow.com/questions/1391672/what-is-the-maximum-size-that-an-array-can-hold)
-
-* [ ] Почему не создается лист интов размером инт.МаксВелью?
-
 ### ADO.NET
 
 * [ ] [How do I return multiple result sets with SqlCommand?](https://stackoverflow.com/questions/12715620/how-do-i-return-multiple-result-sets-with-sqlcommand)
@@ -83,18 +63,6 @@ Learning Flow
 ### OLAP
 
 * [ ] Изучить Олап  [http://www.olap.ru/basic/home.asp](http://www.olap.ru/basic/home.asp)
-
-### Строки в .NET
-
-\[ \] [Строки в C\# и .NET](https://habr.com/post/165597/)
-
-\[ \] [Юникод и .NET](https://habr.com/post/193048/)
-
-\[ \] [Кодировки](http://kunststube.net/encoding/)
-
-\[ \] [Особенности строк в .NET](https://habr.com/post/172627/)
-
-\[ \] Нюансы работы со строками: [https://msdn.microsoft.com/en-us/library/ms973919.aspx](https://msdn.microsoft.com/en-us/library/ms973919.aspx)
 
 ### Как работает Javascript
 
@@ -151,47 +119,11 @@ Learning Flow
 
 ### Идеи
 
-Get c Body
-
-[https://stackoverflow.com/questions/978061/http-get-with-request-body](https://stackoverflow.com/questions/978061/http-get-with-request-body)
-
-[https://stackoverflow.com/questions/17094496/what-would-a-body-in-an-http-get-look-like?noredirect=1&lq=1](https://stackoverflow.com/questions/17094496/what-would-a-body-in-an-http-get-look-like?noredirect=1&lq=1)
-
-PostgreSQL INSERT с RETURNING - гарантированность возвращяемого порядка.
-
-[https://stackoverflow.com/questions/5439293/is-insert-returning-guaranteed-to-return-things-in-the-right-order](https://stackoverflow.com/questions/5439293/is-insert-returning-guaranteed-to-return-things-in-the-right-order)
-
-[https://www.postgresql.org/docs/9.5/static/sql-insert.html](https://www.postgresql.org/docs/9.5/static/sql-insert.html)
-
 Настроить Perfomance Counets
 
 [http://www.npgsql.org/doc/performance.html\#performance-counters](http://www.npgsql.org/doc/performance.html#performance-counters)
 
-Проверка группы строк на идентиность.
-
-[https://stackoverflow.com/questions/8094867/good-gethashcode-override-for-list-of-foo-objects-respecting-the-order](https://stackoverflow.com/questions/8094867/good-gethashcode-override-for-list-of-foo-objects-respecting-the-order)
-
-[https://stackoverflow.com/questions/263400/what-is-the-best-algorithm-for-an-overridden-system-object-gethashcode?noredirect=1&lq=1](https://stackoverflow.com/questions/263400/what-is-the-best-algorithm-for-an-overridden-system-object-gethashcode?noredirect=1&lq=1)
-
-[https://stackoverflow.com/questions/10567450/implement-gethashcode-for-objects-that-contain-collections](https://stackoverflow.com/questions/10567450/implement-gethashcode-for-objects-that-contain-collections)
-
-Какое исключение нужно бросать в свиче по енуму
-
-[https://stackoverflow.com/questions/3349540/throwing-exceptions-in-switch-statements-when-no-specified-case-can-be-handled](https://stackoverflow.com/questions/3349540/throwing-exceptions-in-switch-statements-when-no-specified-case-can-be-handled)
-
-[https://stackoverflow.com/questions/13645149/what-is-the-correct-exception-to-throw-for-unhandled-enum-values](https://stackoverflow.com/questions/13645149/what-is-the-correct-exception-to-throw-for-unhandled-enum-values)
-
 Использование делегатов с ковариантными/контрвариантными интерфейсами
-
-Как работают аннотации таблиц, которые использует DynamicFilters
-
-[https://romiller.com/2017/02/14/ef-core-1-1-read-only-entities-extending-metadata-with-annotations/](https://romiller.com/2017/02/14/ef-core-1-1-read-only-entities-extending-metadata-with-annotations/)
-
-[https://stackoverflow.com/questions/48210091/how-to-access-the-ef-model-annotations-in-migration-class-up-method](https://stackoverflow.com/questions/48210091/how-to-access-the-ef-model-annotations-in-migration-class-up-method)
-
-[https://msdn.microsoft.com/en-us/library/system.data.entity.migrations.dbmigration.createtable\(v=vs.113\).aspx](https://msdn.microsoft.com/en-us/library/system.data.entity.migrations.dbmigration.createtable%28v=vs.113%29.aspx)
-
-[https://github.com/zzzprojects/EntityFramework.DynamicFilters/issues/90](https://github.com/zzzprojects/EntityFramework.DynamicFilters/issues/90)
 
 Для вызова c\# Interactive на моём коде
 
@@ -209,31 +141,17 @@ PostgreSQL INSERT с RETURNING - гарантированность возвра
 
 [https://benchmarkdotnet.org/Overview.htm](https://benchmarkdotnet.org/Overview.htm)
 
-Использование **StringComparison.Ordinal **or **StringComparison.OrdinalIgnoreCase**
-
-[https://msdn.microsoft.com/en-us/library/ms973919.aspx](https://msdn.microsoft.com/en-us/library/ms973919.aspx)
-
-Попробовать поиграться с юникодом
-
-* Создать строку из байтов
-* Посмотреть юникодную строку в виде байтов и попробовать ее расшифровать
-* Следующая ошибка в Visual Studio
-
-[https://stackoverflow.com/questions/1695040/visual-studio-jump-to-next-error-shortcut](https://stackoverflow.com/questions/1695040/visual-studio-jump-to-next-error-shortcut)
-
 Насколько дорога операция typeof - бенчмарк тест
 
 typeof\(IList&lt;CubeElementViewModel&gt;\) == modelType vs кэшированная версия - для биндера
+
+Возможно про это есть в докладе Егора Богатова
 
 **Тестирование производительности в PostgreSQL**
 
 Пример замера производительности: [https://stackoverflow.com/questions/6633050/performance-difference-between-int4-and-int8-in-postgresql-on-64-bit-server](https://stackoverflow.com/questions/6633050/performance-difference-between-int4-and-int8-in-postgresql-on-64-bit-server)
 
 Утилита для замеров производительности: [https://www.postgresql.org/docs/10/static/pgbench.html](https://www.postgresql.org/docs/10/static/pgbench.html)
-
-Частый вопрос на собеседовании Что такое Кластерный индекс
-
-[https://stackoverflow.com/questions/4796548/about-clustered-index-in-postgres](https://stackoverflow.com/questions/4796548/about-clustered-index-in-postgres)
 
 Во что разворачивается yeld return
 
@@ -242,6 +160,4 @@ typeof\(IList&lt;CubeElementViewModel&gt;\) == modelType vs кэшированн
 Разбор того как можно смотреть какие ресурсы заблокированы в транзакции, как смотреть информацию о транзакции
 
 Разбор случаев выкидывания StackOverflowException
-
-Что с сессией в asp.net core ? Она существует? Одновременные запросы по прежнему блокируются?
 
