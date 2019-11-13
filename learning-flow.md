@@ -115,27 +115,11 @@ Learning Flow
 
 ### Идеи
 
-Настроить Perfomance Counets
-
-[http://www.npgsql.org/doc/performance.html\#performance-counters](http://www.npgsql.org/doc/performance.html#performance-counters)
-
-Использование делегатов с ковариантными/контрвариантными интерфейсами
-
-Для вызова c\# Interactive на моём коде
-
-[https://stackoverflow.com/questions/11135571/can-the-c-sharp-interactive-window-interact-with-my-code](https://stackoverflow.com/questions/11135571/can-the-c-sharp-interactive-window-interact-with-my-code)
-
 Ограничения параметров типов class и операции == и !=
 
 Скит написал, что в этом случае всегда проверяется ссылочная идентичность и не учитывается если эти операции
 
 перегружены, как например в string - то есть в случае со стринг будет проверка на ссылочную идентичность
-
-Тестирование производительности в .net
-
-[https://github.com/dotnet/BenchmarkDotNet](https://github.com/dotnet/BenchmarkDotNet)
-
-[https://benchmarkdotnet.org/Overview.htm](https://benchmarkdotnet.org/Overview.htm)
 
 Насколько дорога операция typeof - бенчмарк тест
 
