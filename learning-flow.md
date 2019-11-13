@@ -30,6 +30,8 @@ Learning Flow
 
 * [ ] [What is the Maximum Size that an Array can hold?](https://stackoverflow.com/questions/1391672/what-is-the-maximum-size-that-an-array-can-hold)
 
+* [ ] Почему не создается лист интов размером инт.МаксВелью?
+
 ### ADO.NET
 
 * [ ] [How do I return multiple result sets with SqlCommand?](https://stackoverflow.com/questions/12715620/how-do-i-return-multiple-result-sets-with-sqlcommand)
@@ -148,20 +150,6 @@ Learning Flow
 * [ ] [Что происходит за кулисами С\#: основы работы со стеком](https://habr.com/post/427465/)
 
 ### Идеи
-
-Сравнить производительность двух операций:
-
-Object -&gt; IList - с упаковкой
-
-Object -&gt; IEnumerable&lt;object&gt; - есть упаковка?
-
-что быстрее?
-
-Нужно прочитать главы из книги про Перфоманс.
-
-Как пример можно привести пример как измерять перфоманс.
-
-Почему не создается лист интов размером инт.МаксВелью?
 
 Get c Body
 
