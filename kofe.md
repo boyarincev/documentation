@@ -100,3 +100,7 @@ PID на теплообменнике: [https://www.home-barista.com/espresso-ma
 
 [Здесь предлагают Coffee-Sensor](https://www.theespressoshop.co.uk/en/Coffee-Sensor-E61-HX-and-Dual-Boiler-Digital-Grouphead-Thermometer/m-4258.aspx) с доставкой за 7 фунтов
 
+Инструкция по установке роторной помпы: [https://wiki.wholelattelove.com/images/c/c0/EXPOBAR\_BREWTUS\_Rotary\_Pump\_Conversion.pdf](https://wiki.wholelattelove.com/images/c/c0/EXPOBAR_BREWTUS_Rotary_Pump_Conversion.pdf)
+
+
+
