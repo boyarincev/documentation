@@ -4,3 +4,5 @@
 
 [Первоночальное описание паттерна Сага](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.93.7258&rep=rep1&type=pdf)
 
+Пример Clean Architecture на .NET [https://github.com/ardalis/CleanArchitecture/](https://github.com/ardalis/CleanArchitecture/)
+
