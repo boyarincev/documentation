@@ -48,6 +48,8 @@ PID на теплообменнике: [https://www.home-barista.com/espresso-ma
 
 [Wilfa grinder](https://www.slurp.coffee/en/shop/grinders/wilfa-svart-uniform-wsfbs-100b-coffee-grinder/) для эспрессо
 
+Lagom P64 Flat Burr Grinder [https://www.option-o.com/shop/lagom-p64](https://www.option-o.com/shop/lagom-p64)
+
 ### **DIY**
 
 Корзинка для измерения температуры: [https://www.home-barista.com/espresso-machines/building-diy-thermofilter-t38248.html](https://www.home-barista.com/espresso-machines/building-diy-thermofilter-t38248.html)
@@ -101,6 +103,4 @@ PID на теплообменнике: [https://www.home-barista.com/espresso-ma
 [Здесь предлагают Coffee-Sensor](https://www.theespressoshop.co.uk/en/Coffee-Sensor-E61-HX-and-Dual-Boiler-Digital-Grouphead-Thermometer/m-4258.aspx) с доставкой за 7 фунтов
 
 Инструкция по установке роторной помпы: [https://wiki.wholelattelove.com/images/c/c0/EXPOBAR\_BREWTUS\_Rotary\_Pump\_Conversion.pdf](https://wiki.wholelattelove.com/images/c/c0/EXPOBAR_BREWTUS_Rotary_Pump_Conversion.pdf)
-
-
 
