@@ -14,6 +14,8 @@ Category Theory for Programmers
 
 [https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/)
 
+Видеоуроки [https://www.youtube.com/user/DrBartosz/playlists](https://www.youtube.com/user/DrBartosz/playlists)
+
 Fsharpforfunandprofit
 
 [https://fsharpforfunandprofit.com/books/](https://fsharpforfunandprofit.com/books/)
