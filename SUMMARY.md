@@ -61,5 +61,5 @@
 * [Programming](programming.md)
 * Math
   * [Combinatorics](combinatorics.md)
-* [LinAlg](linalg.md)
+  * Linear Algebra
 
