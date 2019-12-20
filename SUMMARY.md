@@ -60,4 +60,6 @@
 * [DataScience](datascience.md)
   * Статистика
 * [Programming](programming.md)
+* Math
+  * [Combinatorics](combinatorics.md)
 
