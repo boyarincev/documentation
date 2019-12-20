@@ -46,7 +46,6 @@
   * Complete Code
     * [Глава 7. Высококачественные методы](complete-code/glava-7-visokokachestvennie-metodi.md)
   * [Databases](summaries/databases.md)
-* [LinAlg](linalg.md)
 * [DWH](dwh.md)
 * [Visual Studio Code](visual-studio-code.md)
 * [Innopolis](innopolis.md)
@@ -62,4 +61,5 @@
 * [Programming](programming.md)
 * Math
   * [Combinatorics](combinatorics.md)
+* [LinAlg](linalg.md)
 
