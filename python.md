@@ -35,5 +35,7 @@ list.insert(index, val)
 
 Допустим в массиве 4 элемента, мы делаем инсерт элемента на индекс 5 - в этом случае фактически элемент встанет на место с индексом 4, то есть инсерт не сможет дозаполнить недостающие элементы в списке.
 
-https://stackoverflow.com/q/45085089/5402731
+[https://stackoverflow.com/q/45085089/5402731](https://stackoverflow.com/q/45085089/5402731)
+
+Клонировать список: [https://stackoverflow.com/questions/2612802/how-to-clone-or-copy-a-list](https://stackoverflow.com/questions/2612802/how-to-clone-or-copy-a-list)
 
