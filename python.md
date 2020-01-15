@@ -29,6 +29,8 @@ for num, line in enumerate(lines):
 
 ### Lists
 
+[https://pythonworld.ru/tipy-dannyx-v-python/spiski-list-funkcii-i-metody-spiskov.html](https://pythonworld.ru/tipy-dannyx-v-python/spiski-list-funkcii-i-metody-spiskov.html)
+
 ```
 list.insert(index, val)
 ```
@@ -39,11 +41,17 @@ list.insert(index, val)
 
 Клонировать список: [https://stackoverflow.com/questions/2612802/how-to-clone-or-copy-a-list](https://stackoverflow.com/questions/2612802/how-to-clone-or-copy-a-list)
 
-
-
 ### Строки
 
 Интерполяция строк: [https://www.programiz.com/python-programming/string-interpolation](https://www.programiz.com/python-programming/string-interpolation)
+
+### Сортировка
+
+[https://docs.python.org/3/howto/sorting.html](https://docs.python.org/3/howto/sorting.html)
+
+### Словари
+
+[https://pythonworld.ru/tipy-dannyx-v-python/slovari-dict-funkcii-i-metody-slovarej.html](https://pythonworld.ru/tipy-dannyx-v-python/slovari-dict-funkcii-i-metody-slovarej.html)
 
 
 
