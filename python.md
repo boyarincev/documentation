@@ -41,6 +41,8 @@ list.insert(index, val)
 
 Клонировать список: [https://stackoverflow.com/questions/2612802/how-to-clone-or-copy-a-list](https://stackoverflow.com/questions/2612802/how-to-clone-or-copy-a-list)
 
+Разбор нюансов использования индексаторов: [https://towardsdatascience.com/the-basics-of-indexing-and-slicing-python-lists-2d12c90a94cf](https://towardsdatascience.com/the-basics-of-indexing-and-slicing-python-lists-2d12c90a94cf)
+
 ### Строки
 
 Интерполяция строк: [https://www.programiz.com/python-programming/string-interpolation](https://www.programiz.com/python-programming/string-interpolation)
@@ -52,6 +54,4 @@ list.insert(index, val)
 ### Словари
 
 [https://pythonworld.ru/tipy-dannyx-v-python/slovari-dict-funkcii-i-metody-slovarej.html](https://pythonworld.ru/tipy-dannyx-v-python/slovari-dict-funkcii-i-metody-slovarej.html)
-
-
 
