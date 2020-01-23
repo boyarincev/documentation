@@ -1,6 +1,6 @@
-## Python
+# Python
 
-### Looping cheat sheet
+## Looping cheat sheet
 
 [https://treyhunner.com/2016/04/how-to-loop-with-indexes-in-python/](https://treyhunner.com/2016/04/how-to-loop-with-indexes-in-python/)
 
@@ -8,30 +8,30 @@ Here’s a very short looping cheat sheet that might help you remember the prefe
 
 Loop over a single list with a regular for-in:
 
-```py
+```python
 for n in numbers:
     print(n)
 ```
 
 Loop over multiple lists at the same time with zip:
 
-```py
+```python
 for header, rows in zip(headers, columns):
     print("{}: {}".format(header, ", ".join(rows)))
 ```
 
 Loop over a list while keeping track of indexes with enumerate:
 
-```
+```text
 for num, line in enumerate(lines):
     print("{0:03d}: {}".format(num, line))
 ```
 
-### Lists
+## Lists
 
 [https://pythonworld.ru/tipy-dannyx-v-python/spiski-list-funkcii-i-metody-spiskov.html](https://pythonworld.ru/tipy-dannyx-v-python/spiski-list-funkcii-i-metody-spiskov.html)
 
-```
+```text
 list.insert(index, val)
 ```
 
@@ -43,15 +43,15 @@ list.insert(index, val)
 
 Разбор нюансов использования индексаторов: [https://towardsdatascience.com/the-basics-of-indexing-and-slicing-python-lists](https://towardsdatascience.com/the-basics-of-indexing-and-slicing-python-lists-2d12c90a94cf) \(степпинг, слайсинг - это всё\)
 
-### Строки
+## Строки
 
 Интерполяция строк: [https://www.programiz.com/python-programming/string-interpolation](https://www.programiz.com/python-programming/string-interpolation)
 
-### Сортировка
+## Сортировка
 
 [https://docs.python.org/3/howto/sorting.html](https://docs.python.org/3/howto/sorting.html)
 
-### Словари
+## Словари
 
 [https://pythonworld.ru/tipy-dannyx-v-python/slovari-dict-funkcii-i-metody-slovarej.html](https://pythonworld.ru/tipy-dannyx-v-python/slovari-dict-funkcii-i-metody-slovarej.html)
 
