@@ -53,5 +53,18 @@ list.insert(index, val)
 
 ## Словари
 
-[https://pythonworld.ru/tipy-dannyx-v-python/slovari-dict-funkcii-i-metody-slovarej.html](https://pythonworld.ru/tipy-dannyx-v-python/slovari-dict-funkcii-i-metody-slovarej.html)
+{% embed url="https://pythonworld.ru/tipy-dannyx-v-python/slovari-dict-funkcii-i-metody-slovarej.html" %}
+
+## Membership test operations
+
+{% embed url="https://docs.python.org/3/reference/expressions.html\#membership-test-operations" %}
+
+Присутствие элемента в списке можно проверить с помощью `in`
+
+```text
+if x in s:
+    
+```
+
+Работает и для словарей тоже
 
