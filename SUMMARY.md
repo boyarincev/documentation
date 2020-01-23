@@ -1,7 +1,7 @@
-# Summary	# Table of contents
+# Summary
 
 
-* [Introduction](README.md)	* [Initial page](README.md)
+* [Introduction](README.md)
 * [NHibernate](nhibernate.md)	
 * [Asp.Net Core](aspnet_core.md)	
   * [Empty Template](empty_template.md)	
