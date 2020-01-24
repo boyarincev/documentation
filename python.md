@@ -55,6 +55,14 @@ list.insert(index, val)
 
 {% embed url="https://pythonworld.ru/tipy-dannyx-v-python/slovari-dict-funkcii-i-metody-slovarej.html" %}
 
+Использование dict comprehension для создания словаря
+
+{% embed url="https://www.datacamp.com/community/tutorials/python-dictionary-comprehension" %}
+
+## Set
+
+{% embed url="https://docs.python.org/3/library/stdtypes.html\#set-types-set-frozenset" %}
+
 ## Membership test operations
 
 {% embed url="https://docs.python.org/3/reference/expressions.html\#membership-test-operations" %}
