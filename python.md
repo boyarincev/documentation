@@ -1,5 +1,26 @@
 # Python
 
+## Slicing \(работает на списках и на строках и на чём-нибудь ещё\)
+
+[https://stackoverflow.com/a/509295/5402731](https://stackoverflow.com/a/509295/5402731)
+
+It's pretty simple really:
+
+```text
+a[start:stop]  # items start through stop-1
+a[start:]      # items start through the rest of the array
+a[:stop]       # items from the beginning through stop-1
+a[:]           # a copy of the whole array
+```
+
+There is also the `step` value, which can be used with any of the above:
+
+```text
+a[start:stop:step] # start through not past stop, by step
+```
+
+The key point to remember is that the `:stop` value represents the first value that is _not_ in the selected slice. So, the difference between `stop` and `start` is the number of elements selected \(if `step` is 1, the default\).
+
 ## Looping cheat sheet
 
 [https://treyhunner.com/2016/04/how-to-loop-with-indexes-in-python/](https://treyhunner.com/2016/04/how-to-loop-with-indexes-in-python/)
