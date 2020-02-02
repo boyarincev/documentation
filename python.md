@@ -217,11 +217,206 @@ if x in s:
 * 0
 * 0.0
 
+## Генераторы последовательностей
+
+```text
+even_num_squares = [x * x for x in range(100) if x % 2 == 0]
+
+even_num_squares_dict = {x : x * x for x in range(100) if x % 2 == 0}
+
+even_num_squares_set = {x * x for x in range(100) if x % 2 == 0}
+
+pairs_with_inner_loop = [(x, y) for x in range(100)
+                                for y in range(100)]
+                                
+#lazy генераторное выражение
+lazy_evens_below_20 = (i for i in range(20) if i % 2 == 0)
+```
+
+## Случайные числа
+
+```text
+import random
+
+four_uniform_randov = [random.random() for _ in range(4)]
+
+#генерация одного и того же рандомного числа
+random.seed(10)
+random.random()
+random.random()
+
+#произовольно выбрать из range 3-6
+random.randrange(3, 6)
+
+#перемешать числа в списке
+up_to_ten = range(10)
+random.shuffle(up_to_ten)
+
+#выборать случайное значение из списка
+random.choice(up_to_ten)
+
+lottery_numbers = range(60)
+#выбрать несколько случайных элементов, без повторов
+random.sample(lottery_numbers, 6)
+
+#выбрать несколько случайных элементов, с повторами
+[random.choice(random(60)) for _ in range(4)]
+```
+
+## Регулярные выражения
+
+```text
+import re
+```
+
+## Объектно-ориентированное программирование
+
+```text
+class Set:
+    def __init__(self, values=None):
+    #это конструктор
+    self.dict = {}
+
+    if values is not None:
+        for value in values: self.add(value)
+
+    def __repr__(self):
+    #строковое представление класса
+    #дописать реализацию метода
+    
+    def add(self, value):
+    #дописать реализацию метода    
+    
+    def remove(self, value)
+    #дописать реализацию метода
+    
+s = Set([1, 2, 3])
+s.add(4)
+```
+
+## Функциональное программирование
+
+```text
+def exp(base, power)
+    return base ** power
+    
+#каррирование
+from functools import partial
+two_to_the = partial(exp, 2)
+```
+
+### Переменные args и kwargs
+
+Позволяют обращаться к переменным функции, либо как к кортежу, либо как к словарю.
+
+```text
+def magic(*args, **kwargs):
+    print('безымянные аргументы, как кортеж:', args)
+    print('аргументы по ключу:', kwargs)
+    
+magic(1, 2, key='word', key2='word2')
+
+#напечатает:
+#безымянные аргументы, как кортеж: (1, 2)
+#аргументы по ключу: {'key': 'word', 'key2': 'word2'}
+```
+
+Позволяют обернуть функцию с произвольным количеством аргументов.
+
+```text
+def doubler(f):
+    #получает параметры как кортеж
+    def g(*args):
+        #передает кортеж, как отдельные параметры
+        #если передавать с двумя звёздочками, то распакует словарь
+        #и передаст по ключам в функцию
+        return 2 * f(*args)
+    return g
+    
+def f2(x, y):
+    return x+y
+    
+f2_doubler = doubler(f2)
+
+print(f2_doubler(1, 2))
+```
+
+## Встроенные функции
+
+### all и any
+
 ```text
 all[True, False]) #Возвращает True, если все элементы списка истинны
 any([True, False]) #Любой элемент истинен
 
 orOp = True or False
 andOp = True and False
+
+
+```
+
+### map
+
+```text
+def double(x):
+    return x*2
+    
+xs = [1, 2, 3, 4, 5]
+twice_xs = map(double, xs)
+
+#может принимать несколько списков
+def multiply(x, y): return x * y
+
+products = map(multiply, [1, 2], [4, 5]) # [4, 10]
+```
+
+### filter
+
+```text
+def is_even(x): return x % 2 == 0
+
+x_evens = filter(is_even, range(100))
+```
+
+### reduce
+
+Выполняет свертку списка: объединяет первые два элемента, затем полученный результат со следующим элементов и так до конца, в результате в конце получается единственное значение, как результат
+
+```text
+from functools import reduce
+
+x_product = reduce(lambda x, y: x * y, range(100))
+```
+
+### enumerate
+
+Позволяет итерировать по списку, зная индекс элемента
+
+```text
+docs = []
+for index, doc in enumerate(docs):
+    do_something(index, doc)
+```
+
+### zip
+
+Объединяет два \(и более\) списка и возвращает список кортежей, где каждый кортеж это объединение соответствущих элементов из обоих списков.
+
+```text
+list1 = [1, 2, 3]
+list2 = [a, b, c]
+
+list(zip(list2, list1)) #[(a, 1), (b, 2), (c, 3)]
+```
+
+Если списки разных длин, то функция прекратит работу, когда закончится один из списков.
+
+Разъеденить список можно используя \*
+
+```text
+pairs = [(a, 1), (b, 2), (c, 3)]
+#*pairs - распакует список и передаст в функцию каждый элемент
+#как отдельный параметр
+list(zip(*pairs)) # [(a, b, c), (1, 2, 3)]
 ```
 
