@@ -56,7 +56,7 @@
 * [Теория обучения](teoriya-obucheniya.md)
 * [Теория Психики](teoriya-psihiki.md)
 * [Карьера](karera.md)
-* [DataScience](datascience/README.md)
+* [DataScience](datascience.md)
   * [Теория вероятностей](datascience/teoriya-veroyatnostei.md)
   * [Статистика](datascience/statistika.md)
 * [Programming](programming.md)
