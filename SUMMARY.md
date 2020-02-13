@@ -7,7 +7,7 @@
   * [Entity Framework](entity_framework_core.md)
 * [IIS](iis.md)
 * [PostgreSQL](postgresql.md)
-* [Qurtz.NET](qurtznet.md)
+* [Quartz.NET](qurtznet.md)
 * [GIT](git.md)
 * [FAR](far.md)
 * [Smart Home](smart-home.md)
