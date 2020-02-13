@@ -63,4 +63,5 @@
 * [Math](math/README.md)
   * [Combinatorics](combinatorics.md)
   * [Linear Algebra](math/linear-algebra.md)
+* [Tex](tex.md)
 
