@@ -1,5 +1,9 @@
 # Теория вероятностей
 
+[http://statistics.zone/](http://statistics.zone/)
+
+​[https://github.com/mavam/stat-cookbook/releases/download/0.2.6/stat-cookbook.pdf](https://github.com/mavam/stat-cookbook/releases/download/0.2.6/stat-cookbook.pdf)
+
 Вероятностное пространств состоит из множества всех возможных элементарных исходов, а любое подмножество этих исходов представляет собой случайное событие.
 
 Вероятность случайного события E обозначается P\(E\)

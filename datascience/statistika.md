@@ -1,5 +1,9 @@
 # Статистика
 
+{% embed url="http://statistics.zone/" %}
+
+[https://github.com/mavam/stat-cookbook/releases/download/0.2.6/stat-cookbook.pdf](https://github.com/mavam/stat-cookbook/releases/download/0.2.6/stat-cookbook.pdf)
+
 ## Показатели центра распределения
 
 Медиана - ближайшее к центру значение \(если количество точек данных нечётное\) либо среднее арифмитическое, взятое как полусумма двух ближайших к центру значений \(если число точек чётное\).
