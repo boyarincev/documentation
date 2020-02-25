@@ -8,7 +8,7 @@
 
 [FAQ кофе coffeewave](https://docs.google.com/document/d/1oJRel_2eSNReUwKShNUV0t8esBRWVxV0S4dm0rD_lo4/edit?usp=sharing)
 
-### Производители ручных кофемолок
+## Производители ручных кофемолок
 
 [Kinu](https://kinugrinders.com/)
 
@@ -16,15 +16,15 @@
 
 [Helor](https://helor-coffee.com/buy-now/)
 
-### Весы
+## Весы
 
 [Timemore](https://www.torrefacto.ru/catalog/accessories/timemore-black-mirror/) - китайские весы с приложением на телефон \(аналог akai ?\)
 
-### Кофемашины
+## Кофемашины
 
 [https://stoll-espresso.ru/articles/198229](https://stoll-espresso.ru/articles/198229) - про кофемашины
 
-Регуляторы мембраны \(советовал Андрей\): [https://expert-cm.ru/search?q=регулятор мембраны](https://expert-cm.ru/search?q=регулятор мембраны)
+Регуляторы мембраны \(советовал Андрей\): [https://expert-cm.ru/search?q=регулятор мембраны](https://expert-cm.ru/search?q=регулятор%20мембраны)
 
 Мотор и Ротопомпа в комплекте: [https://expert-cm.ru/products/motor-s-pompoi-230v](https://expert-cm.ru/products/motor-s-pompoi-230v)
 
@@ -44,13 +44,13 @@ PID на теплообменнике: [https://www.home-barista.com/espresso-ma
 
 [Российская кофемашина GUFO](http://www.guforus.com/s1.php): [Характеристики](http://www.guforus.com/files/GUFO_S1.pdf)
 
-### Кофемолки
+## Кофемолки
 
 [Wilfa grinder](https://www.slurp.coffee/en/shop/grinders/wilfa-svart-uniform-wsfbs-100b-coffee-grinder/) для эспрессо
 
 Lagom P64 Flat Burr Grinder [https://www.option-o.com/shop/lagom-p64](https://www.option-o.com/shop/lagom-p64)
 
-### **DIY**
+## **DIY**
 
 Корзинка для измерения температуры: [https://www.home-barista.com/espresso-machines/building-diy-thermofilter-t38248.html](https://www.home-barista.com/espresso-machines/building-diy-thermofilter-t38248.html)
 
@@ -62,7 +62,7 @@ Lagom P64 Flat Burr Grinder [https://www.option-o.com/shop/lagom-p64](https://ww
 
 Установка роторной помпы на Expobar: [https://wiki.wholelattelove.com/images/c/c0/EXPOBAR\_BREWTUS\_Rotary\_Pump\_Conversion.pdf](https://wiki.wholelattelove.com/images/c/c0/EXPOBAR_BREWTUS_Rotary_Pump_Conversion.pdf)
 
-### Проекты самодельных кофемашин
+## Проекты самодельных кофемашин
 
 [https://playground.arduino.cc/Main/CoffeeTronics](https://playground.arduino.cc/Main/CoffeeTronics)
 
@@ -72,11 +72,11 @@ Lagom P64 Flat Burr Grinder [https://www.option-o.com/shop/lagom-p64](https://ww
 
 [http://int03.co.uk/blog/project-coffee-espiresso-machine/](http://int03.co.uk/blog/project-coffee-espiresso-machine/)
 
-### Приготовление
+## Приготовление
 
 [Техника приготовления эспрессо](https://www.torrefacto.ru/blog/brew-guide/espresso-first-steps/)
 
-### Кофештуки
+## Кофештуки
 
 [Банки для кофе](https://www.bellabarista.co.uk/brands/airscape.html)
 
@@ -84,7 +84,7 @@ Lagom P64 Flat Burr Grinder [https://www.option-o.com/shop/lagom-p64](https://ww
 
 [Lynweber](https://lynweber.com/products/) \(всякие интересные штуки, например зеркало и мензурки\)
 
-### Запчасти для Expobar
+## Запчасти для Expobar
 
 [Деаэратор](https://www.bellabarista.co.uk/espresso-parts/coffee-machine-parts-by-brand/expobar-parts/expobar-air-bleed-valve-brass.html) на беллабариста
 
@@ -96,7 +96,7 @@ Lagom P64 Flat Burr Grinder [https://www.option-o.com/shop/lagom-p64](https://ww
 
 [Термометр](https://www.chriscoffee.com/e61-digital-thermometer-adapter-p/sss-04.htm) Эрика
 
-В термометре эрика в группу прикручивается  Swagelok P/N SS-200-1-0221BT \(так написано в [документации](https://www.chriscoffee.com/v/vspfiles/manuals/Digital_Thermometer_Adapter_Manual.pdf)\) - [попытался его найти](https://www.swagelok.com/en/search?N=0&Ntt=SS-200-1&nrpp=24&No=0&language=en&tab=productTabs&), возможно [вот этот подходит](https://www.swagelok.com/en/catalog/Product/Detail?part=SS-200-1-2RP)
+В термометре эрика в группу прикручивается Swagelok P/N SS-200-1-0221BT \(так написано в [документации](https://www.chriscoffee.com/v/vspfiles/manuals/Digital_Thermometer_Adapter_Manual.pdf)\) - [попытался его найти](https://www.swagelok.com/en/search?N=0&Ntt=SS-200-1&nrpp=24&No=0&language=en&tab=productTabs&), возможно [вот этот подходит](https://www.swagelok.com/en/catalog/Product/Detail?part=SS-200-1-2RP)
 
 [Coffee-Sensor](https://coffee-sensor.com/) - Альтернативный термометр для группы \([обсуждение на прокофе](http://prokofe.ru/plugins/forum/forum_viewtopic.php?212492), [обсуждение на coffeeforums.co.uk](https://coffeeforums.co.uk/showthread.php?47156-REVIEW-Coffee-Sensor-E61-digital-group-thermometer)\)
 

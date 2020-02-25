@@ -30,7 +30,7 @@ conda - это anaconda - дистрибутив на основе Python для
 
 To see a list of all of your environments, in your Terminal window or an Anaconda Prompt, run:
 
-```
+```text
 conda info --envs
 ```
 
@@ -39,13 +39,12 @@ conda info --envs
 To activate an environment:
 
 * On Windows, in your Anaconda Prompt, run
+
   `activate myenv`
+
 * On macOS and Linux, in your Terminal Window, run
+
   `source activate myenv`
 
 Conda prepends the path name`myenv`onto your system command.
-
-
-
-
 

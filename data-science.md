@@ -10,5 +10,3 @@
 
 Руководство по numpy [https://engineering.ucsb.edu/~shell/che210d/numpy.pdf](https://engineering.ucsb.edu/~shell/che210d/numpy.pdf)
 
-
-

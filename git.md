@@ -2,31 +2,31 @@
 
 Посмотреть содержимое stash
 
-```
+```text
 git show stash{0}
 ```
 
 Посмотреть, что было сделано в старом коммите
 
-```
+```text
 git difftool {commit} {commit}
 ```
 
 Список веток, в которых есть коммиты не вмерженные в master
 
-```
+```text
 git branch --no-merged master
 ```
 
 Список коммитов, которые не вмержены в master
 
-```
+```text
 git cherry -v master <branch>
 ```
 
 PUSH локальной ветки в удаленную:
 
-```
+```text
 git push <remote-name> <local-branch-name>:<remote-branch-name>
 ```
 
@@ -34,7 +34,7 @@ git push <remote-name> <local-branch-name>:<remote-branch-name>
 
 Посмотреть blame в gui
 
-```
+```text
 git gui blame Makefile //Нужно указывать полный путь до файла, полный путь можно скопировать в git-gui
 git gui browser maint //Показывает дерево файлов и папок проекта в котором можно выбрать любой файл 
 //и откроется blame для него в отдельном окне

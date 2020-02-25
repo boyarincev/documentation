@@ -2,7 +2,7 @@
 
 [Документация по PostgreSQL](https://www.postgresql.org/docs/9.6/static/index.html)
 
-### Psql
+## Psql
 
 Консольная утилита для доступа к базе \(sql запросы\).
 
@@ -10,17 +10,17 @@
 
 [Кириллица в psql](http://www.iu5bmstu.ru/index.php/PostgreSQL_-_Кириллица_в_psql_под_Windows)
 
-### pgcli
+## pgcli
 
 Более продвинутая консольная утилита для доступа к БД
 
 [https://www.pgcli.com/](https://www.pgcli.com/)
 
-### Управление сервером \(рестарт, старт, шутдаун\)
+## Управление сервером \(рестарт, старт, шутдаун\)
 
 [Утилита для управления сервером PostgreSQL - pg-ctl](https://www.postgresql.org/docs/9.3/static/app-pg-ctl.html) \(рестарт, старт, шутдаун\)
 
-```
+```text
 pg_ctl -D . restart
 ```
 
@@ -30,15 +30,15 @@ pg_ctl -D . restart
 
 Замечание: Похоже путь до инстанса нужно указывать в кавычках
 
-### Доступ к метаданным
+## Доступ к метаданным
 
 [Другие системные вью и таблицы постгреса](https://www.postgresql.org/docs/9.6/static/catalogs.html) \(доступ ко всем метаданным\)
 
-### Cборщики статистики
+## Cборщики статистики
 
-#### Посмотреть текущие соединения с БД
+### Посмотреть текущие соединения с БД
 
-```SQL
+```sql
 SELECT * FROM pg_stat_activity;
 ```
 
@@ -46,39 +46,39 @@ SELECT * FROM pg_stat_activity;
 
 [Системные функции](https://www.postgresql.org/docs/current/static/functions-info.html) дающие доступ к текущей сессии \(current\_database, current\_query и т.д.\)
 
-### Путь до БД сервера
+## Путь до БД сервера
 
-```
+```text
 C:\Program Files\PostgreSQL\data\pg95
 ```
 
-### Путь до места хранения логов
+## Путь до места хранения логов
 
-```
+```text
 C:\Program Files\PostgreSQL\data\logs\pg95
 ```
 
 Похоже что pg95 - это название инстанса сервера.
 
-### Просмотр настроек - show sql команда
+## Просмотр настроек - show sql команда
 
-```
+```text
 show config_file --местоположение текущего конфиг файла
 show all --показать все текущие настройки постгреса
 ```
 
-```
+```text
 SELECT pg_terminate_backend(pg_stat_activity.pid)
  FROM pg_stat_activity
  WHERE pg_stat_activity.datname = 'DataCollect-Concurrent-Stress-Test-4'
    AND pid <> pg_backend_pid();
 ```
 
-### Убить все коннекты к базе
+## Убить все коннекты к базе
 
 You can use [pg\_terminate\_backend\(\)](http://www.postgresql.org/docs/current/static/functions-admin.html) to kill a connection. You have to be superuser to use this function. This works on all operating systems the same.
 
-```
+```text
 SELECT
     pg_terminate_backend(pid)
 FROM
@@ -93,25 +93,25 @@ AND
 
 Before executing this query, you have to [REVOKE](http://www.postgresql.org/docs/current/interactive/sql-revoke.html) the CONNECT privileges to avoid new connections:
 
-```
+```text
 REVOKE CONNECT ON DATABASE dbname FROM PUBLIC, username; --это навсегда?
 ```
 
 [оригинал](https://stackoverflow.com/questions/5108876/kill-a-postgresql-session-connection)
 
-### Работа с sequence
+## Работа с sequence
 
 [Все функции в документации](https://www.postgresql.org/docs/9.1/static/functions-sequence.html)
 
-```
+```text
 SELECT nextval('data."dim_Perfomance_Load_Dimension_49_id"');
 ```
 
-### Работа с транзакциями
+## Работа с транзакциями
 
 Посмотреть что есть заблокированного в транзакциях есть сейчас
 
-```
+```text
 SELECT * FROM pg_locks
 ```
 
@@ -119,7 +119,7 @@ SELECT * FROM pg_locks
 
 Вывести больше информации о соединении в котором эта транзакция открыта
 
-```
+```text
 SELECT * FROM pg_locks pl LEFT JOIN pg_stat_activity psa
     ON pl.pid = psa.pid;
 ```
@@ -128,7 +128,7 @@ SELECT * FROM pg_locks pl LEFT JOIN pg_stat_activity psa
 
 Запрос в pgclass по идентификатору из таблицы pg\_locks
 
-```
+```text
 SELECT * FROM pg_class WHERE oid = 359894
 ```
 
@@ -140,14 +140,14 @@ SELECT * FROM pg_class WHERE oid = 359894
 
 [Явное блокирование](https://www.postgresql.org/docs/9.5/static/explicit-locking.html)
 
-```
+```text
 BEGIN;
 LOCK TABLE data."dim_Perfomance_Load_Dimension_49" IN EXCLUSIVE MODE;
 ```
 
 В другом окне пытаемся вставить в нее строку
 
-```
+```text
 INSERT INTO data."dim_Perfomance_Load_Dimension_49" ("Id", "SortOrder") VALUES (4, 4)
 ```
 
@@ -155,49 +155,47 @@ INSERT INTO data."dim_Perfomance_Load_Dimension_49" ("Id", "SortOrder") VALUES (
 
 Завершаем транзакцию в первом окне
 
-```
+```text
 COMMIT;
 ```
 
 Снова пытаемся заинсертить
 
-```
+```text
 INSERT INTO data."dim_Perfomance_Load_Dimension_49" ("Id", "SortOrder") VALUES (4, 4)
 ```
 
-### Узнать местоположение таблицы в файловой системе
+## Узнать местоположение таблицы в файловой системе
 
 [Раздел документации о том как всё хранится в файловой системе](https://www.postgresql.org/docs/10/static/storage.html)
 
 Определяем oid таблицы
 
-```
+```text
 SELECT oid FROM pg_class WHERE relname = 'employees';
 ```
 
 Нужно запрашивать именно колонку oid - если просто выводить все поля таблицы через звёздочку, то oid колонка не будет показываться в итоговой выборке - колонка скрытая.
 
-```
+```text
 SELECT pg_relation_filepath(446565)
 ```
 
-Покажет местоположение таблицы в файловой системе относительно местоположения БД в файловой системе \(в моём случае относительно  каталога "C:\Program Files\PostgreSQL\data\pg95"\)
+Покажет местоположение таблицы в файловой системе относительно местоположения БД в файловой системе \(в моём случае относительно каталога "C:\Program Files\PostgreSQL\data\pg95"\)
 
-### Работа с oid
+## Работа с oid
 
 [Документация по oid](https://www.postgresql.org/docs/current/static/datatype-oid.html)
 
 Там где нужно использовать oid можно сделать быстрое приведение используя имя \(имя таблицы, индекса и т.д.\)
 
-```
+```text
 'employees'::regclass
 ```
 
 Или так \(похоже нет разницы что использовать\)
 
-```
+```text
 'employees'::regclass::oid
 ```
-
-
 

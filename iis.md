@@ -1,6 +1,6 @@
 # IIS
 
-### Права на папку
+## Права на папку
 
 IIS AppPool\DefaultAppPool \(DefaultAppPool - название пула\)
 
@@ -16,7 +16,7 @@ IIS AppPool\DefaultAppPool \(DefaultAppPool - название пула\)
 
 [IIS - просмотр текущих запросов](https://stackoverflow.com/questions/15621509/how-do-i-see-currently-executing-web-request-on-iis-8)
 
-[Таблица](http://jpelectron.com/sample/WWW and HTML/IIS- OS Version Limits.htm) показывающая сколько каждая ВиндоОсь может обрабатывать одновременных запросов в IIS
+[Таблица](http://jpelectron.com/sample/WWW%20and%20HTML/IIS-%20OS%20Version%20Limits.htm) показывающая сколько каждая ВиндоОсь может обрабатывать одновременных запросов в IIS
 
 [Вопрос на stackoverflow](https://stackoverflow.com/questions/2147351/does-iis-7-have-limit-of-simultaneous-requests) о количестве одновременно обрабатываемых запросов на IIS
 

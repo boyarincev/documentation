@@ -6,7 +6,7 @@ parent: ASP.NET Core
 
 ## Добавление кодогенерации и миграций ЕФ.
 
-```json
+```javascript
    "dependencies": {
     "Microsoft.VisualStudio.Web.CodeGeneration.Tools": {
       "version": "1.0.0-preview1-final",
