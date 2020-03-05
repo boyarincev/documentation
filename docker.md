@@ -11,5 +11,7 @@ sudo docker build -t baseenv .
 
 sudo docker ps -a // запущенные и не запущенные контейнеры
 sudo docker stop имя_контейнера //остановить контейнерs
+
+sudo docker logs -f имя_контейнера //следить за логами контейнера
 ```
 
