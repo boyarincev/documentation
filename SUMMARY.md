@@ -64,4 +64,5 @@
   * [Combinatorics](math/combinatorics.md)
   * [Linear Algebra](math/linear-algebra.md)
 * [Tex](tex.md)
+* [Games](games.md)
 
