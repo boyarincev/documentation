@@ -65,4 +65,6 @@
   * [Linear Algebra](math/linear-algebra.md)
 * [Tex](tex.md)
 * [Games](games.md)
+* [OLAP](olap.md)
+* [Clean Code](clean-code.md)
 

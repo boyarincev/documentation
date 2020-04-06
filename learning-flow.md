@@ -1,23 +1,7 @@
 # Learning Flow
 
-Learning Flow
-
-## Утечки памяти в Javascript
-
-* [ ] [**Memory Management**](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Memory_Management) **в Javascript - Must Read, статья с MDN**
-* [ ] [**Concurrency model and Event Loop in Javascript**](https://developer.mozilla.org/en-US/docs/Web/JavaScript/EventLoop) **- Must Read, статья с MDN**
-
-## Javascript
-
-* [ ] [Iterators and generators in Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Iterators_and_generators) - MDN
-* [ ] [Побитовые операции](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Operators/Bitwise_Operators)
-* [ ] [Рефакторинг салона видеопроката на JavaScript](https://habrahabr.ru/post/320280/)
-
 ## PostgreSQL
 
-* [ ] [Рекурсивные запросы в PostgreSQL \(WITH RECURSIVE\)](https://habrahabr.ru/post/269497/)
-* [ ] [Модуль для работы с деревом ltree](https://www.postgresql.org/docs/9.4/static/ltree.html)
-* [ ] [With Queries](https://www.postgresql.org/docs/8.4/static/queries-with.html)
 * [ ] [Производительность PostgreSQL](https://www.postgresql.org/docs/9.6/static/performance-tips.html) - **MR**
 * [ ] [PostgreSQL Concurrency Issues](https://www.postgresql.org/files/developer/concurrency.pdf) - какая-то страння презентация 2002 года, разбираются вопросы транзакций и производительности, стоит вчитаться.
 * [ ] [14.1. Using EXPLAIN](https://www.postgresql.org/docs/9.6/static/using-explain.html)
@@ -29,24 +13,6 @@ Learning Flow
 * [ ] [Презентация как работает MVCC в постгресе](http://momjian.us/main/writings/pgsql/mvcc.pdf)
 * [ ] [Презентация как организована память в постгресе](http://momjian.us/main/writings/pgsql/inside_shmem.pdf)
 * [ ] [Пример анализа проблем производительности в постгресе](https://habr.com/company/postgrespro/blog/423685/)
-
-## Верстка
-
-* [ ] [Современный CSS для динозавров](https://habrahabr.ru/post/348500/)
-* [ ] [**sakura**](https://github.com/oxalorg/sakura) - минималистичный css фреймворк
-* [ ] [30 секунд CSS](https://habrahabr.ru/company/mailru/blog/350160/)
-
-## Математика
-
-* [ ] [Как читать математику](https://habrahabr.ru/post/346228/)
-
-## Производительность БД
-
-* [ ] [Три аспекта оптимизации \(БД и ПО\)](https://habrahabr.ru/post/349910/)
-
-## OLAP
-
-* [ ] Изучить Олап  [http://www.olap.ru/basic/home.asp](http://www.olap.ru/basic/home.asp)
 
 ## Как работает Javascript
 
@@ -72,40 +38,5 @@ Learning Flow
 * [ ] Часть 18:[Как работает JS: WebRTC и механизмы P2P-коммуникаций](https://habr.com/company/ruvds/blog/416821/)
 * [ ] Часть 19:[Как работает JS: пользовательские элементы](https://habr.com/company/ruvds/blog/419831/)
 
-## Чистый код
 
-Конспект книги Роберта Мартина [https://habr.com/post/424051/](https://habr.com/post/424051/)
-
-## .NET Internals
-
-* [ ] [Не уважаю инкапсуляцию, или использование таблицы методов другого типа для быстрого вызова приватных методов](https://habr.com/post/423657/)
-* [ ] [Что происходит за кулисами С\#: основы работы со стеком](https://habr.com/post/427465/)
-
-## Идеи
-
-Ограничения параметров типов class и операции == и !=
-
-Скит написал, что в этом случае всегда проверяется ссылочная идентичность и не учитывается если эти операции
-
-перегружены, как например в string - то есть в случае со стринг будет проверка на ссылочную идентичность
-
-Насколько дорога операция typeof - бенчмарк тест
-
-typeof\(IList&lt;CubeElementViewModel&gt;\) == modelType vs кэшированная версия - для биндера
-
-Возможно про это есть в докладе Егора Богатова
-
-**Тестирование производительности в PostgreSQL**
-
-Пример замера производительности: [https://stackoverflow.com/questions/6633050/performance-difference-between-int4-and-int8-in-postgresql-on-64-bit-server](https://stackoverflow.com/questions/6633050/performance-difference-between-int4-and-int8-in-postgresql-on-64-bit-server)
-
-Утилита для замеров производительности: [https://www.postgresql.org/docs/10/static/pgbench.html](https://www.postgresql.org/docs/10/static/pgbench.html)
-
-Во что разворачивается yeld return
-
-Производительность nullable value type
-
-Разбор того как можно смотреть какие ресурсы заблокированы в транзакции, как смотреть информацию о транзакции
-
-Разбор случаев выкидывания StackOverflowException
 
