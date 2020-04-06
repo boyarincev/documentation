@@ -16,7 +16,6 @@
 * [Data Science](data-science.md)
 * [Job Interviews](job-interviews.md)
 * [Markup](markup.md)
-* [Learning Flow](learning-flow.md)
 * [Кофе](kofe.md)
 * [Learning Flow Курсы](learning-flow-kursi.md)
 * [Drones](drones.md)

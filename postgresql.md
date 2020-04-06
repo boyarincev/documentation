@@ -1,6 +1,18 @@
 # PostgreSQL
 
+## Документация
+
 [Документация по PostgreSQL](https://www.postgresql.org/docs/9.6/static/index.html)
+
+### Презентации
+
+[PostgreSQL Concurrency Issues](https://www.postgresql.org/files/developer/concurrency.pdf) - какая-то страння презентация 2002 года, разбираются вопросы транзакций и производительности, стоит вчитаться.
+
+[Презентация о квери оптимизаторе постгреса](http://momjian.us/main/writings/pgsql/optimizer.pdf)
+
+[Презентация как работает MVCC в постгресе](http://momjian.us/main/writings/pgsql/mvcc.pdf)
+
+[Презентация как организована память в постгресе](http://momjian.us/main/writings/pgsql/inside_shmem.pdf)
 
 ## Psql
 
