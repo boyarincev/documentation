@@ -76,6 +76,8 @@ Lagom P64 Flat Burr Grinder [https://www.option-o.com/shop/lagom-p64](https://ww
 
 [Техника приготовления эспрессо](https://www.torrefacto.ru/blog/brew-guide/espresso-first-steps/)
 
+[https://drive.google.com/file/d/1yZdU2run1Ra6g1ADQfsEsvqm1-GuXqix/view](https://drive.google.com/file/d/1yZdU2run1Ra6g1ADQfsEsvqm1-GuXqix/view)
+
 ## Кофештуки
 
 [Банки для кофе](https://www.bellabarista.co.uk/brands/airscape.html)
@@ -103,4 +105,14 @@ Lagom P64 Flat Burr Grinder [https://www.option-o.com/shop/lagom-p64](https://ww
 [Здесь предлагают Coffee-Sensor](https://www.theespressoshop.co.uk/en/Coffee-Sensor-E61-HX-and-Dual-Boiler-Digital-Grouphead-Thermometer/m-4258.aspx) с доставкой за 7 фунтов
 
 Инструкция по установке роторной помпы: [https://wiki.wholelattelove.com/images/c/c0/EXPOBAR\_BREWTUS\_Rotary\_Pump\_Conversion.pdf](https://wiki.wholelattelove.com/images/c/c0/EXPOBAR_BREWTUS_Rotary_Pump_Conversion.pdf)
+
+Жиклёр 0.75 [https://www.theespressoshop.co.uk/en/Expobar-Grouphead-Jet-M6x1-Hole-075-mm---30200050/m-4048.aspx](https://www.theespressoshop.co.uk/en/Expobar-Grouphead-Jet-M6x1-Hole-075-mm---30200050/m-4048.aspx)
+
+## Молоко
+
+{% embed url="https://youtu.be/aIVc8Yqs5WQ" %}
+
+{% embed url="https://drive.google.com/file/d/1b0cmqIDKstldNzZrTIj1-iv\_\_kjMaJc3/view" %}
+
+
 
