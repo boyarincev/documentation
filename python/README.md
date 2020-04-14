@@ -123,6 +123,8 @@ my_tuple = 1, 2 #так тоже можно создать
 
 Интерполяция строк: [https://www.programiz.com/python-programming/string-interpolation](https://www.programiz.com/python-programming/string-interpolation)
 
+В питоне жопа с кодировками, в этой статье разбираются проблемы работы с кодировками и даётся краткая теория про них: [https://nedbatchelder.com/text/unipain.html](https://nedbatchelder.com/text/unipain.html)
+
 ## Сортировка
 
 [https://docs.python.org/3/howto/sorting.html](https://docs.python.org/3/howto/sorting.html)
