@@ -119,7 +119,9 @@ REVOKE CONNECT ON DATABASE dbname FROM PUBLIC, username; --это навсегд
 SELECT nextval('data."dim_Perfomance_Load_Dimension_49_id"');
 ```
 
-## Работа с транзакциями
+## Работа с транзакциями и блокировками
+
+Норм статья рассказывающая как смотреть, что сейчас заблокировано в БД и какие запросы какими заблокированы: [http://zelark.github.io/exploring-query-locks-in-postgres/](http://zelark.github.io/exploring-query-locks-in-postgres/)
 
 Посмотреть что есть заблокированного в транзакциях есть сейчас
 
