@@ -80,6 +80,12 @@ for num, line in enumerate(lines):
     print("{0:03d}: {}".format(num, line))
 ```
 
+Range of length
+
+```text
+
+```
+
 ## Списки
 
 {% embed url="https://pythonworld.ru/tipy-dannyx-v-python/spiski-list-funkcii-i-metody-spiskov.html" %}
