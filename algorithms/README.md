@@ -42,3 +42,9 @@ Problem Solving with Algorithms and Data Structures: [http://aliev.me/runestone/
 
 Советы: тестируйте ваш код, а не корректность алгоритма. Когда вы находите баг поймите его настоящую причину, а не пытайтесь сразу же пофиксить.
 
+## Шаблоны используемые при решении задач
+
+{% embed url="https://tproger.ru/translations/14-templates-to-answer-interview-questions/" %}
+
+
+
