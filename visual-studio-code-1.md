@@ -23,6 +23,21 @@ dotnet add package Newtonsoft.Json
 
 {% embed url="https://stackoverflow.com/q/40675162/5402731" %}
 
+## Запуск в релизе
+
+```text
+dotnet build -c release //собрать в релизе
+dotnet run -c release //запустить в релизе
+```
+
+Источник
+
+{% embed url="https://docs.microsoft.com/en-us/dotnet/core/tools/dotnet-build" %}
+
+Другие варианты
+
+{% embed url="https://stackoverflow.com/q/47854962/5402731" %}
+
 
 
 
