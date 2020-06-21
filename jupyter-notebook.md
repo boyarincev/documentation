@@ -50,7 +50,9 @@ To activate an environment:
 
 Conda prepends the path name`myenv`onto your system command.
 
-## Jupyter Notebook hotkeys
+## Jupyter Notebook
+
+### Hotkeys
 
  Remember that to switch back and forth between `Command Mode` and `Edit Mode` with Esc and Enter
 
@@ -77,4 +79,52 @@ Shift+M: Merge selected cells.
 Shift+Tab: \[press these two buttons at the same time, once\] Tells you which parameters to pass on a function
 
 Shift+Tab: \[press these two buttons at the same time, three times\] Gives additional information on the method
+
+### Команды
+
+**Cell Tricks**
+
+ `?function-name`: Shows the definition and docstring for that function
+
+ `??function-name`: Shows the source code for that function
+
+ `doc(function-name)`: Shows the definition, docstring **and links to the documentation** of the function \(only works with fastai library imported\)
+
+**Line Magics**
+
+Line magics are functions that you can run on cells and take as an argument the rest of the line from where they are called. You call them by placing a '%' sign before the command. The most useful ones are:
+
+`%matplotlib inline`: This command ensures that all matplotlib plots will be plotted in the output cell within the notebook and will be kept in the notebook when saved.
+
+`%reload_ext autoreload`, `%autoreload 2`: Reload all modules before executing a new line. If a module is edited, it is not necessary to rerun the import commands, the modules will be reloaded automatically.
+
+ `%timeit`: Runs a line ten thousand times and displays the average time it took to run it.
+
+```text
+%timeit [i+1 for i in range(1000)]
+```
+
+```text
+54.4 µs ± 1.37 µs per loop (mean ± std. dev. of 7 runs, 10000 loops each)
+```
+
+ `%debug`: Allows to inspect a function which is showing an error using the [Python debugger](https://docs.python.org/3/library/pdb.html).
+
+```text
+for i in range(1000):
+    a = i+1
+    b = 'string'
+    c = b+1
+```
+
+```text
+---------------------------------------------------------------------------
+TypeError                                 Traceback (most recent call last)
+<ipython-input-14-8d78ff778454> in <module>()
+      2     a = i+1
+      3     b = 'string'
+----> 4     c = b+1
+
+TypeError: must be str, not int
+```
 
