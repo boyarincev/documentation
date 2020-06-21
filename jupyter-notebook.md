@@ -1,5 +1,7 @@
 # Jupyter Notebook
 
+## Сервер
+
 Запустить сервер
 
 > jupyter notebook
@@ -26,7 +28,7 @@ conda - это anaconda - дистрибутив на основе Python для
 
 **С помощью environments можно использовать разные версии python работая с одной инсталляцией anaconda**
 
-## [Viewing a list of your environments](https://conda.io/docs/user-guide/tasks/manage-environments.html#id8)
+### [Viewing a list of your environments](https://conda.io/docs/user-guide/tasks/manage-environments.html#id8)
 
 To see a list of all of your environments, in your Terminal window or an Anaconda Prompt, run:
 
@@ -34,7 +36,7 @@ To see a list of all of your environments, in your Terminal window or an Anacond
 conda info --envs
 ```
 
-## [Activating an environment](https://conda.io/docs/user-guide/tasks/manage-environments.html#id5)
+### [Activating an environment](https://conda.io/docs/user-guide/tasks/manage-environments.html#id5)
 
 To activate an environment:
 
@@ -47,4 +49,32 @@ To activate an environment:
   `source activate myenv`
 
 Conda prepends the path name`myenv`onto your system command.
+
+## Jupyter Notebook hotkeys
+
+ Remember that to switch back and forth between `Command Mode` and `Edit Mode` with Esc and Enter
+
+Shift+Enter: Runs the code or markdown on a cell
+
+Up Arrow+Down Arrow: Toggle across cells
+
+b: Create new cell
+
+0+0: Reset Kernel
+
+m: Convert cell to Markdown
+
+y: Convert cell to Code
+
+D+D: Delete the cell\(if it's not the only cell\) or delete the content of the cell and reset cell to Code\(if only one cell left\)
+
+o: Toggle between hide or show output
+
+Shift+Arrow up/Arrow down: Selects multiple cells. Once you have selected them you can operate on them like a batch \(run, copy, paste etc\).
+
+Shift+M: Merge selected cells.
+
+Shift+Tab: \[press these two buttons at the same time, once\] Tells you which parameters to pass on a function
+
+Shift+Tab: \[press these two buttons at the same time, three times\] Gives additional information on the method
 
