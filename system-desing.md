@@ -14,5 +14,9 @@
 
 {% embed url="https://github.com/donnemartin/system-design-primer" %}
 
+{% embed url="https://habr.com/ru/post/516604/" %}
+
+{% embed url="https://gist.github.com/jboner/2841832" %}
+
 
 
