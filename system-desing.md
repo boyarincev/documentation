@@ -16,8 +16,6 @@
 
 {% embed url="https://habr.com/ru/post/516604/" %}
 
-{% embed url="https://gist.github.com/jboner/2841832" %}
-
 ```text
 Latency Comparison Numbers (~2012)
 ----------------------------------
@@ -54,4 +52,8 @@ Visual comparison chart: http://i.imgur.com/k0t1e.png
 ```
 
 Источник: [https://gist.github.com/jboner/2841832](https://gist.github.com/jboner/2841832)
+
+{% embed url="https://habr.com/ru/company/gms/blog/516718/" %}
+
+
 
