@@ -75,4 +75,5 @@
 * [Visual Studio Code](visual-studio-code-1.md)
 * [WinDbg](windbg.md)
 * [F\#](f.md)
+* [Psycho](psycho.md)
 
