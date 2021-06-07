@@ -44,6 +44,26 @@ PID на теплообменнике: [https://www.home-barista.com/espresso-ma
 
 [Российская кофемашина GUFO](http://www.guforus.com/s1.php): [Характеристики](http://www.guforus.com/files/GUFO_S1.pdf)
 
+{% embed url="https://xenia.coffee/en/konfig/" %}
+
+[https://kafmasino.com/](https://kafmasino.com/)
+
+Оригинал для Kafmachino
+
+{% embed url="https://detail.tmall.com/item.htm?id=525564889634" %}
+
+
+
+### Niche Zero
+
+Разбор Niche Zero
+
+{% embed url="https://naforum.zapodaj.net/f53051c41a35.jpg.html" %}
+
+{% embed url="https://coffeeforums.bg/viewtopic.php?t=336" %}
+
+
+
 ## Группа Е61
 
 {% file src=".gitbook/assets/faema\_lf.pdf" caption="Схема группы Faema E61" %}
@@ -117,6 +137,46 @@ Lagom P64 Flat Burr Grinder [https://www.option-o.com/shop/lagom-p64](https://ww
 {% embed url="https://youtu.be/aIVc8Yqs5WQ" %}
 
 {% embed url="https://drive.google.com/file/d/1b0cmqIDKstldNzZrTIj1-iv\_\_kjMaJc3/view" %}
+
+## DF64
+
+### Обсуждения
+
+{% embed url="https://forum.wszystkookawie.pl/index.php?topic=9296.615" %}
+
+{% embed url="https://coffeeforums.co.uk/topic/58285-new-g-iota-df64-solo-64mm-flat-burr-single-dosing-grinder/\#comments" %}
+
+{% embed url="https://www.espressoman.ro/forum/Thread-Rasnita-G-iota-DF64-single-dose-cu%C8%9Bite-plate-64mm-Italmill-sub-450%E2%82%AC?page=16" %}
+
+{% embed url="https://www.home-barista.com/grinders/g-iota-espresso-grinder-t70854-620.html" %}
+
+### Выравнивание жерновов
+
+[https://www.home-barista.com/grinders/g-iota-espresso-grinder-t70854-210.html?\_\_cf\_chl\_managed\_tk\_\_=c2e8f06eb6ece81f78dbe83cff706c5c64bb59fd-1622782546-0-AeEG1S745vxCkROB9vDbN1KwvsucyDKPeO0AXvuztFlEr3I7vhki2Q4vhA7iqzRIK1NU0\_Vj3HSVBP77Q-4abAskuE21iZ5J1QaYeeVDYqJ2oeJiE5mkawJb8TOpq76PEM88dvV5DSb2msj4qx\_TU1S9Vc5zdzm0tpMr1xN9OvVt5s4W3zbDy\_usUoOD\_Gf-7U70lBXMX8QOqXdcIvKsMBjmDk5MM9iS-rs9dg985s7dKaTczoxUwjmJPZrnby3EjUDWUtChaJMvUIZGBfqoLE8evm667Tni-BRn6-Z0YEqqEh6c9uabi\_HUfwD0SXJ7w-esY8m2RgB02anx8EjISYKOfFO7T4UsftFiulz5lnNvr22TOxx5pmA5t\_FJnNqlG5oDhWecf43V2yNiJWgo2ptLeSN6GWm2jdGZOf3g-NQRem7yluVxtbyTAdPUetw3zUPpMsBfAXKA2z2rbBIFdazG79HSkFVtwoWh-azklUIRU-Bu9oR0WM8IZwwGi4Prz9XDv\_3LXJepgZcTJq5Kuo2XUtjn47SqEAZd9bAkiyz54l2xw0Zkj2IitNPnh70iRJC70UCr1qn\_UwxhZyK9LejRaDiWoOed0e14vncaw2KOaplX04jJq\_89rrOLCwWiyNtUHEPYG9aqKEetXFZvYGmE9YJPnakZIgmQ4k7cr5jI\#p786903](https://www.home-barista.com/grinders/g-iota-espresso-grinder-t70854-210.html?__cf_chl_managed_tk__=c2e8f06eb6ece81f78dbe83cff706c5c64bb59fd-1622782546-0-AeEG1S745vxCkROB9vDbN1KwvsucyDKPeO0AXvuztFlEr3I7vhki2Q4vhA7iqzRIK1NU0_Vj3HSVBP77Q-4abAskuE21iZ5J1QaYeeVDYqJ2oeJiE5mkawJb8TOpq76PEM88dvV5DSb2msj4qx_TU1S9Vc5zdzm0tpMr1xN9OvVt5s4W3zbDy_usUoOD_Gf-7U70lBXMX8QOqXdcIvKsMBjmDk5MM9iS-rs9dg985s7dKaTczoxUwjmJPZrnby3EjUDWUtChaJMvUIZGBfqoLE8evm667Tni-BRn6-Z0YEqqEh6c9uabi_HUfwD0SXJ7w-esY8m2RgB02anx8EjISYKOfFO7T4UsftFiulz5lnNvr22TOxx5pmA5t_FJnNqlG5oDhWecf43V2yNiJWgo2ptLeSN6GWm2jdGZOf3g-NQRem7yluVxtbyTAdPUetw3zUPpMsBfAXKA2z2rbBIFdazG79HSkFVtwoWh-azklUIRU-Bu9oR0WM8IZwwGi4Prz9XDv_3LXJepgZcTJq5Kuo2XUtjn47SqEAZd9bAkiyz54l2xw0Zkj2IitNPnh70iRJC70UCr1qn_UwxhZyK9LejRaDiWoOed0e14vncaw2KOaplX04jJq_89rrOLCwWiyNtUHEPYG9aqKEetXFZvYGmE9YJPnakZIgmQ4k7cr5jI#p786903)
+
+[https://www.home-barista.com/grinders/g-iota-espresso-grinder-t70854-240.html?\_\_cf\_chl\_captcha\_tk\_\_=c623b6982b8dcabb1a0f9e9ee8bb285b592550f1-1623068458-0-AfN7Z3-J2yoT2qkTk4mHM7E49NLsnNALje5NMFF0LnYnqGZZlkRSY6bq0ZKup1IC24xW5icYR\_seBny2fhvtU7Tgeg--MrizfbDuN5asBQg2BLvNP\_8qTqKcvVx3icPmwvJEU2hxXjr2HeCw8s0nqV77tAsNCARYvXXktJNfsgMTl\_4rqaX7dNIQPg6OLIiuAlnQGPM9m7SODYrdZ5Ae6lshEphtB4Lyir39wgDl1qajF6F2GdoQrZa8\_Ae2yraS6b1pUsfCQ2PYazAikvwlOyCYcLPAMbYu96yUrvSAp7n5TlEqAMgS5D9lvQH6WEdeRxDb12QGSZDr\_KllF7zvQ9gmTsTLdXOyfDnWGUwgRtu4AvplvYYr\_6ifguUxEG8DUbNOS1nIfmAE1KrExzLY8yIm1Zf09f2LlmEFJH-Wy1k8J\_1N1VgLfEmUqdAJ7j\_ffMBO12Z4\_7sLbotj6kLyg84V9kcTyxDdXLUPPE4OxjEX0uuMXGIDMbTUCmfaMEs6ewqrN0xs0\_w-qlDBASYuI94pKHj8fSun3bbefDu5SZszM8lzZBZdFwi7wPqiFKn891GWOg7\_xvRHgNqNi\_AcWglhr0bVlhFL2AZ4qJb04pKGy1CBiFMxxgqlI3mKwZAEOhwYwEtOyNUYZMnUSYvrCKEC3eZnN-rGxxXcoB0lNP7Y](https://www.home-barista.com/grinders/g-iota-espresso-grinder-t70854-240.html?__cf_chl_captcha_tk__=c623b6982b8dcabb1a0f9e9ee8bb285b592550f1-1623068458-0-AfN7Z3-J2yoT2qkTk4mHM7E49NLsnNALje5NMFF0LnYnqGZZlkRSY6bq0ZKup1IC24xW5icYR_seBny2fhvtU7Tgeg--MrizfbDuN5asBQg2BLvNP_8qTqKcvVx3icPmwvJEU2hxXjr2HeCw8s0nqV77tAsNCARYvXXktJNfsgMTl_4rqaX7dNIQPg6OLIiuAlnQGPM9m7SODYrdZ5Ae6lshEphtB4Lyir39wgDl1qajF6F2GdoQrZa8_Ae2yraS6b1pUsfCQ2PYazAikvwlOyCYcLPAMbYu96yUrvSAp7n5TlEqAMgS5D9lvQH6WEdeRxDb12QGSZDr_KllF7zvQ9gmTsTLdXOyfDnWGUwgRtu4AvplvYYr_6ifguUxEG8DUbNOS1nIfmAE1KrExzLY8yIm1Zf09f2LlmEFJH-Wy1k8J_1N1VgLfEmUqdAJ7j_ffMBO12Z4_7sLbotj6kLyg84V9kcTyxDdXLUPPE4OxjEX0uuMXGIDMbTUCmfaMEs6ewqrN0xs0_w-qlDBASYuI94pKHj8fSun3bbefDu5SZszM8lzZBZdFwi7wPqiFKn891GWOg7_xvRHgNqNi_AcWglhr0bVlhFL2AZ4qJb04pKGy1CBiFMxxgqlI3mKwZAEOhwYwEtOyNUYZMnUSYvrCKEC3eZnN-rGxxXcoB0lNP7Y)
+
+
+
+### Обзоры
+
+{% embed url="https://sway.office.com/1GYioFUva9vnZaRL?ref=Link" %}
+
+{% embed url="https://antoinevautherot.medium.com/g-iota-df64-solo-turin-review-d64e61b8fa4" %}
+
+
+
+### Штуки
+
+{% embed url="https://www.thingiverse.com/thing:4863492" %}
+
+{% embed url="https://www.thingiverse.com/thing:4861909" %}
+
+{% embed url="https://drive.google.com/file/d/1DSTEw1B6vTzvlywxU8TRAr4ox10H5yzj/view" %}
+
+{% embed url="https://www.dropbox.com/s/9ihz4m6t75fnkhx/DF64\_GrindIndicator\_rev2.STL?dl=0" %}
+
+{% embed url="https://www.thingiverse.com/thing:4833793" %}
 
 
 

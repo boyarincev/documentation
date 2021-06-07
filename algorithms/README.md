@@ -56,6 +56,12 @@
 
  Ещё [Записи лекций](https://vk.com/mavrinlectures) Павла Маврина советую, он сейчас для кодфорсез делает курс по алгоритмам на английском. Или сделал :\)
 
+6.
+
+{% embed url="https://habr.com/ru/company/skillfactory/blog/539058/" %}
+
+
+
 ## Ссылки
 
 Loop Invariants: [https://www.cs.scranton.edu//~mccloske/courses/cmps144/invariants\_lec.html](https://www.cs.scranton.edu//~mccloske/courses/cmps144/invariants_lec.html)
