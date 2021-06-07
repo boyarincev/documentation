@@ -76,4 +76,5 @@
 * [WinDbg](windbg.md)
 * [F\#](f.md)
 * [Psycho](psycho.md)
+* [Заметочники](zametochniki.md)
 
