@@ -113,6 +113,19 @@ Senior Engineer в поисках работы. Как я прошел 15 тех
   
 И тут сейчас будет мой факап, у нас проблемы Хьюстон!Я опечаталась в своем email при первой подаче через реферала, ситуация смешная и одновременно страшная. Вывод: всегда внимательно проверяйте контакты \(раз 5\) и дайте кому-то почитать перед отправкой.
 
+#### Ссылки и материалы
+
+1. [Группа](https://t.me/FaangInterview) по подготовке в FAANG и [док сообщества](https://docs.google.com/document/d/1UIMSw6KkL6z7t_ATpKUdQWe5xPxCYXGjVWNY3BbLBx8)
+2. [Группа](https://t.me/resume_review) по ревью резюме
+3. Блог [Ларисы Агарковой](http://larrr.com/) и ее хороший [гайд по подготовке](http://larrr.com/wp-content/uploads/2016/10/InterviewPreparationGuide.pdf), можно еще [интервью](https://www.youtube.com/watch?v=i_jIzbSI9MQ) посмотреть
+4. Ютуб-канал [Tuchar Roy](https://www.youtube.com/channel/UCZLJf_R2sWyUtXSKiKlyvAw)
+5. Курс по [System Design](https://www.educative.io/courses/grokking-the-system-design-interview)
+6. Курс по [Advanced System Design](https://www.educative.io/courses/grokking-adv-system-design-intvw)
+7. Курс [Patterns for Coding Questions](https://www.educative.io/courses/grokking-the-coding-interview)
+8. Книга [Alex Xu, System Design Interview](https://www.amazon.com/System-Design-Interview-insiders-Second/dp/B08CMF2CQF)
+9. Книга [Designing Data-Intensive Applications](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321/ref=pd_lpo_14_img_0/136-6629283-9009906?_encoding=UTF8&pd_rd_i=1449373321&pd_rd_r=3c536e21-9782-455c-9308-2ac6b6916af1&pd_rd_w=QEXB6&pd_rd_wg=hkXtD&pf_rd_p=fb1e266d-b690-4b4f-b71c-bd35e5395976&pf_rd_r=4Q9DVDPMPNDQM602R2DK&psc=1&refRID=4Q9DVDPMPNDQM602R2DK)
+10. Книга [Cracking The Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850)
+
 ### Неструктурированная информация
 
 4 толковых канала на Youtube про технические собеседования
