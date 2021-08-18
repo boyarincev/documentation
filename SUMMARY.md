@@ -77,4 +77,5 @@
 * [F\#](f.md)
 * [Psycho](psycho.md)
 * [Заметочники](zametochniki.md)
+* [Retropie](retropie.md)
 
