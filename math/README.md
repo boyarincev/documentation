@@ -6,3 +6,7 @@
 
 Лучшая книга по исчислению [https://activecalculus.org/](https://activecalculus.org/)
 
+Серия видео с подготовкой по экзамену по математике в Академию Больших Данных Mail.ru \(MADE\) [https://www.youtube.com/playlist?list=PLr2Q9MjXijtiOG90KBMFyZuO7uAsAId0h](https://www.youtube.com/playlist?list=PLr2Q9MjXijtiOG90KBMFyZuO7uAsAId0h)
+
+
+
