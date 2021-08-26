@@ -126,7 +126,7 @@ Senior Engineer в поисках работы. Как я прошел 15 тех
 9. Книга [Designing Data-Intensive Applications](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321/ref=pd_lpo_14_img_0/136-6629283-9009906?_encoding=UTF8&pd_rd_i=1449373321&pd_rd_r=3c536e21-9782-455c-9308-2ac6b6916af1&pd_rd_w=QEXB6&pd_rd_wg=hkXtD&pf_rd_p=fb1e266d-b690-4b4f-b71c-bd35e5395976&pf_rd_r=4Q9DVDPMPNDQM602R2DK&psc=1&refRID=4Q9DVDPMPNDQM602R2DK)
 10. Книга [Cracking The Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850)
 
-### Неструктурированная информация
+## Неструктурированная информация
 
 4 толковых канала на Youtube про технические собеседования
 
@@ -183,6 +183,12 @@ Senior Engineer в поисках работы. Как я прошел 15 тех
 > Армия функций, различия let, const, var
 >
 > Все это с примерами в коде, чтобы было понимание.
+
+{% embed url="https://habr.com/ru/post/563188/" %}
+
+{% embed url="https://habr.com/ru/post/564852/" %}
+
+
 
 ## Вопросы на собеседовании со стороны собеседуемого
 

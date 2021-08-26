@@ -8,5 +8,11 @@
 
 Серия видео с подготовкой по экзамену по математике в Академию Больших Данных Mail.ru \(MADE\) [https://www.youtube.com/playlist?list=PLr2Q9MjXijtiOG90KBMFyZuO7uAsAId0h](https://www.youtube.com/playlist?list=PLr2Q9MjXijtiOG90KBMFyZuO7uAsAId0h)
 
+{% embed url="https://intuitiveexplanations.com/assets/CalculusIntuitiveExplanations.pdf" %}
+
+Да\)\) я считаю это хорошее начало\) сейчас выложу в чат хорошую книгу по математике для ML \(в ней собраны все основные топики\), только она на английском
+
+{% embed url="https://mml-book.github.io/book/mml-book.pdf" %}
+
 
 

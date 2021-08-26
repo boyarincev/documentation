@@ -78,4 +78,5 @@
 * [Psycho](psycho.md)
 * [Заметочники](zametochniki.md)
 * [Retropie](retropie.md)
+* [Soft](soft.md)
 
