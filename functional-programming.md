@@ -32,11 +32,5 @@
 
 И можно купить [https://leanpub.com/composingsoftware](https://leanpub.com/composingsoftware)
 
-Хорошая статья про Монады \(использует C\# для примера\)
-
-{% embed url="https://habr.com/ru/post/490112/" %}
-
-
-
 
 
