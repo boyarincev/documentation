@@ -8,5 +8,3 @@
 
 {% embed url="https://habr.com/ru/company/clrium/blog/466097/" %}
 
-
-

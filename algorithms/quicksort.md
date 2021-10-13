@@ -4,5 +4,3 @@
 
 {% embed url="https://cs.stackexchange.com/questions/11458/quicksort-partitioning-hoare-vs-lomuto" %}
 
-
-

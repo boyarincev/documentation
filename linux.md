@@ -1,8 +1,8 @@
 # Linux
 
-Очистка диска от данных: [https://wiki.archlinux.org/index.php/Securely\_wipe\_disk](https://wiki.archlinux.org/index.php/Securely_wipe_disk)
+Очистка диска от данных: [https://wiki.archlinux.org/index.php/Securely_wipe_disk](https://wiki.archlinux.org/index.php/Securely_wipe_disk)
 
-```text
+```
 shred -v /dev/sd # очистить диск
 shred -v file1.txt file2.jpg file3.doc # очистить указанные файлы
 ```
@@ -13,11 +13,11 @@ shred -v file1.txt file2.jpg file3.doc # очистить указанные ф�
 
 ### Working With Processes
 
-Ctrl+C: Interrupt \(kill\) the current foreground process running in in the terminal. This sends the SIGINT signal to the process, which is technically just a request—most processes will honor it, but some may ignore it.
+Ctrl+C: Interrupt (kill) the current foreground process running in in the terminal. This sends the SIGINT signal to the process, which is technically just a request—most processes will honor it, but some may ignore it.
 
-Ctrl+Z: Suspend the current foreground process running in bash. This sends the SIGTSTP signal to the process. To return the process to the foreground later, use the fg process\_name command.
+Ctrl+Z: Suspend the current foreground process running in bash. This sends the SIGTSTP signal to the process. To return the process to the foreground later, use the fg process_name command.
 
-Ctrl+D: Close the bash shell. This sends an EOF \(End-of-file\) marker to bash, and bash exits when it receives this marker. This is similar to running the exit command.
+Ctrl+D: Close the bash shell. This sends an EOF (End-of-file) marker to bash, and bash exits when it receives this marker. This is similar to running the exit command.
 
 ### Controlling the Screen
 
@@ -33,13 +33,13 @@ Ctrl+A or Home: Go to the beginning of the line.
 
 Ctrl+E or End: Go to the end of the line.
 
-Alt+B: Go left \(back\) one word.
+Alt+B: Go left (back) one word.
 
-Ctrl+B: Go left \(back\) one character.
+Ctrl+B: Go left (back) one character.
 
-Alt+F: Go right \(forward\) one word.
+Alt+F: Go right (forward) one word.
 
-Ctrl+F: Go right \(forward\) one character.
+Ctrl+F: Go right (forward) one character.
 
 Ctrl+XX: Move between the beginning of the line and the current position of the cursor. This allows you to press Ctrl+XX to return to the start of the line, change something, and then press Ctrl+XX to go back to your original cursor position. To use this shortcut, hold the Ctrl key and tap the X key twice.
 
@@ -109,10 +109,10 @@ Mail -s "Subject" to-address < Filename # Перенаправление вво�
 
 Каждый файл имеет его Файловый Дескриптор. Когда команда запускается в терминале всегда существуют три файла: стандартный ввода, стандартный вывод, стандартные ошибки, эти файлы имеют следующие файловые дескрипторы:
 
-|  |  |
-| :--- | :--- |
-| Стандартный ввод STDOUT | 0 |
-| Стандартный вывод STDIN | 1 |
+|                           |   |
+| ------------------------- | - |
+| Стандартный ввод STDOUT   | 0 |
+| Стандартный вывод STDIN   | 1 |
 | Стандартные ошибки STDERR | 2 |
 
 По-умолчанию эти файлы подключены к терминалу. К этим фйловым дескрипторам можно обращаться, чтобы перенаправить их в другие файлы.
@@ -127,7 +127,7 @@ ls Documents ABC 2>&1 >dirlist # Перенаправить ошибки туд�
 
 Перенаправления работают с файлами, если же нужно напрямую соединить вывод одной команды и вход другой, то для этого нужно использовать pipe.
 
-```text
+```
 cat filename | less 
 cat Filename | pg 
 cat Filename | more
@@ -163,7 +163,7 @@ ps aux # Все процессы запущенные под всеми поль
 
 ### history
 
-```text
+```
 history # выводить список последних команд в истории
 history | grep cd # поиск в истории
 !8 # выполнить восьмой номер в истории
@@ -177,8 +177,8 @@ Alt+r - если в команду полученную из историю вн
 
 #### Поиск в истории, если начал набирать часть команды, но понял, что она есть в истории
 
-1. Перейти в начало строки \(Ctrl+a\)
-2. Нажать Ctrl+r \(это начнёт поиск в истории и скоприует в буфер обмена всё что после курсора\)
+1. Перейти в начало строки (Ctrl+a)
+2. Нажать Ctrl+r (это начнёт поиск в истории и скоприует в буфер обмена всё что после курсора)
 3. Нажать Ctrl+y - это введёт набранную команду в поиск из буфера обмена
 4. Нажимая Ctrl+r можно передвигаться назад в истории
 
@@ -194,7 +194,7 @@ Alt+r - если в команду полученную из историю вн
 sudo nano /etc/systemd/system/kestrel-helloapp.service
 ```
 
-```text
+```
 [Unit]
 Description=Example .NET Web API App running on Ubuntu
 
@@ -232,7 +232,7 @@ sudo journalctl -fu kestrel-helloapp.service --since "2016-10-18" --until "2016-
 sudo journalctl -fu kestrel-helloapp.service --since today --until 1 hour ago
 ```
 
-## Firewall \(ufw\)
+## Firewall (ufw)
 
 ```bash
 sudo apt-get install ufw
@@ -263,9 +263,9 @@ sudo ufw delete  5 # удалить правило по номеру
 
 ## Fail2Ban
 
-[Основная статья](https://community.vscale.io/hc/ru/community/posts/211756429-Использование-fail2ban-для-защиты-SSH-от-подбора-пароля) по установке и настройке
+[Основная статья](https://community.vscale.io/hc/ru/community/posts/211756429-%D0%98%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-fail2ban-%D0%B4%D0%BB%D1%8F-%D0%B7%D0%B0%D1%89%D0%B8%D1%82%D1%8B-SSH-%D0%BE%D1%82-%D0%BF%D0%BE%D0%B4%D0%B1%D0%BE%D1%80%D0%B0-%D0%BF%D0%B0%D1%80%D0%BE%D0%BB%D1%8F) по установке и настройке
 
-```text
+```
 sudo service fail2ban restart # перезапуск сервиса
 tail -n 20 -f /var/log/fail2ban.log # просмотр логов
 ```
@@ -286,9 +286,9 @@ $ sudo journalctl -fu ssh # Просмотр журнала ssh
 
 В конфиге ssh клиента можно указать какой ключ использовать для определённого клиента
 
-Редактируем \`~/.ssh/config\`
+Редактируем \`\~/.ssh/config\`
 
-```text
+```
 Host server1.nixcraft.com
   IdentityFile ~/backups/.ssh/id_dsa
 Host server2.nixcraft.com
@@ -310,9 +310,9 @@ sudo chmod a-w /etc/ssh/sshd_config.original
 passwd root # У рута должен быть пароль
 ```
 
-Редактируем конфиг /etc/ssh/sshd\_config
+Редактируем конфиг /etc/ssh/sshd_config
 
-```text
+```
 PermitRootLogin yes
 PermitRootLogin prohibit-password # Запретить вход по паролю, но оставить по ключу
 ```
@@ -367,4 +367,3 @@ $ # копируем директорию с удалённого хоста н�
 $ scp -i ~/.ssh/id_rsa file username@to_host:/remote/directory 
 $ # с указанием ключа, который нужно использовать при подключении
 ```
-

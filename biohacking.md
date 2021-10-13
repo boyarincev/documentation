@@ -8,5 +8,3 @@
 
 {% embed url="https://www.mediasphera.ru/issues/zhurnal-nevrologii-i-psikhiatrii-im-s-s-korsakova/2018/11/downloads/ru/1199772982018111118" %}
 
-
-

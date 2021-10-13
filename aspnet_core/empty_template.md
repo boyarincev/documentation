@@ -1,7 +1,3 @@
----
-parent: ASP.NET Core
----
-
 # Empty Template
 
 ## Добавление кодогенерации и миграций ЕФ.
@@ -36,6 +32,5 @@ parent: ASP.NET Core
   },
 ```
 
-Кодогенерация доступна из контекстного меню.  
+Кодогенерация доступна из контекстного меню.\
 Для миграций используется `dotnet ef` [команда](https://docs.efproject.net/en/latest/cli/dotnet.html).
-

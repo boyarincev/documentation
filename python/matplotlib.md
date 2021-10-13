@@ -12,5 +12,4 @@
 
 ## [How to plot vectors in python using matplotlib](https://stackoverflow.com/questions/42281966/how-to-plot-vectors-in-python-using-matplotlib)
 
-## 
-
+##

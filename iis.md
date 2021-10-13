@@ -2,11 +2,11 @@
 
 ## Права на папку
 
-IIS AppPool\DefaultAppPool \(DefaultAppPool - название пула\)
+IIS AppPool\DefaultAppPool (DefaultAppPool - название пула)
 
-[Cчетчики производительности ASP.NET \(во многом устарело\)](https://msdn.microsoft.com/en-us/library/ms972959.aspx)
+[Cчетчики производительности ASP.NET (во многом устарело)](https://msdn.microsoft.com/en-us/library/ms972959.aspx)
 
-[Еще счетчики производительности ASP.NET](https://msdn.microsoft.com/en-us/library/fxk122b4.aspx) \(тоже устаревшее\)
+[Еще счетчики производительности ASP.NET](https://msdn.microsoft.com/en-us/library/fxk122b4.aspx) (тоже устаревшее)
 
 [Настройка Потоков для Application Pool](https://blogs.msdn.microsoft.com/tmarq/2007/07/20/asp-net-thread-usage-on-iis-7-5-iis-7-0-and-iis-6-0/) - Там рассказывается как обрабатываются запросы, может быть полезно, но настройка похоже не имеет уже никакого смысла, по умолчанию все включено на максимум, а не серверные Оси несмотря на это все-равно имеют ограничение на количество обрабатываемых одновременно запросов.
 
@@ -19,4 +19,3 @@ IIS AppPool\DefaultAppPool \(DefaultAppPool - название пула\)
 [Таблица](http://jpelectron.com/sample/WWW%20and%20HTML/IIS-%20OS%20Version%20Limits.htm) показывающая сколько каждая ВиндоОсь может обрабатывать одновременных запросов в IIS
 
 [Вопрос на stackoverflow](https://stackoverflow.com/questions/2147351/does-iis-7-have-limit-of-simultaneous-requests) о количестве одновременно обрабатываемых запросов на IIS
-

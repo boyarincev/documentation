@@ -2,7 +2,7 @@
 
 ## Блоги
 
-Обзор движков для блогов \(в основном static site generator\)
+Обзор движков для блогов (в основном static site generator)
 
 {% embed url="https://habr.com/ru/company/ruvds/blog/501012/" %}
 
@@ -38,9 +38,7 @@
 
 {% embed url="https://www.canva.com/" %}
 
-Ещё один сервис \(но у меня глючит, после поиска картинки\)
+Ещё один сервис (но у меня глючит, после поиска картинки)
 
 {% embed url="https://pablo.buffer.com/" %}
-
-
 

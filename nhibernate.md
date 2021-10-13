@@ -5,10 +5,10 @@
 ## Настройка маппинга сущностей
 
 * cascade="none" - значение по умолчанию. Hibernate будет игнорировать ассоциации, поэтому разруливать зависимости придется самостоятельно.
-* cascade="save-update" говорит Hibernate'у, что разруливать зависимости необходимо при комите транзакции в которой делается save\(\) или update\(\) объекта. Суть разруливания заключается в том, что новые объекты, с которыми есть ассоциации у нашего, будут сохранены до него. Это позволяет обойти constraint-violations.
+* cascade="save-update" говорит Hibernate'у, что разруливать зависимости необходимо при комите транзакции в которой делается save() или update() объекта. Суть разруливания заключается в том, что новые объекты, с которыми есть ассоциации у нашего, будут сохранены до него. Это позволяет обойти constraint-violations.
 * cascade="delete" говорит Hibernate'у, что надо разруливать зависимости при удалении объекта.
 * cascade="all" обозначает выполнение каскадных операций при save-update и delete.
-* cascade="all-delete-orphan" обозначает то же самое, что и cascade="all", но к тому же Hibernate удаляет любые связанные сущности, удаленные из ассоциации \(например, из коллекции\).
+* cascade="all-delete-orphan" обозначает то же самое, что и cascade="all", но к тому же Hibernate удаляет любые связанные сущности, удаленные из ассоциации (например, из коллекции).
 * cascade="delete-orphan" обозначает, что Hibernate будет удалять любые сущности, которые были удалены из ассоциации.
 
 [Источник](http://samolisov.blogspot.com/2009/02/hibernate.html)
@@ -24,4 +24,3 @@
 ## Queries
 
 [http://www.martinwilley.com/net/code/nhibernate/query.html](http://www.martinwilley.com/net/code/nhibernate/query.html) [http://www.martinwilley.com/net/code/nhibernate/query2.html](http://www.martinwilley.com/net/code/nhibernate/query2.html)
-

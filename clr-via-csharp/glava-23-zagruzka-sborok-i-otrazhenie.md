@@ -1,13 +1,8 @@
----
-book: 'CLR via C#'
-tags: synopsis
----
-
 # Глава 23. Загрузка сборок и отражение
 
 Загрузить сборку в домен
 
-```text
+```
 Assembly.Load(...)
 ```
 
@@ -27,20 +22,20 @@ Assembly.Load(...)
 
 ## Типы определённые в сборке
 
-```text
+```
 Assembly a = Assembly.Load(...);
 a.ExportedTypes;
 ```
 
 Type - это ссылка на тип, он содержит минимум информации
 
-```text
+```
 object.GetType();
 ```
 
 Более полная информация содержится в TypeInfo
 
-```text
+```
 using System.Reflection.IntrispectionExtensions
 
 Type type = object.GetType();
@@ -53,7 +48,7 @@ TypeInfo typeInfo = type.GetTypeInfo();
 
 Используя тип Type можно создать экземпляр этого типа
 
-```text
+```
 //Статические методы
 System.Activator.CreateInstance(...); //передаёт Type
 System.Activator.CreateInstanceFrom();
@@ -86,7 +81,7 @@ Object o = Activator.CreateInstance(closeType);
 
 ## Нахождение членов типа путём отражения
 
-```text
+```
 AppDomain.CurrentDomain.GetAssemblies(); //Сборки в текущем домене
 assembly.ExportedTypes //типы в сборке
 type.GetTypeInfo().DeclaredMembers // члены типа
@@ -107,7 +102,7 @@ TypeInfo содержит много методов для получения к
 * PropertyInfo
 * EventInfo
 
-Последние четыре, также содержат метод GetParameterInfo\(\) и из него можно получить массив объектов ParameterInfo.
+Последние четыре, также содержат метод GetParameterInfo() и из него можно получить массив объектов ParameterInfo.
 
 ### Обращения к членам типов
 
@@ -119,13 +114,13 @@ MethodInfo - Invoke
 
 PropertyInfo - GetValue, SetValue
 
-EventInfo - Add\(Remove\)EventHandler
+EventInfo - Add(Remove)EventHandler
 
 #### Второй вариант обращения
 
-Методы \(конструкторы, свойства и т.д.\) можно получить как делегаты и вызвать их.
+Методы (конструкторы, свойства и т.д.) можно получить как делегаты и вызвать их.
 
-```text
+```
 propertyInfo.SetMethod.CreateDelegate()
 ```
 
@@ -133,7 +128,7 @@ propertyInfo.SetMethod.CreateDelegate()
 
 Типы Type и MemberInfo занимают много места в памяти, поэтому вместо них можно использовать облегченные объекты занимающие меньше памяти.
 
-```text
+```
 RuntimeTypeHandle
 RuntimeFieldHandle
 RuntimeMethodHandle
@@ -141,11 +136,10 @@ RuntimeMethodHandle
 
 это значимые типы, содержащие только IntPtr - это дескриптор, ссылающийся на тип, поле или метод в куче загрузчика домена.
 
-```text
+```
 runtimeTypeHanlde = Type.GetTypeHandle(type); // обращение к типу
 runtimeFieldHandle = fieldInfo.FieldHandle; //обращение к экземпляру
 fieldInfo = FieldInfo.GetTypeFromHandle(runtimeFieldHandle);
 runtimeMethodHandle = methodInfo.MethodHandle;
 methodInfo = MethodInfo.GetMethodFromHandle(runtimeMethodHandle);
 ```
-

@@ -4,5 +4,3 @@
 
 {% embed url="https://github.com/meleu/RetroPie-joystick-selection" %}
 
-
-

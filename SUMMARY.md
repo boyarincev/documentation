@@ -74,11 +74,11 @@
 * [Social Media and Blogs](social-media-and-blogs.md)
 * [Visual Studio Code](visual-studio-code-1.md)
 * [WinDbg](windbg.md)
-* [F\#](f.md)
+* [F#](f.md)
 * [Psycho](psycho.md)
 * [Заметочники](zametochniki.md)
 * [Retropie](retropie.md)
 * [Soft](soft.md)
 * [DataBases](databases.md)
 * [Biohacking](biohacking.md)
-
+* [Электроника](elektronika.md)

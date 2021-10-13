@@ -2,7 +2,7 @@
 
 ## Модули
 
-```text
+```
 import re #обращение будет через префикс re
 reg = re.compile([0-9])
 
@@ -14,7 +14,7 @@ from collections import defaultdict, Counter #импорт только нужн
 
 ## Функции
 
-```text
+```
 y = lambda x: x+4 #пример использования лямбд
 
 def my_print(message='сообщение по умолчанию') #дефолтное значение параметра
@@ -25,20 +25,20 @@ my_print(message='другое сообщение') #при вызове мож�
 
 ## Исключения
 
-```text
+```
 try
     print(0 / 0)
 except ZeroDivisionError
     print('Нельзя делить на ноль')
 ```
 
-## Slicing \(работает на списках и на строках и на чём-нибудь ещё\)
+## Slicing (работает на списках и на строках и на чём-нибудь ещё)
 
 [https://stackoverflow.com/a/509295/5402731](https://stackoverflow.com/a/509295/5402731)
 
 It's pretty simple really:
 
-```text
+```
 a[start:stop]  # items start through stop-1
 a[start:]      # items start through the rest of the array
 a[:stop]       # items from the beginning through stop-1
@@ -47,11 +47,11 @@ a[:]           # a copy of the whole array
 
 There is also the `step` value, which can be used with any of the above:
 
-```text
+```
 a[start:stop:step] # start through not past stop, by step
 ```
 
-The key point to remember is that the `:stop` value represents the first value that is _not_ in the selected slice. So, the difference between `stop` and `start` is the number of elements selected \(if `step` is 1, the default\).
+The key point to remember is that the `:stop` value represents the first value that is _not_ in the selected slice. So, the difference between `stop` and `start` is the number of elements selected (if `step` is 1, the default).
 
 ## Looping cheat sheet
 
@@ -75,22 +75,21 @@ for header, rows in zip(headers, columns):
 
 Loop over a list while keeping track of indexes with enumerate:
 
-```text
+```
 for num, line in enumerate(lines):
     print("{0:03d}: {}".format(num, line))
 ```
 
 Range of length
 
-```text
-
+```
 ```
 
 ## Списки
 
 {% embed url="https://pythonworld.ru/tipy-dannyx-v-python/spiski-list-funkcii-i-metody-spiskov.html" %}
 
-```text
+```
 x[-1] #последний элемент
 x[:] #копирование списка
 
@@ -104,7 +103,7 @@ y.append(7) #добавить элемент в список
 z, w  = [1, 2] #распаковка списка - если известно количество элементов
 ```
 
-```text
+```
 list.insert(index, val)
 ```
 
@@ -114,13 +113,13 @@ list.insert(index, val)
 
 Клонировать список: [https://stackoverflow.com/questions/2612802/how-to-clone-or-copy-a-list](https://stackoverflow.com/questions/2612802/how-to-clone-or-copy-a-list)
 
-Разбор нюансов использования индексаторов: [https://towardsdatascience.com/the-basics-of-indexing-and-slicing-python-lists](https://towardsdatascience.com/the-basics-of-indexing-and-slicing-python-lists-2d12c90a94cf) \(степпинг, слайсинг - это всё\)
+Разбор нюансов использования индексаторов: [https://towardsdatascience.com/the-basics-of-indexing-and-slicing-python-lists](https://towardsdatascience.com/the-basics-of-indexing-and-slicing-python-lists-2d12c90a94cf) (степпинг, слайсинг - это всё)
 
 ## Кортежи
 
 Можно назвать неизменяемыми списками. Можно использовать для возврата из функции нескольких значений.
 
-```text
+```
 my_tuple = (1, 2)
 my_tuple = 1, 2 #так тоже можно создать
 ```
@@ -135,7 +134,7 @@ my_tuple = 1, 2 #так тоже можно создать
 
 [https://docs.python.org/3/howto/sorting.html](https://docs.python.org/3/howto/sorting.html)
 
-```text
+```
 x = [4, 1, 2, 3]
 #Отсортировать список и поместить результат в новый список
 y = sorted(x)
@@ -155,7 +154,7 @@ x.sort(key=abs)
 
 Для проверки наличия ключа в словаре можно использовать оператор `in`
 
-```text
+```
 dict = {}
 #попробовать получить значение по ключу, 
 #а если его нет, то вернуть дефолтное значение
@@ -170,16 +169,16 @@ dictVal = dict.get('key', 0)
 
 При попытке получить из него значение, для ключа, который ещё не добавлялся, будет использовать функцию без параметров, используемую при создании словаря, для добавления в словарь ключа со значением, которое возвратит эта функция
 
-```text
+```
 from collections import defaultdict
 dd_list = defaultdict(list) #будет инициировать пустым список
 ```
 
 ### Словарь Counter
 
-Трансформирует последовательность в словарь, где ключам будут поставлены в соответствие частотности \(сколько раз этот элемент встречается в последовательности\).
+Трансформирует последовательность в словарь, где ключам будут поставлены в соответствие частотности (сколько раз этот элемент встречается в последовательности).
 
-```text
+```
 from collections import Counter
 c = Counter(0, 1, 2, 3)
 
@@ -188,24 +187,24 @@ for number, count in c.most_common(2):
     print(str(number), count)
 ```
 
-## Set \(Множества\)
+## Set (Множества)
 
 Совокупность неупорядоченных элементов без повторов
 
-{% embed url="https://docs.python.org/3/library/stdtypes.html\#set-types-set-frozenset" %}
+{% embed url="https://docs.python.org/3/library/stdtypes.html#set-types-set-frozenset" %}
 
-```text
+```
 s = set()
 s.add(1)
 ```
 
 ## Membership test operations
 
-{% embed url="https://docs.python.org/3/reference/expressions.html\#membership-test-operations" %}
+{% embed url="https://docs.python.org/3/reference/expressions.html#membership-test-operations" %}
 
 Присутствие элемента в списке можно проверить с помощью `in`
 
-```text
+```
 if x in s:
     
 ```
@@ -227,7 +226,7 @@ if x in s:
 
 ## Генераторы последовательностей
 
-```text
+```
 even_num_squares = [x * x for x in range(100) if x % 2 == 0]
 
 even_num_squares_dict = {x : x * x for x in range(100) if x % 2 == 0}
@@ -243,7 +242,7 @@ lazy_evens_below_20 = (i for i in range(20) if i % 2 == 0)
 
 ## Случайные числа
 
-```text
+```
 import random
 
 four_uniform_randov = [random.random() for _ in range(4)]
@@ -273,13 +272,13 @@ random.sample(lottery_numbers, 6)
 
 ## Регулярные выражения
 
-```text
+```
 import re
 ```
 
 ## Объектно-ориентированное программирование
 
-```text
+```
 class Set:
     def __init__(self, values=None):
     #это конструктор
@@ -304,7 +303,7 @@ s.add(4)
 
 ## Функциональное программирование
 
-```text
+```
 def exp(base, power)
     return base ** power
     
@@ -317,7 +316,7 @@ two_to_the = partial(exp, 2)
 
 Позволяют обращаться к переменным функции, либо как к кортежу, либо как к словарю.
 
-```text
+```
 def magic(*args, **kwargs):
     print('безымянные аргументы, как кортеж:', args)
     print('аргументы по ключу:', kwargs)
@@ -331,7 +330,7 @@ magic(1, 2, key='word', key2='word2')
 
 Позволяют обернуть функцию с произвольным количеством аргументов.
 
-```text
+```
 def doubler(f):
     #получает параметры как кортеж
     def g(*args):
@@ -353,7 +352,7 @@ print(f2_doubler(1, 2))
 
 ### all и any
 
-```text
+```
 all[True, False]) #Возвращает True, если все элементы списка истинны
 any([True, False]) #Любой элемент истинен
 
@@ -365,7 +364,7 @@ andOp = True and False
 
 ### map
 
-```text
+```
 def double(x):
     return x*2
     
@@ -380,7 +379,7 @@ products = map(multiply, [1, 2], [4, 5]) # [4, 10]
 
 ### filter
 
-```text
+```
 def is_even(x): return x % 2 == 0
 
 x_evens = filter(is_even, range(100))
@@ -390,7 +389,7 @@ x_evens = filter(is_even, range(100))
 
 Выполняет свертку списка: объединяет первые два элемента, затем полученный результат со следующим элементов и так до конца, в результате в конце получается единственное значение, как результат
 
-```text
+```
 from functools import reduce
 
 x_product = reduce(lambda x, y: x * y, range(100))
@@ -400,7 +399,7 @@ x_product = reduce(lambda x, y: x * y, range(100))
 
 Позволяет итерировать по списку, зная индекс элемента
 
-```text
+```
 docs = []
 for index, doc in enumerate(docs):
     do_something(index, doc)
@@ -408,9 +407,9 @@ for index, doc in enumerate(docs):
 
 ### zip
 
-Объединяет два \(и более\) списка и возвращает список кортежей, где каждый кортеж это объединение соответствущих элементов из обоих списков.
+Объединяет два (и более) списка и возвращает список кортежей, где каждый кортеж это объединение соответствущих элементов из обоих списков.
 
-```text
+```
 list1 = [1, 2, 3]
 list2 = [a, b, c]
 
@@ -421,10 +420,9 @@ list(zip(list2, list1)) #[(a, 1), (b, 2), (c, 3)]
 
 Разъеденить список можно используя \*
 
-```text
+```
 pairs = [(a, 1), (b, 2), (c, 3)]
 #*pairs - распакует список и передаст в функцию каждый элемент
 #как отдельный параметр
 list(zip(*pairs)) # [(a, b, c), (1, 2, 3)]
 ```
-

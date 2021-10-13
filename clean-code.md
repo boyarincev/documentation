@@ -12,5 +12,3 @@
 
 {% embed url="http://jackofshadows.blogspot.com/" %}
 
-
-

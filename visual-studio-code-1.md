@@ -4,14 +4,14 @@
 
 {% embed url="https://docs.microsoft.com/ru-ru/dotnet/core/tutorials/with-visual-studio-code" %}
 
-```text
+```
 dotnet new console
 dotnet run
 ```
 
 ## Добавление нугет-пакета в проект
 
-```text
+```
 dotnet add package Newtonsoft.Json
 ```
 
@@ -25,7 +25,7 @@ dotnet add package Newtonsoft.Json
 
 ## Запуск в релизе
 
-```text
+```
 dotnet build -c release //собрать в релизе
 dotnet run -c release //запустить в релизе
 ```
@@ -37,8 +37,6 @@ dotnet run -c release //запустить в релизе
 Другие варианты
 
 {% embed url="https://stackoverflow.com/q/47854962/5402731" %}
-
-
 
 
 
