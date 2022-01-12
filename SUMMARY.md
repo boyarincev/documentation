@@ -2,9 +2,9 @@
 
 * [Introduction](README.md)
 * [NHibernate](nhibernate.md)
-* [Asp.Net Core](aspnet_core/README.md)
-  * [Empty Template](aspnet_core/empty_template.md)
-  * [Entity Framework](aspnet_core/entity_framework_core.md)
+* [Asp.Net Core](aspnet\_core/README.md)
+  * [Empty Template](aspnet\_core/empty\_template.md)
+  * [Entity Framework](aspnet\_core/entity\_framework\_core.md)
 * [IIS](iis.md)
 * [PostgreSQL](postgresql.md)
 * [Quartz.NET](qurtznet.md)
@@ -82,3 +82,4 @@
 * [DataBases](databases.md)
 * [Biohacking](biohacking.md)
 * [Электроника](elektronika.md)
+* [Graylog](graylog.md)
