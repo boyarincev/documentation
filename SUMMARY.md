@@ -86,3 +86,6 @@
 * [Zettelkasten](zettelkasten.md)
 * [Рациональность](racionalnost.md)
 * [Summarizing Books](summarizing-books.md)
+* [Вентиляция](ventilyaciya.md)
+* [English](english.md)
+* [Redis](redis.md)
