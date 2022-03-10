@@ -12,7 +12,20 @@
 
 [Презентация как работает MVCC в постгресе](http://momjian.us/main/writings/pgsql/mvcc.pdf)
 
-[Презентация как организована память в постгресе](http://momjian.us/main/writings/pgsql/inside_shmem.pdf)
+[Презентация как организована память в постгресе](http://momjian.us/main/writings/pgsql/inside\_shmem.pdf)
+
+## Обучение
+
+PostgreSQL 10. Оптимизация запросов
+
+{% embed url="https://postgrespro.ru/education/courses/QPT" %}
+\
+Курс по оптимизации запросов
+{% endembed %}
+
+Серия статей Запросы в PostgreSQL (как устроено выполнение запросов)
+
+{% embed url="https://habr.com/ru/company/postgrespro/blog/574702" %}
 
 ## Psql
 
@@ -56,7 +69,7 @@ SELECT * FROM pg_stat_activity;
 
 [Остальные сборщики статистики PostgreSQL](https://www.postgresql.org/docs/9.6/static/monitoring-stats.html) (pg stat activity выше пример одного из таких сборщиков)
 
-[Системные функции](https://www.postgresql.org/docs/current/static/functions-info.html) дающие доступ к текущей сессии (current_database, current_query и т.д.)
+[Системные функции](https://www.postgresql.org/docs/current/static/functions-info.html) дающие доступ к текущей сессии (current\_database, current\_query и т.д.)
 
 ## Путь до БД сервера
 
@@ -88,7 +101,7 @@ SELECT pg_terminate_backend(pg_stat_activity.pid)
 
 ## Убить все коннекты к базе
 
-You can use [pg_terminate_backend()](http://www.postgresql.org/docs/current/static/functions-admin.html) to kill a connection. You have to be superuser to use this function. This works on all operating systems the same.
+You can use [pg\_terminate\_backend()](http://www.postgresql.org/docs/current/static/functions-admin.html) to kill a connection. You have to be superuser to use this function. This works on all operating systems the same.
 
 ```
 SELECT
@@ -129,7 +142,7 @@ SELECT nextval('data."dim_Perfomance_Load_Dimension_49_id"');
 SELECT * FROM pg_locks
 ```
 
-[pg_locks](https://www.postgresql.org/docs/9.5/static/view-pg-locks.html)
+[pg\_locks](https://www.postgresql.org/docs/9.5/static/view-pg-locks.html)
 
 Вывести больше информации о соединении в котором эта транзакция открыта
 
@@ -138,9 +151,9 @@ SELECT * FROM pg_locks pl LEFT JOIN pg_stat_activity psa
     ON pl.pid = psa.pid;
 ```
 
-колонка "relation" в результирующей таблице указывает на таблицу [pg_class](https://www.postgresql.org/docs/9.5/static/catalog-pg-class.html) в которой можно посмотреть, что за ресурс заблокирован.
+колонка "relation" в результирующей таблице указывает на таблицу [pg\_class](https://www.postgresql.org/docs/9.5/static/catalog-pg-class.html) в которой можно посмотреть, что за ресурс заблокирован.
 
-Запрос в pgclass по идентификатору из таблицы pg_locks
+Запрос в pgclass по идентификатору из таблицы pg\_locks
 
 ```
 SELECT * FROM pg_class WHERE oid = 359894
