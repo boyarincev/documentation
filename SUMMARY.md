@@ -83,3 +83,6 @@
 * [Biohacking](biohacking.md)
 * [Электроника](elektronika.md)
 * [Graylog](graylog.md)
+* [Zettelkasten](zettelkasten.md)
+* [Рациональность](racionalnost.md)
+* [Summarizing Books](summarizing-books.md)
