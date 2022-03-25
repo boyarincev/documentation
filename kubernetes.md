@@ -49,5 +49,14 @@ kubectl  -n oms-stage get cm backend-env -o yaml
 kubectl -n oms-stage top pod
 ```
 
+### Helm
 
+Использует конфиг для kubectl
+
+```
+//Посмотреть релизы
+helm -n oms list
+//Удалить деплой
+helm -n oms delete backend
+```
 
