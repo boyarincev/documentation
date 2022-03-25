@@ -89,3 +89,4 @@
 * [Вентиляция](ventilyaciya.md)
 * [English](english.md)
 * [Redis](redis.md)
+* [Kubernetes](kubernetes.md)
