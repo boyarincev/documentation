@@ -60,3 +60,15 @@ helm -n oms list
 helm -n oms delete backend
 ```
 
+Лучше сразу себе скачай helm и положи рядом с kubectl, чтобы был на всякий случай
+
+Да и просто чтобы релизы смотреть
+
+```
+helm -n oms list
+NAME            NAMESPACE       REVISION        UPDATED                                 STATUS          CHART                   APP VERSION
+backend         oms             2               2022-03-24 05:59:08.46013567 +0000 UTC  failed          oms-backend-0.1.0       1.16.0     
+frontend        oms             1               2022-03-25 14:42:08.496467197 +0000 UTC deployed        oms-front-0.0.1         1.16.0   
+```
+
+[https://github.com/EvgeniyBlinov/bash\_modules/blob/master/kubectl.sh](https://github.com/EvgeniyBlinov/bash\_modules/blob/master/kubectl.sh) - я вот такой скриптик юзаю для bash. Который переключает переменные окружения для kubectl
