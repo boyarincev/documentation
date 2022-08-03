@@ -1,6 +1,14 @@
 # Linux
 
-Очистка диска от данных: [https://wiki.archlinux.org/index.php/Securely_wipe_disk](https://wiki.archlinux.org/index.php/Securely_wipe_disk)
+## Ссылки
+
+Статья-шпаргалка
+
+{% embed url="https://habr.com/ru/company/timeweb/blog/668344/" %}
+
+## Очистка диска
+
+Очистка диска от данных: [https://wiki.archlinux.org/index.php/Securely\_wipe\_disk](https://wiki.archlinux.org/index.php/Securely\_wipe\_disk)
 
 ```
 shred -v /dev/sd # очистить диск
@@ -15,7 +23,7 @@ shred -v file1.txt file2.jpg file3.doc # очистить указанные ф�
 
 Ctrl+C: Interrupt (kill) the current foreground process running in in the terminal. This sends the SIGINT signal to the process, which is technically just a request—most processes will honor it, but some may ignore it.
 
-Ctrl+Z: Suspend the current foreground process running in bash. This sends the SIGTSTP signal to the process. To return the process to the foreground later, use the fg process_name command.
+Ctrl+Z: Suspend the current foreground process running in bash. This sends the SIGTSTP signal to the process. To return the process to the foreground later, use the fg process\_name command.
 
 Ctrl+D: Close the bash shell. This sends an EOF (End-of-file) marker to bash, and bash exits when it receives this marker. This is similar to running the exit command.
 
@@ -310,7 +318,7 @@ sudo chmod a-w /etc/ssh/sshd_config.original
 passwd root # У рута должен быть пароль
 ```
 
-Редактируем конфиг /etc/ssh/sshd_config
+Редактируем конфиг /etc/ssh/sshd\_config
 
 ```
 PermitRootLogin yes
@@ -331,7 +339,7 @@ sudo systemctl restart ssh || systemctl restart sshd || systemctl restart sshd.s
 
 [Настройка ssh на Ubuntu](https://help.ubuntu.com/lts/serverguide/openssh-server.html.en)
 
-[Очень подробно про настройку конфига](https://www.ssh.com/ssh/sshd_config/)
+[Очень подробно про настройку конфига](https://www.ssh.com/ssh/sshd\_config/)
 
 [Как добавить ssh ключи в Putty](https://support.rackspace.com/how-to/log-into-a-linux-server-with-an-ssh-private-key-on-windows/)
 
