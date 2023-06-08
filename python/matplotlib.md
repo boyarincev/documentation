@@ -24,3 +24,17 @@ plt.plot(n, n ** 2, label='$n^2$')
 plt.legend()
 plt.savefig('plot_nlogn_and_n2.png')
 ```
+
+#### Сравниваем отношение двух графиков функций
+
+Сравним f(n)=2n^2 +5n+3 и g(n) = n^2
+
+```python
+import matplotlib.pyplot as plt
+import numpy as np
+
+n = np.linspace(1, 100)
+plt.plot(n, (2 * n ** 2 + 5 * n + 3) / (n ** 2))
+plt.savefig('plot_two_squares_fraction.png')
+```
+
